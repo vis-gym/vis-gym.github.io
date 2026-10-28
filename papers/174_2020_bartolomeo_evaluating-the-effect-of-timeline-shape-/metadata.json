@@ -1,0 +1,13 @@
+{
+  "row": 174,
+  "year": "2020",
+  "first_author": "Sara Di Bartolomeo",
+  "last_author": "Cody Dunne",
+  "paper_title": "Evaluating the Effect of Timeline Shape on Visualization Task Performance",
+  "paper_url": "https://doi.org/10.1145/3313831.3376237",
+  "data_url": "https://osf.io/qr5yu/",
+  "doi": "",
+  "stimuli": "",
+  "participants": "",
+  "abstract": "Timelines are commonly represented on a horizontal line, which is not necessarily the most effective way to visualize temporal event sequences. We believe that no controlled experiments have evaluated how timeline shape influences task performance. We present the design and results of a controlled experiment run on Amazon Mechanical Turk (n = 192) in which we evaluate how timeline shape affects task completion time, correctness, and user preference. We tested 12 combinations of four shapes—horizontal line, vertical line, circle, and spiral—and three data types—recurrent, non-recurrent, and mixed event sequences. We found good evidence that timeline shape meaningfully affects user task completion time but not correctness and that users have a strong shape preference. Building on our results, we present design guidelines for creating effective timeline visualizations based on user task and data types. A free copy of this paper, the evaluation stimuli and data, and code are available at osf.io"
+}

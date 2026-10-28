@@ -1,0 +1,13 @@
+{
+  "row": 115,
+  "year": "2023",
+  "first_author": "Russell Davis",
+  "last_author": "Lane Harrison",
+  "paper_title": "The Risks of Ranking: Revisiting Graphical Perception to Model Individual Differences in Visualization Performance",
+  "paper_url": "https://virtual.ieeevis.org/year/2023/paper_v-tvcg-9978718.html",
+  "data_url": "https://osf.io/8ub7t/?view_only=9be4798797404a4397be3c6fc2a68cc0",
+  "doi": "",
+  "stimuli": "",
+  "participants": "",
+  "abstract": "Graphical perception studies typically measure visualization encoding effectiveness using the error of an “average observer”, leading to canonical rankings of encodings for numerical attributes: e.g., position > area > angle > volume. Yet different people may vary in their ability to read different visualization types, leading to variance in this ranking across individuals not captured by population-level metrics using “average observer” models. One way we can bridge this gap is by recasting classic visual perception tasks as tools for assessing individual performance, in addition to overall visualization performance. In this paper we replicate and extend Cleveland and McGill’s graphical comparison experiment using Bayesian multilevel regression, using these models to explore individual differences in visualization skill from multiple perspectives. The results from experiments and modeling indicate that some people show patterns of accuracy that credibly deviate from the canonical rankings of visualization effectiveness. We discuss implications of these findings, such as a need for new ways to communicate visualization effectiveness to designers, how patterns in individuals’ responses may show systematic biases and strategies in visualization judgment, and how recasting classic visual perception tasks as tools for assessing individual performance may offer new ways to quantify aspects of visualization literacy. Experiment data, source code, and analysis scripts are available at the following repository: https://osf.io/8ub7t/?view_only=9be4798797404a4397be3c6fc2a68cc0."
+}
