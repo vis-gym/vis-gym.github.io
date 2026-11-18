@@ -1,0 +1,1928 @@
+{
+  "files": [
+    {
+      "file": "exp1_main+0.25_out+0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out+0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.25_out-0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out+0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main+0.50_out-0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out+0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.25_out-0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out+0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.25_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.25_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.25_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.25_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.25_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.50_k0.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.50_k1.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.50_k2.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.50_k3.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp1_main-0.50_out-0.50_k4.png",
+      "experiment": "experiment_1",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp1.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out+0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.25_out-0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out+0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main+0.50_out-0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out+0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.25_out-0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out+0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.25_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.25_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.25_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.25_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.25_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.50_k0.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.50_k1.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.50_k2.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.50_k3.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp2_main-0.50_out-0.50_k4.png",
+      "experiment": "experiment_2",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp2.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out+0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.25_out-0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.25, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out+0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main+0.50_out-0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=0.5, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out+0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.25_out-0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.25, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out+0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.25_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.25_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.25_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.25_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.25_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.25, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.50_k0.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=0",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.50_k1.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=1",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.50_k2.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=2",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.50_k3.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=3",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    },
+    {
+      "file": "exp3_main-0.50_out-0.50_k4.png",
+      "experiment": "experiment_3",
+      "condition": "main_slope=-0.5, outliers_slope=-0.5, n_outliers=4",
+      "source": "reconstructed",
+      "origin": "rendered from the actual per-trial dot coordinates recorded in data/osf_bfjsw/OUTLIERS_exp3.xlsx (first trial of this condition, subject 1)",
+      "description": "Rendering of a real experimental stimulus: 18 white dots on black background with unlabeled tick-marked axes, flashed 100 ms in the original study."
+    }
+  ],
+  "gaps": [
+    "data/ (OSF repo osf_bfjsw) holds no rendered stimulus images. Each PNG is rendered from the exact dot coordinates of one recorded trial (first trial of that condition, subject 1); every other trial of the same condition used fresh random noise, so its coordinates differ (all are in the raw Excel files).",
+    "When main_slope == outliers_slope all dots lie around one line, so the k1-k4 files of those conditions show no visible outliers (the paper treats them as equivalent to 0 outliers)."
+  ]
+}

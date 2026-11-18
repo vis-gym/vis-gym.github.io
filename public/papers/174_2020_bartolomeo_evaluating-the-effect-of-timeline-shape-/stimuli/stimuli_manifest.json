@@ -1,0 +1,183 @@
+{
+  "render_window": "1440x900",
+  "files": [
+    {
+      "file": "global_instr.txt",
+      "source": "transcribed",
+      "origin": "data/tutorial/tutorial.pdf, js/tutorial.js, js/landing.js",
+      "description": "Instruction text shown to participants."
+    },
+    {
+      "file": "history_circle.png",
+      "dataset": "history",
+      "shape": "circle",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_circle + datasets/history.csv (first 12 rows)",
+      "description": "Circle timeline of the non-recurrent (invented history, years 912-935) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "history_horizontal.png",
+      "dataset": "history",
+      "shape": "hline",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_hline + datasets/history.csv (first 12 rows)",
+      "description": "Horizontal line timeline of the non-recurrent (invented history, years 912-935) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "history_spiral.png",
+      "dataset": "history",
+      "shape": "spiral",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_spiral + datasets/history.csv (first 12 rows)",
+      "description": "Spiral timeline of the non-recurrent (invented history, years 912-935) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "history_vertical.png",
+      "dataset": "history",
+      "shape": "line",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_line + datasets/history.csv (first 12 rows)",
+      "description": "Vertical line timeline of the non-recurrent (invented history, years 912-935) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "local_instr_choice.txt",
+      "source": "transcribed",
+      "origin": "data/tutorial/tutorial.pdf, js/tutorial.js, js/landing.js",
+      "description": "Instruction text shown to participants."
+    },
+    {
+      "file": "local_instr_click.txt",
+      "source": "transcribed",
+      "origin": "data/tutorial/tutorial.pdf, js/tutorial.js, js/landing.js",
+      "description": "Instruction text shown to participants."
+    },
+    {
+      "file": "local_instr_survey.txt",
+      "source": "transcribed",
+      "origin": "data/tutorial/tutorial.pdf, js/tutorial.js, js/landing.js",
+      "description": "Instruction text shown to participants."
+    },
+    {
+      "file": "plants_circle.png",
+      "dataset": "plants",
+      "shape": "circle",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_circle + datasets/plants.csv (first 12 rows)",
+      "description": "Circle timeline of the recurrent (invented planting schedule, Spring 2018-Winter 2020) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "plants_horizontal.png",
+      "dataset": "plants",
+      "shape": "hline",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_hline + datasets/plants.csv (first 12 rows)",
+      "description": "Horizontal line timeline of the recurrent (invented planting schedule, Spring 2018-Winter 2020) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "plants_spiral.png",
+      "dataset": "plants",
+      "shape": "spiral",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_spiral + datasets/plants.csv (first 12 rows)",
+      "description": "Spiral timeline of the recurrent (invented planting schedule, Spring 2018-Winter 2020) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "plants_vertical.png",
+      "dataset": "plants",
+      "shape": "line",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_line + datasets/plants.csv (first 12 rows)",
+      "description": "Vertical line timeline of the recurrent (invented planting schedule, Spring 2018-Winter 2020) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "schedule_circle.png",
+      "dataset": "schedule",
+      "shape": "circle",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_circle + datasets/schedule.csv (first 12 rows)",
+      "description": "Circle timeline of the mixed (invented weekly schedule, Mon 8 AM-Wed 7 PM) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "schedule_horizontal.png",
+      "dataset": "schedule",
+      "shape": "hline",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_hline + datasets/schedule.csv (first 12 rows)",
+      "description": "Horizontal line timeline of the mixed (invented weekly schedule, Mon 8 AM-Wed 7 PM) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "schedule_spiral.png",
+      "dataset": "schedule",
+      "shape": "spiral",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_spiral + datasets/schedule.csv (first 12 rows)",
+      "description": "Spiral timeline of the mixed (invented weekly schedule, Mon 8 AM-Wed 7 PM) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "schedule_vertical.png",
+      "dataset": "schedule",
+      "shape": "line",
+      "source": "rendered",
+      "origin": "data/Mechanical_Turk_Experiment_Code/js/gen_viz.js:create_line + datasets/schedule.csv (first 12 rows)",
+      "description": "Vertical line timeline of the mixed (invented weekly schedule, Mon 8 AM-Wed 7 PM) dataset, as shown with every test question for this dataset/shape pair."
+    },
+    {
+      "file": "survey_history.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/history_surveypic.png",
+      "description": "Post-test survey image: the non-recurrent (invented history, years 912-935) dataset on all four shapes, shown with the 'easiest to read' preference question."
+    },
+    {
+      "file": "survey_plants.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/plant_surveypic.png",
+      "description": "Post-test survey image: the recurrent (invented planting schedule, Spring 2018-Winter 2020) dataset on all four shapes, shown with the 'easiest to read' preference question."
+    },
+    {
+      "file": "survey_schedule.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/schedule_surveypic.png",
+      "description": "Post-test survey image: the mixed (invented weekly schedule, Mon 8 AM-Wed 7 PM) dataset on all four shapes, shown with the 'easiest to read' preference question."
+    },
+    {
+      "file": "tutorial_1.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/i-1.png",
+      "description": "Tutorial slide 1 of 6 (rendered from tutorial/tutorial.pdf), shown before the test."
+    },
+    {
+      "file": "tutorial_2.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/i-2.png",
+      "description": "Tutorial slide 2 of 6 (rendered from tutorial/tutorial.pdf), shown before the test."
+    },
+    {
+      "file": "tutorial_3.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/i-3.png",
+      "description": "Tutorial slide 3 of 6 (rendered from tutorial/tutorial.pdf), shown before the test."
+    },
+    {
+      "file": "tutorial_4.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/i-4.png",
+      "description": "Tutorial slide 4 of 6 (rendered from tutorial/tutorial.pdf), shown before the test."
+    },
+    {
+      "file": "tutorial_5.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/i-5.png",
+      "description": "Tutorial slide 5 of 6 (rendered from tutorial/tutorial.pdf), shown before the test."
+    },
+    {
+      "file": "tutorial_6.png",
+      "source": "copied",
+      "origin": "data/Mechanical_Turk_Experiment_Code/tutorial/i-6.png",
+      "description": "Tutorial slide 6 of 6 (rendered from tutorial/tutorial.pdf), shown before the test."
+    }
+  ],
+  "gaps": [
+    "No stimulus images in data/: timelines were rendered at run time from js/gen_viz.js at each participant's window size; re-rendered here at 1440x900, so absolute sizes/label spacing differ from what any given participant saw.",
+    "css/style.css (referenced by the experiment HTML) is missing from data/; the spiral's .stroke-text label halo is approximated from the survey screenshots."
+  ]
+}

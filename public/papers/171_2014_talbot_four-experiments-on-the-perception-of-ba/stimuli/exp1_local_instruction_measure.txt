@@ -1,0 +1,1 @@
+make a quick visual judgement of what percent the smaller marked bar is of the larger one. They were instructed that answers should range between 0% and 100%, and that comparisons should be made unaided by fingers, rulers, or other external tools.

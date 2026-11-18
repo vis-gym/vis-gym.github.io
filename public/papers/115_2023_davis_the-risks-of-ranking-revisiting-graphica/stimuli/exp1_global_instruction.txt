@@ -1,0 +1,15 @@
+In the following sections, you will view a series of basic visualization charts (e.g., bar chart, pie chart).
+
+Each chart will have several values on it, with 2 values being marked with dots ●.
+
+You will be asked to select the larger of the 2 values and guess what percentage the smaller value represents of the larger.
+
+At the end, you will be asked several demographic questions.
+
+This experiment should take around 2 hours, with 1200 trials in the main portion. There will be a "break" screen every 60 trials. Please do take a break if needed. However, please do NOT refresh the webpage after you start the experiment.
+
+If you'd like to proceed, please enter your worker ID: [text box]
+
+Before conducting the main experiment, you will see some training trials to familiarize yourself with the experimental task.
+
+Thank you for your participation!

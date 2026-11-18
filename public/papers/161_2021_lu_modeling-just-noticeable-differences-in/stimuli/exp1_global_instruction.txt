@@ -1,0 +1,3 @@
+Participants were asked to provide the best answer possible according to their immediate perception. Participants were encouraged to take a break whenever they got tired.
+
+The experiment had only one type of task: Which object is taller/larger? with two-alternative choices A, and B. Participants were not returned feedback about how they did well in each trial. The participants were notified about their progress on the top-right corner of the interface. Anytime during the experiment, the participants could take a break and later resume the test.

@@ -1,0 +1,6 @@
+What percentage does the smaller value represent of the larger value? (The two selected values are marked with ●.)
+
+[number box] %
+You can press Check Answer to check your response and to advance to the next question.
+[after Check Answer, the feedback text appears beside the chart:]
+Saved. Please click Next or hit enter to move to the next trial.

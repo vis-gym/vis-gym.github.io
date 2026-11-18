@@ -1,0 +1,140 @@
+[
+  {
+    "id": "Human",
+    "label": "Humans",
+    "kind": "human",
+    "responses": "responses.csv",
+    "details": {
+      "recruitment": "Prolific",
+      "source": "GGR/VLAT: 1,135 participants; CALVI: 497; HOLF: 531; HOLF-Multi: 1,743; ChartQA-Human: 50 (25 of 125 items each)"
+    }
+  },
+  {
+    "id": "Salesforce/blip2-flan-t5-xl",
+    "label": "Blip2-FlanT5-4B",
+    "kind": "model",
+    "responses": "responses/blip2-flant5-4b.csv",
+    "hyperparameters": {
+      "top_p": 0.6,
+      "temperature": 1.0,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "8-bit",
+      "prompt": "<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  },
+  {
+    "id": "Salesforce/blip2-flan-t5-xxl",
+    "label": "Blip2-FlanT5-11B",
+    "kind": "model",
+    "responses": "responses/blip2-flant5-11b.csv",
+    "hyperparameters": {
+      "top_p": 1.0,
+      "temperature": 1.0,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "8-bit",
+      "prompt": "<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  },
+  {
+    "id": "llava-hf/llava-1.5-7b-hf",
+    "label": "LLaVA1.5-Vicuna-7B",
+    "kind": "model",
+    "responses": "responses/llava1.5-vicuna-7b.csv",
+    "hyperparameters": {
+      "top_p": 0.4,
+      "temperature": 1.0,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "4-bit (fp16 compute)",
+      "prompt": "<image>\n<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  },
+  {
+    "id": "llava-hf/llava-1.5-13b-hf",
+    "label": "LLaVA1.5-Vicuna-13B",
+    "kind": "model",
+    "responses": "responses/llava1.5-vicuna-13b.csv",
+    "hyperparameters": {
+      "top_p": 1.0,
+      "temperature": 0.4,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "4-bit (fp16 compute)",
+      "prompt": "<image>\n<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  },
+  {
+    "id": "liuhaotian/llava-v1.6-34b",
+    "label": "LLaVA1.6-Yi-34B",
+    "kind": "model",
+    "responses": "responses/llava1.6-yi-34b.csv",
+    "hyperparameters": {
+      "top_p": 1.0,
+      "temperature": 0.4,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "none (llava CLI)",
+      "prompt": "<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  },
+  {
+    "id": "google/pix2struct-chartqa-base",
+    "label": "Pix2Struct-0.3B",
+    "kind": "model",
+    "responses": "responses/pix2struct-0.3b.csv",
+    "hyperparameters": {
+      "top_p": 0.8,
+      "temperature": 1.0,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "8-bit",
+      "prompt": "<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  },
+  {
+    "id": "google/matcha-chartqa",
+    "label": "MatCha-0.3B",
+    "kind": "model",
+    "responses": "responses/matcha-0.3b.csv",
+    "hyperparameters": {
+      "top_p": 0.4,
+      "temperature": 1.0,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "8-bit",
+      "prompt": "<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  },
+  {
+    "id": "GPT-4V",
+    "label": "GPT-4V",
+    "kind": "model",
+    "responses": "responses/gpt-4v.csv",
+    "hyperparameters": {
+      "top_p": 1.0,
+      "temperature": 0.2,
+      "do_sample": true,
+      "max_new_tokens": 270,
+      "runs_per_item": 10,
+      "quantization": "n/a (Azure OpenAI API)",
+      "prompt": "<instructions> <question prompt>"
+    },
+    "source": "top_p/temperature: paper Table 2 (best on VLAT over a grid of temperature 0.2-1.0 at top_p 1.0 and top_p 0.2-1.0 at temperature 1.0); max_new_tokens: paper Methods; quantization/prompt: experiments/model_inference code"
+  }
+]

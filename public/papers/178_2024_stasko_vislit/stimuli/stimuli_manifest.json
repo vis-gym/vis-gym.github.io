@@ -1,0 +1,1394 @@
+{
+ "files": [
+  {
+   "file": "global_instr.txt",
+   "test": null,
+   "source": "transcribed",
+   "origin": "system message in every *_run.py payload",
+   "description": "System message sent with every request"
+  },
+  {
+   "file": "vlat_instructions.txt",
+   "test": "vlat",
+   "source": "transcribed",
+   "origin": "user preface message in the task set's *_run.py payload",
+   "description": "Preface message sent before each vlat question"
+  },
+  {
+   "file": "cqa_instructions.txt",
+   "test": "cqa",
+   "source": "transcribed",
+   "origin": "user preface message in the task set's *_run.py payload",
+   "description": "Preface message sent before each cqa question"
+  },
+  {
+   "file": "cqa_data_instructions.txt",
+   "test": "cqa",
+   "source": "transcribed",
+   "origin": "user preface message in the task set's *_run.py payload",
+   "description": "Preface message sent before each cqa_data question"
+  },
+  {
+   "file": "deceptive_instructions.txt",
+   "test": "deceptive",
+   "source": "transcribed",
+   "origin": "user preface message in the task set's *_run.py payload",
+   "description": "Preface message sent before each deceptive question"
+  },
+  {
+   "file": "titles_instructions.txt",
+   "test": "titles",
+   "source": "transcribed",
+   "origin": "user preface message in the task set's *_run.py payload",
+   "description": "Preface message sent before each titles question"
+  },
+  {
+   "file": "vlat_VLAT_a.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_a.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_b.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_b.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_c.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_c.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_d.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_d.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_e.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_e.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_f.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_f.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_g.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_g.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_h.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_h.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_i.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_i.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_j.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_j.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_k.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_k.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "vlat_VLAT_l.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/VLAT/Images/VLAT_l.png",
+   "description": "vlat chart (main task set)"
+  },
+  {
+   "file": "rep_vlat_VLAT_a.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_a.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_b.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_b.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_c.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_c.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_d.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_d.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_e.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_e.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_f.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_f.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_g.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_g.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_h.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_h.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_i.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_i.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_j.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_j.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_k.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_k.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "rep_vlat_VLAT_l.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/VLAT/Images/VLAT_l.png",
+   "description": "vlat chart (replication study)"
+  },
+  {
+   "file": "cqa_10_0.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/10_0.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_11.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/11.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_25_0.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/25_0.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_271_0.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/271_0.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_271_1.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/271_1.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_28_0.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/28_0.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_33_0.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/33_0.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_33_1.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/33_1.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_46.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/46.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_48.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/48.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_59_0.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/59_0.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_59_1.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/59_1.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_8_0.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/8_0.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_8_1.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/8_1.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_bar_aggregate.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/bar_aggregate.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_bar_grouped.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/bar_grouped.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_1.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_1.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_10.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_10.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_11.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_11.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_12.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_12.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_3.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_3.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_4.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_4.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_5.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_5.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_6.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_6.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_7.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_7.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_8.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_8.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_d3_9.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/d3_9.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_15.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_15.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_17.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_17.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_18.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_18.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_27.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_27.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_3.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_3.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_30.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_30.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_5.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_5.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_50.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_50.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_53.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_53.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_54.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_54.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_55.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_55.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_65.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_65.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_68.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_68.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_69.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_69.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_70.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_70.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_71.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_71.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_73.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_73.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_74.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_74.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_75.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_75.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_76.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_76.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_kong_77.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/kong_77.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_line.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/line.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_line_color.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/line_color.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_stacked_bar_h.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/stacked_bar_h.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_stacked_bar_weather.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Images/stacked_bar_weather.png",
+   "description": "cqa chart (main task set)"
+  },
+  {
+   "file": "cqa_data_10_0.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/10_0.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_11.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/11.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_25_0.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/25_0.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_271_0.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/271_0.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_271_1.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/271_1.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_28_0.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/28_0.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_33_0.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/33_0.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_33_1.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/33_1.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_46.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/46.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_48.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/48.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_59_0.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/59_0.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_59_1.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/59_1.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_8_0.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/8_0.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_8_1.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/8_1.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_bar_aggregate.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/bar_aggregate.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_bar_grouped.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/bar_grouped.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_1.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_1.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_10.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_10.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_11.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_11.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_12.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_12.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_3.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_3.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_4.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_4.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_5.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_5.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_6.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_6.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_7.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_7.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_8.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_8.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_d3_9.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/d3_9.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_15.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_15.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_17.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_17.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_18.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_18.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_27.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_27.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_3.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_3.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_30.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_30.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_5.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_5.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_50.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_50.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_53.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_53.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_54.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_54.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_55.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_55.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_65.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_65.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_68.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_68.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_69.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_69.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_70.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_70.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_71.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_71.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_73.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_73.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_74.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_74.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_75.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_75.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_76.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_76.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_kong_77.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/kong_77.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_line.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/line.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_line_color.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/line_color.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_stacked_bar_h.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/stacked_bar_h.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "cqa_data_stacked_bar_weather.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Kim_VisQA/Data/stacked_bar_weather.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (main task set)"
+  },
+  {
+   "file": "rep_cqa_bar.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/CQA/Images/bar.png",
+   "description": "cqa chart (replication study)"
+  },
+  {
+   "file": "rep_cqa_stacked_bar.png",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/CQA/Images/stacked_bar.png",
+   "description": "cqa chart (replication study)"
+  },
+  {
+   "file": "rep_cqa_data_bar.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/CQA/Data/bar.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (replication study)"
+  },
+  {
+   "file": "rep_cqa_data_stacked_bar.csv",
+   "test": "cqa",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/CQA/Data/stacked_bar.csv",
+   "description": "Dataset behind the chart, sent in the prompt in the data-provided condition (replication study)"
+  },
+  {
+   "file": "deceptive_area_a.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/area_a.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_area_b.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/area_b.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_area_pair.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/area_pair.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bar_a_label.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bar_a_label.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bar_a_nolabel.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bar_a_nolabel.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bar_b_label.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bar_b_label.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bar_b_nolabel.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bar_b_nolabel.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bar_pair_label.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bar_pair_label.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bar_pair_nolabel.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bar_pair_nolabel.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bubble_a.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bubble_a.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bubble_b.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bubble_b.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_bubble_pair.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/bubble_pair.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_line_a.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/line_a.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_line_b.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/line_b.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_line_pair.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/line_pair.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_map_a.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/map_a.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_map_b.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/map_b.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "deceptive_map_pair.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Deceptive Design/Images/map_pair.png",
+   "description": "deceptive chart (main task set)"
+  },
+  {
+   "file": "rep_deceptive_area_a.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/area_a.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_area_b.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/area_b.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_area_pair.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/area_pair.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bar_a_label.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bar_a_label.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bar_a_nolabel.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bar_a_nolabel.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bar_b_label.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bar_b_label.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bar_b_nolabel.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bar_b_nolabel.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bar_pair_label.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bar_pair_label.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bar_pair_nolabel.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bar_pair_nolabel.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bubble_a.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bubble_a.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bubble_b.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bubble_b.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_bubble_pair.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/bubble_pair.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_line_a.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/line_a.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_line_b.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/line_b.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "rep_deceptive_line_pair.png",
+   "test": "deceptive",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Deceptive Design/Images/line_pair.png",
+   "description": "deceptive chart (replication study)"
+  },
+  {
+   "file": "titles_military-contradictory-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-contradictory-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-contradictory-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-contradictory-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-correct-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-correct-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-correct-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-correct-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-miscued-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-miscued-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-miscued-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-miscued-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-notitle.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-notitle.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-selective-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-selective-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_military-selective-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/military-selective-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-contradictory-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-contradictory-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-contradictory-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-contradictory-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-correct-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-correct-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-correct-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-correct-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-miscued-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-miscued-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-miscued-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-miscued-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-notitle.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-notitle.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-selective-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-selective-a.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "titles_refugee-selective-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Title Misalignment/Images/refugee-selective-b.png",
+   "description": "titles chart (main task set)"
+  },
+  {
+   "file": "rep_titles_bar-contradictory-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-contradictory-a.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-contradictory-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-contradictory-b.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-correct-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-correct-a.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-correct-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-correct-b.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-miscued-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-miscued-a.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-miscued-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-miscued-b.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-notitle.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-notitle.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-selective-a.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-selective-a.png",
+   "description": "titles chart (replication study)"
+  },
+  {
+   "file": "rep_titles_bar-selective-b.png",
+   "test": "titles",
+   "source": "copied",
+   "origin": "data/f39j6-osfstorage-archive/Replication Study/Title Misalignment/Images/bar-selective-b.png",
+   "description": "titles chart (replication study)"
+  }
+ ],
+ "gaps": [
+  "No instruction files ship in the archive; the system and preface messages were transcribed from the payloads in each *_run.py script (they match paper Sec. 3-8).",
+  "Replication Study/VLAT/Data holds the synthetic data behind the replication VLAT charts; it was never sent to the model, so it is not copied."
+ ]
+}

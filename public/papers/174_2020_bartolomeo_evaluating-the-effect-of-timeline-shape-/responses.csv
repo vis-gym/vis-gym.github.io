@@ -1,0 +1,3009 @@
+participant_id,experiment_id,item_id,response,rt_ms,trial,source_column
+p1,1,5,917,10576,9,answers[8].answer
+p14,1,5,917,4663,11,answers[10].answer
+p19,1,5,917,3610,9,answers[8].answer
+p83,1,5,917,5219,12,answers[11].answer
+p104,1,5,917,8135,11,answers[10].answer
+p109,1,5,917,8115,12,answers[11].answer
+p131,1,5,917,6980,12,answers[11].answer
+p155,1,5,917,5708,11,answers[10].answer
+p160,1,5,917,19113,9,answers[8].answer
+p178,1,5,917,10682,12,answers[11].answer
+p180,1,5,917,4569,11,answers[10].answer
+p11,1,6,917,21281,11,answers[10].answer
+p45,1,6,917,6278,9,answers[8].answer
+p79,1,6,917,4648,11,answers[10].answer
+p90,1,6,917,7431,9,answers[8].answer
+p113,1,6,917,16479,12,answers[11].answer
+p123,1,6,917,6857,12,answers[11].answer
+p126,1,6,917,4143,12,answers[11].answer
+p139,1,6,917,12806,11,answers[10].answer
+p154,1,6,917,4475,9,answers[8].answer
+p159,1,6,917,6504,9,answers[8].answer
+p187,1,6,917,6246,9,answers[8].answer
+p21,1,7,917,4880,12,answers[11].answer
+p26,1,7,917,9933,11,answers[10].answer
+p41,1,7,917,8194,11,answers[10].answer
+p58,1,7,917,7047,9,answers[8].answer
+p59,1,7,917,7310,12,answers[11].answer
+p77,1,7,917,18655,9,answers[8].answer
+p94,1,7,917,4402,12,answers[11].answer
+p106,1,7,917,9785,11,answers[10].answer
+p118,1,7,917,10560,9,answers[8].answer
+p125,1,7,917,7726,9,answers[8].answer
+p128,1,7,917,6623,12,answers[11].answer
+p140,1,7,917,6977,11,answers[10].answer
+p163,1,7,917,6311,11,answers[10].answer
+p168,1,7,917,7390,12,answers[11].answer
+p0,1,8,917,8299,12,answers[11].answer
+p30,1,8,917,11490,12,answers[11].answer
+p31,1,8,917,9095,12,answers[11].answer
+p62,1,8,917,7846,11,answers[10].answer
+p67,1,8,917,12167,11,answers[10].answer
+p72,1,8,917,10615,9,answers[8].answer
+p81,1,8,917,6367,11,answers[10].answer
+p142,1,8,917,11555,11,answers[10].answer
+p146,1,8,917,20193,9,answers[8].answer
+p157,1,8,917,9910,9,answers[8].answer
+p175,1,8,917,10917,12,answers[11].answer
+p189,1,8,917,5962,9,answers[8].answer
+p45,1,9,929,6714,5,answers[4].answer
+p62,1,9,929,10365,10,answers[9].answer
+p67,1,9,929,4615,10,answers[9].answer
+p81,1,9,929,7143,10,answers[9].answer
+p90,1,9,929,8250,5,answers[4].answer
+p113,1,9,929,10015,8,answers[7].answer
+p123,1,9,929,5936,8,answers[7].answer
+p126,1,9,929,5415,8,answers[7].answer
+p142,1,9,929,9257,10,answers[9].answer
+p154,1,9,929,3972,5,answers[4].answer
+p159,1,9,929,8485,5,answers[4].answer
+p187,1,9,929,7992,5,answers[4].answer
+p14,1,10,929,10759,10,answers[9].answer
+p21,1,10,929,6008,8,answers[7].answer
+p41,1,10,929,9585,10,answers[9].answer
+p58,1,10,929,6136,5,answers[4].answer
+p59,1,10,929,8103,8,answers[7].answer
+p77,1,10,929,10074,5,answers[4].answer
+p94,1,10,929,7984,8,answers[7].answer
+p104,1,10,929,8648,10,answers[9].answer
+p118,1,10,929,6288,5,answers[4].answer
+p125,1,10,929,6569,5,answers[4].answer
+p128,1,10,929,6759,8,answers[7].answer
+p155,1,10,929,7904,10,answers[9].answer
+p168,1,10,929,8805,8,answers[7].answer
+p180,1,10,929,18611,10,answers[9].answer
+p0,1,11,929,9449,8,answers[7].answer
+p11,1,11,929,14872,10,answers[9].answer
+p30,1,11,929,9635,8,answers[7].answer
+p31,1,11,929,6991,8,answers[7].answer
+p72,1,11,929,11581,5,answers[4].answer
+p79,1,11,929,4411,10,answers[9].answer
+p139,1,11,929,6063,10,answers[9].answer
+p146,1,11,929,11098,5,answers[4].answer
+p157,1,11,929,8863,5,answers[4].answer
+p175,1,11,929,9584,8,answers[7].answer
+p189,1,11,929,6106,5,answers[4].answer
+p1,1,12,929,14816,5,answers[4].answer
+p19,1,12,929,3949,5,answers[4].answer
+p26,1,12,929,13479,10,answers[9].answer
+p83,1,12,929,8409,8,answers[7].answer
+p106,1,12,929,9377,10,answers[9].answer
+p109,1,12,929,14974,8,answers[7].answer
+p131,1,12,929,9038,8,answers[7].answer
+p140,1,12,929,9698,10,answers[9].answer
+p160,1,12,929,7377,5,answers[4].answer
+p163,1,12,929,8723,10,answers[9].answer
+p178,1,12,929,11487,8,answers[7].answer
+p0,1,13,927,9621,6,answers[5].answer
+p11,1,13,927,18097,7,answers[6].answer
+p30,1,13,927,9756,6,answers[5].answer
+p31,1,13,927,5455,6,answers[5].answer
+p41,1,13,927,6983,7,answers[6].answer
+p58,1,13,927,6454,1,answers[0].answer
+p77,1,13,927,21712,1,answers[0].answer
+p79,1,13,927,6348,7,answers[6].answer
+p118,1,13,927,11148,1,answers[0].answer
+p125,1,13,927,15243,1,answers[0].answer
+p139,1,13,927,6817,7,answers[6].answer
+p175,1,13,927,11119,6,answers[5].answer
+p26,1,14,927,10340,7,answers[6].answer
+p72,1,14,927,11594,1,answers[0].answer
+p83,1,14,927,6922,6,answers[5].answer
+p106,1,14,927,10972,7,answers[6].answer
+p109,1,14,927,15198,6,answers[5].answer
+p131,1,14,927,10287,6,answers[5].answer
+p140,1,14,927,10028,7,answers[6].answer
+p146,1,14,927,11671,1,answers[0].answer
+p157,1,14,927,8589,1,answers[0].answer
+p163,1,14,927,8868,7,answers[6].answer
+p178,1,14,927,5298,6,answers[5].answer
+p189,1,14,927,5801,1,answers[0].answer
+p1,1,15,927,10862,1,answers[0].answer
+p19,1,15,927,6630,1,answers[0].answer
+p62,1,15,927,6080,7,answers[6].answer
+p67,1,15,927,8720,7,answers[6].answer
+p81,1,15,927,7239,7,answers[6].answer
+p113,1,15,927,11368,6,answers[5].answer
+p123,1,15,927,9076,6,answers[5].answer
+p126,1,15,927,8791,6,answers[5].answer
+p142,1,15,927,9995,7,answers[6].answer
+p160,1,15,927,7697,1,answers[0].answer
+p14,1,16,927,6624,7,answers[6].answer
+p21,1,16,927,6424,6,answers[5].answer
+p45,1,16,927,14089,1,answers[0].answer
+p59,1,16,927,15125,6,answers[5].answer
+p90,1,16,927,7327,1,answers[0].answer
+p94,1,16,927,7364,6,answers[5].answer
+p104,1,16,927,8720,7,answers[6].answer
+p128,1,16,927,10503,6,answers[5].answer
+p154,1,16,927,3882,1,answers[0].answer
+p155,1,16,927,9559,7,answers[6].answer
+p159,1,16,927,12085,1,answers[0].answer
+p168,1,16,927,9129,6,answers[5].answer
+p180,1,16,927,18968,7,answers[6].answer
+p187,1,16,927,6033,1,answers[0].answer
+p21,1,17,915,6624,4,answers[3].answer
+p26,1,17,915,10044,2,answers[1].answer
+p59,1,17,915,10213,4,answers[3].answer
+p72,1,17,915,21690,3,answers[2].answer
+p94,1,17,915,7357,4,answers[3].answer
+p106,1,17,915,11703,2,answers[1].answer
+p128,1,17,915,8312,4,answers[3].answer
+p140,1,17,915,11469,2,answers[1].answer
+p146,1,17,915,14158,3,answers[2].answer
+p157,1,17,915,9386,3,answers[2].answer
+p163,1,17,915,11396,2,answers[1].answer
+p168,1,17,915,11656,4,answers[3].answer
+p189,1,17,915,21805,3,answers[2].answer
+p0,1,18,915,10352,4,answers[3].answer
+p1,1,18,915,11748,3,answers[2].answer
+p19,1,18,915,4120,3,answers[2].answer
+p30,1,18,915,11671,4,answers[3].answer
+p31,1,18,915,5464,4,answers[3].answer
+p62,1,18,915,5769,2,answers[1].answer
+p67,1,18,915,7191,2,answers[1].answer
+p81,1,18,915,6154,2,answers[1].answer
+p142,1,18,915,11861,2,answers[1].answer
+p160,1,18,915,6447,3,answers[2].answer
+p175,1,18,915,8412,4,answers[3].answer
+p14,1,19,915,9532,2,answers[1].answer
+p45,1,19,915,10107,3,answers[2].answer
+p83,1,19,915,6057,4,answers[3].answer
+p90,1,19,915,7892,3,answers[2].answer
+p104,1,19,915,8701,2,answers[1].answer
+p109,1,19,915,12018,4,answers[3].answer
+p131,1,19,915,7292,4,answers[3].answer
+p154,1,19,915,4474,3,answers[2].answer
+p155,1,19,915,8500,2,answers[1].answer
+p159,1,19,915,11367,3,answers[2].answer
+p178,1,19,915,5741,4,answers[3].answer
+p180,1,19,915,11304,2,answers[1].answer
+p187,1,19,915,5129,3,answers[2].answer
+p11,1,20,915,20709,2,answers[1].answer
+p41,1,20,915,11731,2,answers[1].answer
+p58,1,20,915,13079,3,answers[2].answer
+p77,1,20,915,16590,3,answers[2].answer
+p79,1,20,915,4638,2,answers[1].answer
+p113,1,20,915,13848,4,answers[3].answer
+p118,1,20,915,6416,3,answers[2].answer
+p123,1,20,915,10975,4,answers[3].answer
+p125,1,20,915,11996,3,answers[2].answer
+p126,1,20,915,7239,4,answers[3].answer
+p139,1,20,915,11337,2,answers[1].answer
+p17,1,21,City is built,6907,9,answers[8].answer
+p29,1,21,City is built,14523,9,answers[8].answer
+p50,1,21,City is built,6322,12,answers[11].answer
+p68,1,21,City is built,9747,11,answers[10].answer
+p78,1,21,City is built,6453,11,answers[10].answer
+p121,1,21,City is built,8567,11,answers[10].answer
+p127,1,21,City is built,8603,12,answers[11].answer
+p137,1,21,City is built,8987,12,answers[11].answer
+p164,1,21,City is built,10732,11,answers[10].answer
+p165,1,21,City is built,7343,9,answers[8].answer
+p15,1,22,City is built,10106,9,answers[8].answer
+p52,1,22,City is built,9962,9,answers[8].answer
+p53,1,22,City is built,4902,12,answers[11].answer
+p54,1,22,City is built,5967,11,answers[10].answer
+p98,1,22,City is built,7801,12,answers[11].answer
+p111,1,22,City is built,8037,12,answers[11].answer
+p116,1,22,City is built,6669,12,answers[11].answer
+p117,1,22,City is built,5631,9,answers[8].answer
+p141,1,22,City is built,7544,11,answers[10].answer
+p148,1,22,City is built,7985,12,answers[11].answer
+p153,1,22,Economy booms,5375,11,answers[10].answer
+p156,1,22,City is built,9752,12,answers[11].answer
+p173,1,22,City is built,5735,9,answers[8].answer
+p186,1,22,City is built,16711,11,answers[10].answer
+p191,1,22,City is built,10734,11,answers[10].answer
+p20,1,23,City is built,7601,12,answers[11].answer
+p33,1,23,City is built,9584,12,answers[11].answer
+p35,1,23,City is built,6006,9,answers[8].answer
+p44,1,23,City is built,8787,12,answers[11].answer
+p51,1,23,City is built,4389,9,answers[8].answer
+p99,1,23,City is built,5446,11,answers[10].answer
+p100,1,23,City is built,4059,11,answers[10].answer
+p114,1,23,City is built,9152,9,answers[8].answer
+p150,1,23,City is built,7487,9,answers[8].answer
+p184,1,23,City is built,5598,11,answers[10].answer
+p188,1,23,City is built,9245,11,answers[10].answer
+p6,1,24,City is built,7909,9,answers[8].answer
+p7,1,24,City is built,7447,12,answers[11].answer
+p23,1,24,City is built,8294,12,answers[11].answer
+p25,1,24,City is built,5191,12,answers[11].answer
+p40,1,24,City is built,5254,11,answers[10].answer
+p91,1,24,City is built,7607,11,answers[10].answer
+p134,1,24,City is built,7756,12,answers[11].answer
+p151,1,24,City is built,8669,9,answers[8].answer
+p170,1,24,City is built,14588,11,answers[10].answer
+p176,1,24,City is built,10855,9,answers[8].answer
+p181,1,24,City is built,10143,9,answers[8].answer
+p190,1,24,City is built,10975,9,answers[8].answer
+p15,1,25,Farming starts,11138,5,answers[4].answer
+p40,1,25,Farming starts,5031,10,answers[9].answer
+p52,1,25,Farming starts,8901,5,answers[4].answer
+p91,1,25,Farming starts,8875,10,answers[9].answer
+p116,1,25,Farming starts,6625,8,answers[7].answer
+p117,1,25,Farming starts,24186,5,answers[4].answer
+p148,1,25,Farming starts,6903,8,answers[7].answer
+p156,1,25,Farming starts,14061,8,answers[7].answer
+p170,1,25,Farming starts,15260,10,answers[9].answer
+p173,1,25,Farming starts,5634,5,answers[4].answer
+p20,1,26,Farming starts,8239,8,answers[7].answer
+p33,1,26,Farming starts,9256,8,answers[7].answer
+p35,1,26,Farming starts,4678,5,answers[4].answer
+p44,1,26,Farming starts,10321,8,answers[7].answer
+p51,1,26,Farming starts,5355,5,answers[4].answer
+p68,1,26,Farming starts,8583,10,answers[9].answer
+p78,1,26,Farming starts,5693,10,answers[9].answer
+p114,1,26,Farming starts,5528,5,answers[4].answer
+p121,1,26,Farming starts,5761,10,answers[9].answer
+p150,1,26,Farming starts,9216,5,answers[4].answer
+p164,1,26,Farming starts,9774,10,answers[9].answer
+p6,1,27,Farming starts,7933,5,answers[4].answer
+p7,1,27,Farming starts,7519,8,answers[7].answer
+p23,1,27,Farming starts,7650,8,answers[7].answer
+p25,1,27,Farming starts,5658,8,answers[7].answer
+p53,1,27,Farming starts,6083,8,answers[7].answer
+p54,1,27,Farming starts,7351,10,answers[9].answer
+p98,1,27,Farming starts,8081,8,answers[7].answer
+p111,1,27,Farming starts,9147,8,answers[7].answer
+p134,1,27,Farming starts,8611,8,answers[7].answer
+p141,1,27,Farming starts,8032,10,answers[9].answer
+p151,1,27,Farming starts,7370,5,answers[4].answer
+p153,1,27,Farming starts,5413,10,answers[9].answer
+p176,1,27,Farming starts,11896,5,answers[4].answer
+p181,1,27,Farming starts,11584,5,answers[4].answer
+p186,1,27,Farming starts,6192,10,answers[9].answer
+p190,1,27,Farming starts,12185,5,answers[4].answer
+p191,1,27,Farming starts,17586,10,answers[9].answer
+p17,1,28,Farming starts,5956,5,answers[4].answer
+p29,1,28,Farming starts,6162,5,answers[4].answer
+p50,1,28,Farming starts,3859,8,answers[7].answer
+p99,1,28,Farming starts,10219,10,answers[9].answer
+p100,1,28,Farming starts,4827,10,answers[9].answer
+p127,1,28,Farming starts,12329,8,answers[7].answer
+p137,1,28,Farming starts,15467,8,answers[7].answer
+p165,1,28,Farming starts,8000,5,answers[4].answer
+p184,1,28,Farming starts,12318,10,answers[9].answer
+p188,1,28,Farming starts,4654,10,answers[9].answer
+p7,1,29,Trading flourishes,5376,6,answers[5].answer
+p23,1,29,Trading flourishes,5455,6,answers[5].answer
+p25,1,29,Trading flourishes,5545,6,answers[5].answer
+p35,1,29,Trading flourishes,6369,1,answers[0].answer
+p51,1,29,Trading flourishes,5639,1,answers[0].answer
+p53,1,29,Trading flourishes,6201,6,answers[5].answer
+p54,1,29,Trading flourishes,7736,7,answers[6].answer
+p98,1,29,Trading flourishes,9190,6,answers[5].answer
+p111,1,29,Trading flourishes,61552,6,answers[5].answer
+p114,1,29,Trading flourishes,8760,1,answers[0].answer
+p134,1,29,Trading flourishes,10648,6,answers[5].answer
+p141,1,29,Trading flourishes,7975,7,answers[6].answer
+p150,1,29,Trading flourishes,9229,1,answers[0].answer
+p153,1,29,Trading flourishes,5809,7,answers[6].answer
+p186,1,29,Trading flourishes,8514,7,answers[6].answer
+p191,1,29,Trading flourishes,9510,7,answers[6].answer
+p6,1,30,Trading flourishes,11086,1,answers[0].answer
+p50,1,30,Trading flourishes,4007,6,answers[5].answer
+p99,1,30,Trading flourishes,6493,7,answers[6].answer
+p100,1,30,Trading flourishes,4455,7,answers[6].answer
+p127,1,30,Trading flourishes,9653,6,answers[5].answer
+p137,1,30,Trading flourishes,4958,6,answers[5].answer
+p151,1,30,Trading flourishes,4530,1,answers[0].answer
+p176,1,30,Trading flourishes,12215,1,answers[0].answer
+p181,1,30,Trading flourishes,9535,1,answers[0].answer
+p184,1,30,Trading flourishes,6748,7,answers[6].answer
+p188,1,30,Trading flourishes,7376,7,answers[6].answer
+p190,1,30,Trading flourishes,10475,1,answers[0].answer
+p17,1,31,Trading flourishes,7670,1,answers[0].answer
+p29,1,31,Trading flourishes,7115,1,answers[0].answer
+p40,1,31,Trading flourishes,8189,7,answers[6].answer
+p91,1,31,Trading flourishes,6039,7,answers[6].answer
+p116,1,31,Trading flourishes,4810,6,answers[5].answer
+p148,1,31,Trading flourishes,13548,6,answers[5].answer
+p156,1,31,Trading flourishes,14516,6,answers[5].answer
+p165,1,31,Trading flourishes,8816,1,answers[0].answer
+p170,1,31,Trading flourishes,19515,7,answers[6].answer
+p15,1,32,Trading flourishes,14915,1,answers[0].answer
+p20,1,32,Trading flourishes,9131,6,answers[5].answer
+p33,1,32,Trading flourishes,10003,6,answers[5].answer
+p44,1,32,Trading flourishes,10188,6,answers[5].answer
+p52,1,32,Trading flourishes,19344,1,answers[0].answer
+p68,1,32,Trading flourishes,7954,7,answers[6].answer
+p78,1,32,Trading flourishes,8943,7,answers[6].answer
+p117,1,32,Trading flourishes,13307,1,answers[0].answer
+p121,1,32,Trading flourishes,8296,7,answers[6].answer
+p164,1,32,Trading flourishes,12143,7,answers[6].answer
+p173,1,32,Trading flourishes,8105,1,answers[0].answer
+p6,1,33,Agriculture improves,7246,3,answers[2].answer
+p20,1,33,Agriculture improves,6730,4,answers[3].answer
+p33,1,33,Agriculture improves,11429,4,answers[3].answer
+p44,1,33,Agriculture improves,10270,4,answers[3].answer
+p99,1,33,Agriculture improves,7053,2,answers[1].answer
+p100,1,33,Agriculture improves,5569,2,answers[1].answer
+p151,1,33,Agriculture improves,4595,3,answers[2].answer
+p176,1,33,Agriculture improves,14800,3,answers[2].answer
+p181,1,33,Agriculture improves,12839,3,answers[2].answer
+p184,1,33,Agriculture improves,6371,2,answers[1].answer
+p188,1,33,Agriculture improves,9766,2,answers[1].answer
+p190,1,33,Agriculture improves,16258,3,answers[2].answer
+p7,1,34,Agriculture improves,6066,4,answers[3].answer
+p17,1,34,Agriculture improves,7636,3,answers[2].answer
+p23,1,34,Agriculture improves,8574,4,answers[3].answer
+p25,1,34,Agriculture improves,5242,4,answers[3].answer
+p29,1,34,Agriculture improves,6141,3,answers[2].answer
+p40,1,34,Agriculture improves,6395,2,answers[1].answer
+p91,1,34,Agriculture improves,5939,2,answers[1].answer
+p134,1,34,Agriculture improves,5504,4,answers[3].answer
+p165,1,34,Agriculture improves,6353,3,answers[2].answer
+p170,1,34,Agriculture improves,10966,2,answers[1].answer
+p15,1,35,Agriculture improves,10965,3,answers[2].answer
+p50,1,35,Agriculture improves,7117,4,answers[3].answer
+p52,1,35,Agriculture improves,9060,3,answers[2].answer
+p68,1,35,Agriculture improves,10179,2,answers[1].answer
+p78,1,35,Agriculture improves,6447,2,answers[1].answer
+p117,1,35,Agriculture improves,8298,3,answers[2].answer
+p121,1,35,Agriculture improves,7758,2,answers[1].answer
+p127,1,35,Agriculture improves,9706,4,answers[3].answer
+p137,1,35,Agriculture improves,10516,4,answers[3].answer
+p164,1,35,Agriculture improves,16243,2,answers[1].answer
+p173,1,35,Agriculture improves,6266,3,answers[2].answer
+p35,1,36,Agriculture improves,6676,3,answers[2].answer
+p51,1,36,Agriculture improves,6846,3,answers[2].answer
+p53,1,36,Agriculture improves,5283,4,answers[3].answer
+p54,1,36,Agriculture improves,9112,2,answers[1].answer
+p98,1,36,Agriculture improves,8106,4,answers[3].answer
+p111,1,36,Agriculture improves,12188,4,answers[3].answer
+p114,1,36,Agriculture improves,14380,3,answers[2].answer
+p116,1,36,Agriculture improves,8684,4,answers[3].answer
+p141,1,36,Agriculture improves,12009,2,answers[1].answer
+p148,1,36,Agriculture improves,8305,4,answers[3].answer
+p150,1,36,Agriculture improves,8079,3,answers[2].answer
+p153,1,36,Agriculture improves,7703,2,answers[1].answer
+p156,1,36,Agriculture improves,25207,4,answers[3].answer
+p186,1,36,Agriculture improves,6935,2,answers[1].answer
+p191,1,36,Agriculture improves,13240,2,answers[1].answer
+p27,1,37,Bartering ends,9016,11,answers[10].answer
+p74,1,37,Bartering ends,4999,12,answers[11].answer
+p75,1,37,Bartering ends,6649,12,answers[11].answer
+p76,1,37,Bartering ends,6708,9,answers[8].answer
+p87,1,37,Bartering ends,6146,12,answers[11].answer
+p112,1,37,Bartering ends,11743,11,answers[10].answer
+p119,1,37,Bartering ends,3050,9,answers[8].answer
+p167,1,37,Bartering ends,6588,11,answers[10].answer
+p174,1,37,Bartering ends,6275,11,answers[10].answer
+p4,1,38,Bartering ends,4537,11,answers[10].answer
+p8,1,38,Bartering ends,4900,12,answers[11].answer
+p9,1,38,Bartering ends,9040,12,answers[11].answer
+p13,1,38,Bartering ends,6306,9,answers[8].answer
+p61,1,38,Bartering ends,3092,12,answers[11].answer
+p63,1,38,Bartering ends,3440,11,answers[10].answer
+p82,1,38,Bartering ends,8143,11,answers[10].answer
+p96,1,38,Bartering ends,4998,11,answers[10].answer
+p129,1,38,Bartering ends,4919,11,answers[10].answer
+p132,1,38,Bartering ends,13437,12,answers[11].answer
+p133,1,38,Bartering ends,4699,9,answers[8].answer
+p152,1,38,Bartering ends,8967,9,answers[8].answer
+p161,1,38,Bartering ends,4241,12,answers[11].answer
+p172,1,38,Bartering ends,6026,9,answers[8].answer
+p28,1,39,Bartering ends,6960,12,answers[11].answer
+p38,1,39,Bartering ends,7240,12,answers[11].answer
+p84,1,39,Bartering ends,5505,9,answers[8].answer
+p88,1,39,Bartering ends,5641,12,answers[11].answer
+p107,1,39,Bartering ends,6973,9,answers[8].answer
+p124,1,39,Bartering ends,4809,11,answers[10].answer
+p130,1,39,Bartering ends,9059,9,answers[8].answer
+p158,1,39,Bartering ends,10525,11,answers[10].answer
+p162,1,39,Bartering ends,10068,12,answers[11].answer
+p177,1,39,Bartering ends,12874,11,answers[10].answer
+p3,1,40,Bartering ends,7126,9,answers[8].answer
+p10,1,40,Bartering ends,6059,9,answers[8].answer
+p32,1,40,Bartering ends,4366,11,answers[10].answer
+p49,1,40,Bartering ends,8564,9,answers[8].answer
+p56,1,40,Bartering ends,7646,11,answers[10].answer
+p65,1,40,Bartering ends,11194,12,answers[11].answer
+p85,1,40,Bartering ends,7383,11,answers[10].answer
+p86,1,40,Bartering ends,12045,12,answers[11].answer
+p95,1,40,Bartering ends,8239,12,answers[11].answer
+p105,1,40,Bartering ends,7631,12,answers[11].answer
+p122,1,40,Bartering ends,11911,9,answers[8].answer
+p135,1,40,Bartering ends,9118,9,answers[8].answer
+p143,1,40,Bartering ends,12601,9,answers[8].answer
+p149,1,40,Bartering ends,6539,9,answers[8].answer
+p179,1,40,Bartering ends,5652,11,answers[10].answer
+p9,1,41,Economy booms,10855,8,answers[7].answer
+p10,1,41,Economy booms,5834,5,answers[4].answer
+p32,1,41,Economy booms,4176,10,answers[9].answer
+p56,1,41,Economy booms,6635,10,answers[9].answer
+p61,1,41,Economy booms,3092,8,answers[7].answer
+p85,1,41,Economy booms,6815,10,answers[9].answer
+p132,1,41,Economy booms,5883,8,answers[7].answer
+p133,1,41,Economy booms,6043,5,answers[4].answer
+p152,1,41,Economy booms,9716,5,answers[4].answer
+p161,1,41,Economy booms,5499,8,answers[7].answer
+p172,1,41,Economy booms,8150,5,answers[4].answer
+p179,1,41,Economy booms,5285,10,answers[9].answer
+p27,1,42,Economy booms,6784,10,answers[9].answer
+p28,1,42,Economy booms,7241,8,answers[7].answer
+p38,1,42,Economy booms,6050,8,answers[7].answer
+p84,1,42,Economy booms,6010,5,answers[4].answer
+p88,1,42,Economy booms,4400,8,answers[7].answer
+p107,1,42,Economy booms,6528,5,answers[4].answer
+p112,1,42,Economy booms,16846,10,answers[9].answer
+p130,1,42,Economy booms,6362,5,answers[4].answer
+p162,1,42,Economy booms,7517,8,answers[7].answer
+p167,1,42,Economy booms,5829,10,answers[9].answer
+p174,1,42,Economy booms,7100,10,answers[9].answer
+p3,1,43,Economy booms,5719,5,answers[4].answer
+p4,1,43,Economy booms,5576,10,answers[9].answer
+p8,1,43,Economy booms,6572,8,answers[7].answer
+p13,1,43,Economy booms,8012,5,answers[4].answer
+p49,1,43,Economy booms,10452,5,answers[4].answer
+p63,1,43,Economy booms,5831,10,answers[9].answer
+p65,1,43,Economy booms,11624,8,answers[7].answer
+p82,1,43,Economy booms,5431,10,answers[9].answer
+p86,1,43,Economy booms,7390,8,answers[7].answer
+p95,1,43,Economy booms,8238,8,answers[7].answer
+p96,1,43,Economy booms,5097,10,answers[9].answer
+p105,1,43,Economy booms,7744,8,answers[7].answer
+p122,1,43,Economy booms,6748,5,answers[4].answer
+p129,1,43,Economy booms,5462,10,answers[9].answer
+p135,1,43,Economy booms,8325,5,answers[4].answer
+p143,1,43,Economy booms,11830,5,answers[4].answer
+p149,1,43,Economy booms,13145,5,answers[4].answer
+p74,1,44,Economy booms,7245,8,answers[7].answer
+p75,1,44,Economy booms,5177,8,answers[7].answer
+p76,1,44,Economy booms,10010,5,answers[4].answer
+p87,1,44,Economy booms,6043,8,answers[7].answer
+p119,1,44,Economy booms,3664,5,answers[4].answer
+p124,1,44,Economy booms,6876,10,answers[9].answer
+p158,1,44,Economy booms,9297,10,answers[9].answer
+p177,1,44,Economy booms,8511,10,answers[9].answer
+p4,1,45,Major epidemic,5959,7,answers[6].answer
+p8,1,45,Major epidemic,5356,6,answers[5].answer
+p13,1,45,Major epidemic,5625,1,answers[0].answer
+p49,1,45,Major epidemic,11736,1,answers[0].answer
+p63,1,45,Major epidemic,5321,7,answers[6].answer
+p65,1,45,Major epidemic,10460,6,answers[5].answer
+p82,1,45,Major epidemic,5579,7,answers[6].answer
+p84,1,45,Major epidemic,7828,1,answers[0].answer
+p86,1,45,Major epidemic,7695,6,answers[5].answer
+p95,1,45,Major epidemic,8359,6,answers[5].answer
+p96,1,45,Major epidemic,11903,7,answers[6].answer
+p105,1,45,Major epidemic,6008,6,answers[5].answer
+p107,1,45,Major epidemic,7270,1,answers[0].answer
+p129,1,45,Major epidemic,4903,7,answers[6].answer
+p130,1,45,Major epidemic,18033,1,answers[0].answer
+p3,1,46,Major epidemic,8075,1,answers[0].answer
+p74,1,46,Major epidemic,4582,6,answers[5].answer
+p75,1,46,Major epidemic,8145,6,answers[5].answer
+p87,1,46,Major epidemic,6810,6,answers[5].answer
+p122,1,46,Major epidemic,10749,1,answers[0].answer
+p124,1,46,Major epidemic,6072,7,answers[6].answer
+p135,1,46,Major epidemic,9097,1,answers[0].answer
+p143,1,46,Major epidemic,13783,1,answers[0].answer
+p149,1,46,Major epidemic,7185,1,answers[0].answer
+p158,1,46,Major epidemic,7021,7,answers[6].answer
+p177,1,46,Major epidemic,16634,7,answers[6].answer
+p9,1,47,Major epidemic,15943,6,answers[5].answer
+p10,1,47,Major epidemic,6708,1,answers[0].answer
+p32,1,47,Major epidemic,5925,7,answers[6].answer
+p56,1,47,Major epidemic,5052,7,answers[6].answer
+p61,1,47,Major epidemic,3044,6,answers[5].answer
+p76,1,47,Major epidemic,12749,1,answers[0].answer
+p85,1,47,Major epidemic,7991,7,answers[6].answer
+p119,1,47,Major epidemic,10461,1,answers[0].answer
+p132,1,47,Major epidemic,6871,6,answers[5].answer
+p161,1,47,Major epidemic,5118,6,answers[5].answer
+p179,1,47,Major epidemic,6718,7,answers[6].answer
+p27,1,48,Major epidemic,8768,7,answers[6].answer
+p28,1,48,Major epidemic,6827,6,answers[5].answer
+p38,1,48,Major epidemic,6197,6,answers[5].answer
+p88,1,48,Major epidemic,4731,6,answers[5].answer
+p112,1,48,Major epidemic,14310,7,answers[6].answer
+p133,1,48,Major epidemic,13482,1,answers[0].answer
+p152,1,48,Major epidemic,14915,1,answers[0].answer
+p162,1,48,Major epidemic,11833,6,answers[5].answer
+p167,1,48,Major epidemic,8716,7,answers[6].answer
+p172,1,48,Major epidemic,9895,1,answers[0].answer
+p174,1,48,Major epidemic,6000,7,answers[6].answer
+p3,1,49,They settle,11093,3,answers[2].answer
+p28,1,49,They settle,5365,4,answers[3].answer
+p38,1,49,They settle,5615,4,answers[3].answer
+p88,1,49,They settle,6126,4,answers[3].answer
+p122,1,49,They settle,6365,3,answers[2].answer
+p124,1,49,They settle,9174,2,answers[1].answer
+p135,1,49,They settle,9198,3,answers[2].answer
+p143,1,49,They settle,18502,3,answers[2].answer
+p149,1,49,They settle,7423,3,answers[2].answer
+p158,1,49,They settle,6903,2,answers[1].answer
+p162,1,49,They settle,11456,4,answers[3].answer
+p177,1,49,They settle,10925,2,answers[1].answer
+p10,1,50,They settle,6878,3,answers[2].answer
+p32,1,50,They settle,5237,2,answers[1].answer
+p49,1,50,They settle,8575,3,answers[2].answer
+p56,1,50,They settle,6633,2,answers[1].answer
+p65,1,50,They settle,14678,4,answers[3].answer
+p76,1,50,They settle,12434,3,answers[2].answer
+p85,1,50,They settle,8360,2,answers[1].answer
+p86,1,50,They settle,10846,4,answers[3].answer
+p95,1,50,They settle,7759,4,answers[3].answer
+p105,1,50,They settle,7607,4,answers[3].answer
+p119,1,50,They settle,3942,3,answers[2].answer
+p179,1,50,They settle,10985,2,answers[1].answer
+p27,1,51,They settle,95733,2,answers[1].answer
+p74,1,51,They settle,6382,4,answers[3].answer
+p75,1,51,They settle,8809,4,answers[3].answer
+p87,1,51,They settle,6657,4,answers[3].answer
+p112,1,51,They settle,17753,2,answers[1].answer
+p133,1,51,They settle,11581,3,answers[2].answer
+p152,1,51,They settle,11003,3,answers[2].answer
+p167,1,51,They settle,10291,2,answers[1].answer
+p172,1,51,They settle,7315,3,answers[2].answer
+p174,1,51,They settle,8230,2,answers[1].answer
+p4,1,52,They settle,7163,2,answers[1].answer
+p8,1,52,They settle,9831,4,answers[3].answer
+p9,1,52,They settle,11372,4,answers[3].answer
+p13,1,52,They settle,7641,3,answers[2].answer
+p61,1,52,They settle,3252,4,answers[3].answer
+p63,1,52,They settle,8480,2,answers[1].answer
+p82,1,52,They settle,11629,2,answers[1].answer
+p84,1,52,They settle,10393,3,answers[2].answer
+p96,1,52,They settle,10742,2,answers[1].answer
+p107,1,52,They settle,10239,3,answers[2].answer
+p129,1,52,They settle,5949,2,answers[1].answer
+p130,1,52,They settle,12299,3,answers[2].answer
+p132,1,52,They settle,9253,4,answers[3].answer
+p161,1,52,They settle,5487,4,answers[3].answer
+p39,1,53,City is built,18552,12,answers[11].answer
+p55,1,53,City is built,15267,9,answers[8].answer
+p57,1,53,City is built,24236,12,answers[11].answer
+p60,1,53,City is built,30279,9,answers[8].answer
+p70,1,53,City is built,21830,11,answers[10].answer
+p73,1,53,Same,23294,9,answers[8].answer
+p80,1,53,City is built,35287,12,answers[11].answer
+p89,1,53,City is built,20974,11,answers[10].answer
+p166,1,53,City is built,18742,11,answers[10].answer
+p183,1,53,City is built,52327,12,answers[11].answer
+p2,1,54,City is built,19939,12,answers[11].answer
+p5,1,54,City is built,72143,12,answers[11].answer
+p22,1,54,City is built,30068,9,answers[8].answer
+p42,1,54,City is built,29761,11,answers[10].answer
+p47,1,54,City is built,14461,9,answers[8].answer
+p64,1,54,City is built,27355,12,answers[11].answer
+p66,1,54,City is built,18213,11,answers[10].answer
+p92,1,54,City is built,24750,11,answers[10].answer
+p97,1,54,City is built,23104,9,answers[8].answer
+p103,1,54,City is built,19560,9,answers[8].answer
+p115,1,54,City is built,26514,9,answers[8].answer
+p182,1,54,City is built,19589,11,answers[10].answer
+p16,1,55,Major epidemic,42991,11,answers[10].answer
+p34,1,55,City is built,18780,9,answers[8].answer
+p43,1,55,City is built,17483,12,answers[11].answer
+p69,1,55,City is built,37279,11,answers[10].answer
+p71,1,55,City is built,19972,11,answers[10].answer
+p101,1,55,City is built,20461,9,answers[8].answer
+p102,1,55,City is built,18191,12,answers[11].answer
+p110,1,55,City is built,22221,12,answers[11].answer
+p120,1,55,City is built,46664,11,answers[10].answer
+p169,1,55,City is built,23767,12,answers[11].answer
+p12,1,56,Major epidemic,58572,9,answers[8].answer
+p18,1,56,City is built,31402,12,answers[11].answer
+p24,1,56,Major epidemic,24800,11,answers[10].answer
+p36,1,56,City is built,78151,11,answers[10].answer
+p37,1,56,Major epidemic,16402,12,answers[11].answer
+p46,1,56,City is built,29893,11,answers[10].answer
+p48,1,56,City is built,19429,9,answers[8].answer
+p93,1,56,Major epidemic,22725,12,answers[11].answer
+p108,1,56,City is built,43102,12,answers[11].answer
+p136,1,56,City is built,27848,9,answers[8].answer
+p138,1,56,Same,29194,12,answers[11].answer
+p144,1,56,Major epidemic,26193,11,answers[10].answer
+p145,1,56,City is built,25503,9,answers[8].answer
+p147,1,56,City is built,24307,9,answers[8].answer
+p171,1,56,City is built,49273,11,answers[10].answer
+p185,1,56,City is built,28728,9,answers[8].answer
+p2,1,57,Same,17128,8,answers[7].answer
+p5,1,57,Same,16830,8,answers[7].answer
+p36,1,57,Same,42671,10,answers[9].answer
+p46,1,57,Writing invented,26014,10,answers[9].answer
+p47,1,57,Same,18180,5,answers[4].answer
+p64,1,57,Same,37447,8,answers[7].answer
+p97,1,57,Same,23472,5,answers[4].answer
+p103,1,57,Same,13951,5,answers[4].answer
+p115,1,57,Same,14438,5,answers[4].answer
+p144,1,57,Same,23363,10,answers[9].answer
+p171,1,57,Same,23533,10,answers[9].answer
+p34,1,58,Same,19067,5,answers[4].answer
+p43,1,58,Same,12316,8,answers[7].answer
+p70,1,58,Same,13510,10,answers[9].answer
+p89,1,58,Same,38033,10,answers[9].answer
+p101,1,58,Same,28283,5,answers[4].answer
+p102,1,58,Same,23680,8,answers[7].answer
+p110,1,58,Same,15614,8,answers[7].answer
+p166,1,58,Farming starts,23466,10,answers[9].answer
+p169,1,58,Same,23800,8,answers[7].answer
+p12,1,59,Writing invented,91278,5,answers[4].answer
+p18,1,59,Same,37022,8,answers[7].answer
+p22,1,59,Same,39854,5,answers[4].answer
+p24,1,59,Same,36071,10,answers[9].answer
+p37,1,59,Same,12650,8,answers[7].answer
+p42,1,59,Same,26803,10,answers[9].answer
+p48,1,59,Farming starts,14823,5,answers[4].answer
+p66,1,59,Same,22804,10,answers[9].answer
+p92,1,59,Same,18254,10,answers[9].answer
+p93,1,59,Same,21603,8,answers[7].answer
+p108,1,59,Same,25114,8,answers[7].answer
+p136,1,59,Same,29622,5,answers[4].answer
+p138,1,59,Same,27118,8,answers[7].answer
+p145,1,59,Same,18088,5,answers[4].answer
+p147,1,59,Same,19336,5,answers[4].answer
+p182,1,59,Same,25889,10,answers[9].answer
+p185,1,59,Same,36656,5,answers[4].answer
+p16,1,60,Farming starts,42582,10,answers[9].answer
+p39,1,60,Same,29169,8,answers[7].answer
+p55,1,60,Same,16606,5,answers[4].answer
+p57,1,60,Same,32951,8,answers[7].answer
+p60,1,60,Same,34087,5,answers[4].answer
+p69,1,60,Same,29587,10,answers[9].answer
+p71,1,60,Same,23528,10,answers[9].answer
+p73,1,60,Writing invented,24264,5,answers[4].answer
+p80,1,60,Same,52831,8,answers[7].answer
+p120,1,60,Same,64252,10,answers[9].answer
+p183,1,60,Same,35822,8,answers[7].answer
+p22,1,61,Agriculture improves,21182,1,answers[0].answer
+p34,1,61,Same,19427,1,answers[0].answer
+p37,1,61,Agriculture improves,40483,6,answers[5].answer
+p42,1,61,Agriculture improves,20748,7,answers[6].answer
+p66,1,61,Agriculture improves,19868,7,answers[6].answer
+p92,1,61,Agriculture improves,19736,7,answers[6].answer
+p93,1,61,Agriculture improves,23261,6,answers[5].answer
+p101,1,61,Agriculture improves,19343,1,answers[0].answer
+p108,1,61,Agriculture improves,28498,6,answers[5].answer
+p138,1,61,Agriculture improves,31146,6,answers[5].answer
+p182,1,61,Agriculture improves,27097,7,answers[6].answer
+p12,1,62,Agriculture improves,44065,1,answers[0].answer
+p16,1,62,Same,23305,7,answers[6].answer
+p18,1,62,Agriculture improves,16256,6,answers[5].answer
+p24,1,62,Same,63194,7,answers[6].answer
+p39,1,62,Agriculture improves,17729,6,answers[5].answer
+p48,1,62,Same,12839,1,answers[0].answer
+p57,1,62,Agriculture improves,31790,6,answers[5].answer
+p69,1,62,Agriculture improves,42369,7,answers[6].answer
+p71,1,62,Agriculture improves,21373,7,answers[6].answer
+p80,1,62,Agriculture improves,70688,6,answers[5].answer
+p120,1,62,Agriculture improves,27746,7,answers[6].answer
+p136,1,62,Agriculture improves,36503,1,answers[0].answer
+p145,1,62,Agriculture improves,18437,1,answers[0].answer
+p147,1,62,Agriculture improves,23466,1,answers[0].answer
+p183,1,62,Agriculture improves,35903,6,answers[5].answer
+p185,1,62,Agriculture improves,29904,1,answers[0].answer
+p2,1,63,Agriculture improves,25176,6,answers[5].answer
+p5,1,63,Agriculture improves,19847,6,answers[5].answer
+p36,1,63,Agriculture improves,32854,7,answers[6].answer
+p46,1,63,Agriculture improves,23814,7,answers[6].answer
+p55,1,63,Agriculture improves,16283,1,answers[0].answer
+p60,1,63,Agriculture improves,47426,1,answers[0].answer
+p64,1,63,Agriculture improves,16938,6,answers[5].answer
+p73,1,63,Not sure,82543,1,answers[0].answer
+p144,1,63,Agriculture improves,43746,7,answers[6].answer
+p171,1,63,Agriculture improves,33251,7,answers[6].answer
+p43,1,64,Agriculture improves,28128,6,answers[5].answer
+p47,1,64,Agriculture improves,32403,1,answers[0].answer
+p70,1,64,Agriculture improves,35452,7,answers[6].answer
+p89,1,64,Agriculture improves,40615,7,answers[6].answer
+p97,1,64,Agriculture improves,31679,1,answers[0].answer
+p102,1,64,Agriculture improves,51704,6,answers[5].answer
+p103,1,64,Agriculture improves,49143,1,answers[0].answer
+p110,1,64,Agriculture improves,31580,6,answers[5].answer
+p115,1,64,Agriculture improves,25482,1,answers[0].answer
+p166,1,64,Not sure,35184,7,answers[6].answer
+p169,1,64,Agriculture improves,28007,6,answers[5].answer
+p12,1,65,Writing invented,23949,3,answers[2].answer
+p16,1,65,Writing invented,38804,2,answers[1].answer
+p18,1,65,Writing invented,16041,4,answers[3].answer
+p24,1,65,Writing invented,23086,2,answers[1].answer
+p43,1,65,Writing invented,16746,4,answers[3].answer
+p48,1,65,Writing invented,7837,3,answers[2].answer
+p69,1,65,Writing invented,26311,2,answers[1].answer
+p71,1,65,Writing invented,14691,2,answers[1].answer
+p102,1,65,Writing invented,11535,4,answers[3].answer
+p110,1,65,Writing invented,18464,4,answers[3].answer
+p120,1,65,Writing invented,27152,2,answers[1].answer
+p136,1,65,Writing invented,16280,3,answers[2].answer
+p145,1,65,Writing invented,20694,3,answers[2].answer
+p147,1,65,Writing invented,12910,3,answers[2].answer
+p169,1,65,Writing invented,30232,4,answers[3].answer
+p185,1,65,Writing invented,15343,3,answers[2].answer
+p36,1,66,Writing invented,20957,2,answers[1].answer
+p37,1,66,Writing invented,26689,4,answers[3].answer
+p46,1,66,Writing invented,13179,2,answers[1].answer
+p55,1,66,Writing invented,10486,3,answers[2].answer
+p60,1,66,Writing invented,26424,3,answers[2].answer
+p73,1,66,Same,37925,3,answers[2].answer
+p93,1,66,Writing invented,20273,4,answers[3].answer
+p108,1,66,Writing invented,18052,4,answers[3].answer
+p138,1,66,Writing invented,30509,4,answers[3].answer
+p144,1,66,Writing invented,16326,2,answers[1].answer
+p171,1,66,Writing invented,21518,2,answers[1].answer
+p39,1,67,Writing invented,22173,4,answers[3].answer
+p47,1,67,Writing invented,11243,3,answers[2].answer
+p57,1,67,Writing invented,14796,4,answers[3].answer
+p70,1,67,Writing invented,17933,2,answers[1].answer
+p80,1,67,Writing invented,24647,4,answers[3].answer
+p89,1,67,Writing invented,28701,2,answers[1].answer
+p97,1,67,Writing invented,16320,3,answers[2].answer
+p103,1,67,Writing invented,37207,3,answers[2].answer
+p115,1,67,Writing invented,17475,3,answers[2].answer
+p166,1,67,Writing invented,13514,2,answers[1].answer
+p183,1,67,Writing invented,32910,4,answers[3].answer
+p2,1,68,Writing invented,21307,4,answers[3].answer
+p5,1,68,Writing invented,25404,4,answers[3].answer
+p22,1,68,Writing invented,13904,3,answers[2].answer
+p34,1,68,Writing invented,15187,3,answers[2].answer
+p42,1,68,Writing invented,22863,2,answers[1].answer
+p64,1,68,Writing invented,26314,4,answers[3].answer
+p66,1,68,Economy booms,27177,2,answers[1].answer
+p92,1,68,Writing invented,11672,2,answers[1].answer
+p101,1,68,Writing invented,18036,3,answers[2].answer
+p182,1,68,Writing invented,26285,2,answers[1].answer
+p1,1,69,Spring,15047,11,answers[10].answer
+p14,1,69,Spring,6351,12,answers[11].answer
+p19,1,69,Spring,5298,11,answers[10].answer
+p104,1,69,Spring,13135,12,answers[11].answer
+p113,1,69,Spring,11607,9,answers[8].answer
+p123,1,69,Spring,46519,9,answers[8].answer
+p126,1,69,Spring,4815,9,answers[8].answer
+p155,1,69,Spring,6392,12,answers[11].answer
+p160,1,69,Spring,9906,11,answers[10].answer
+p180,1,69,Spring,64948,12,answers[11].answer
+p11,1,70,Spring,18649,12,answers[11].answer
+p21,1,70,Spring,4479,9,answers[8].answer
+p45,1,70,Spring,7553,11,answers[10].answer
+p59,1,70,Spring,11634,9,answers[8].answer
+p79,1,70,Spring,5534,12,answers[11].answer
+p90,1,70,Spring,10037,11,answers[10].answer
+p94,1,70,Spring,5813,9,answers[8].answer
+p128,1,70,Spring,8312,9,answers[8].answer
+p139,1,70,Spring,12703,12,answers[11].answer
+p154,1,70,Spring,4259,11,answers[10].answer
+p159,1,70,Spring,10271,11,answers[10].answer
+p168,1,70,Spring,13312,9,answers[8].answer
+p187,1,70,Spring,8504,11,answers[10].answer
+p0,1,71,Spring,8925,9,answers[8].answer
+p26,1,71,Spring,10172,12,answers[11].answer
+p30,1,71,Spring,12878,9,answers[8].answer
+p31,1,71,Spring,7320,9,answers[8].answer
+p41,1,71,Spring,9950,12,answers[11].answer
+p58,1,71,Spring,6239,11,answers[10].answer
+p77,1,71,Spring,13811,11,answers[10].answer
+p106,1,71,Spring,7989,12,answers[11].answer
+p118,1,71,Spring,9336,11,answers[10].answer
+p125,1,71,Spring,10444,11,answers[10].answer
+p140,1,71,Spring,8644,12,answers[11].answer
+p163,1,71,Spring,7979,12,answers[11].answer
+p175,1,71,Spring,10336,9,answers[8].answer
+p62,1,72,Spring,6476,12,answers[11].answer
+p67,1,72,Spring,10007,12,answers[11].answer
+p72,1,72,Spring,13798,11,answers[10].answer
+p81,1,72,Spring,8607,12,answers[11].answer
+p83,1,72,Spring,12546,9,answers[8].answer
+p109,1,72,Spring,13572,9,answers[8].answer
+p131,1,72,Spring,12292,9,answers[8].answer
+p142,1,72,Spring,14103,12,answers[11].answer
+p146,1,72,Spring,30516,11,answers[10].answer
+p157,1,72,Spring,12442,11,answers[10].answer
+p178,1,72,Spring,12071,9,answers[8].answer
+p189,1,72,Spring,8520,11,answers[10].answer
+p0,1,73,Autumn,16861,1,answers[0].answer
+p11,1,73,Autumn,18126,8,answers[7].answer
+p30,1,73,Autumn,25620,1,answers[0].answer
+p31,1,73,Autumn,8934,1,answers[0].answer
+p72,1,73,Autumn,17177,10,answers[9].answer
+p79,1,73,Autumn,7386,8,answers[7].answer
+p139,1,73,Autumn,6790,8,answers[7].answer
+p146,1,73,Autumn,13735,10,answers[9].answer
+p157,1,73,Autumn,11332,10,answers[9].answer
+p175,1,73,Autumn,8166,1,answers[0].answer
+p189,1,73,Autumn,7716,10,answers[9].answer
+p1,1,74,Autumn,13431,10,answers[9].answer
+p19,1,74,Autumn,5119,10,answers[9].answer
+p26,1,74,Autumn,16503,8,answers[7].answer
+p83,1,74,Autumn,7569,1,answers[0].answer
+p106,1,74,Autumn,12685,8,answers[7].answer
+p109,1,74,Autumn,18781,1,answers[0].answer
+p131,1,74,Winter,15191,1,answers[0].answer
+p140,1,74,Autumn,6883,8,answers[7].answer
+p160,1,74,Autumn,11197,10,answers[9].answer
+p163,1,74,Autumn,11223,8,answers[7].answer
+p178,1,74,Autumn,11316,1,answers[0].answer
+p45,1,75,Autumn,6373,10,answers[9].answer
+p62,1,75,Autumn,5827,8,answers[7].answer
+p67,1,75,Autumn,7519,8,answers[7].answer
+p81,1,75,Autumn,7847,8,answers[7].answer
+p90,1,75,Autumn,10647,10,answers[9].answer
+p113,1,75,Autumn,20406,1,answers[0].answer
+p123,1,75,Autumn,11707,1,answers[0].answer
+p126,1,75,Autumn,8656,1,answers[0].answer
+p142,1,75,Autumn,7281,8,answers[7].answer
+p154,1,75,Autumn,5682,10,answers[9].answer
+p159,1,75,Autumn,15860,10,answers[9].answer
+p187,1,75,Autumn,8716,10,answers[9].answer
+p14,1,76,Autumn,12870,8,answers[7].answer
+p21,1,76,Autumn,12200,1,answers[0].answer
+p41,1,76,Autumn,17604,8,answers[7].answer
+p58,1,76,Autumn,11551,10,answers[9].answer
+p59,1,76,Autumn,23689,1,answers[0].answer
+p77,1,76,Autumn,30243,10,answers[9].answer
+p94,1,76,Autumn,15073,1,answers[0].answer
+p104,1,76,Autumn,15943,8,answers[7].answer
+p118,1,76,Autumn,10158,10,answers[9].answer
+p125,1,76,Autumn,17617,10,answers[9].answer
+p128,1,76,Autumn,16447,1,answers[0].answer
+p155,1,76,Autumn,16698,8,answers[7].answer
+p168,1,76,Autumn,26522,1,answers[0].answer
+p180,1,76,Autumn,57411,8,answers[7].answer
+p21,1,77,Winter,5952,5,answers[4].answer
+p41,1,77,Winter,18315,6,answers[5].answer
+p58,1,77,Winter,15982,2,answers[1].answer
+p59,1,77,Winter,6717,5,answers[4].answer
+p62,1,77,Winter,5828,6,answers[5].answer
+p67,1,77,Winter,6047,6,answers[5].answer
+p77,1,77,Winter,37220,2,answers[1].answer
+p81,1,77,Winter,6935,6,answers[5].answer
+p94,1,77,Winter,8536,5,answers[4].answer
+p118,1,77,Winter,12204,2,answers[1].answer
+p125,1,77,Winter,15501,2,answers[1].answer
+p128,1,77,Winter,5496,5,answers[4].answer
+p142,1,77,Winter,11089,6,answers[5].answer
+p168,1,77,Winter,13120,5,answers[4].answer
+p0,1,78,Winter,13744,5,answers[4].answer
+p14,1,78,Winter,6911,6,answers[5].answer
+p30,1,78,Winter,9246,5,answers[4].answer
+p31,1,78,Winter,6855,5,answers[4].answer
+p72,1,78,Winter,20316,2,answers[1].answer
+p104,1,78,Winter,7975,6,answers[5].answer
+p146,1,78,Winter,14745,2,answers[1].answer
+p155,1,78,Winter,9592,6,answers[5].answer
+p157,1,78,Winter,13584,2,answers[1].answer
+p175,1,78,Winter,12390,5,answers[4].answer
+p180,1,78,Winter,146619,6,answers[5].answer
+p189,1,78,Winter,8173,2,answers[1].answer
+p1,1,79,Winter,19212,2,answers[1].answer
+p11,1,79,Winter,16366,6,answers[5].answer
+p19,1,79,Winter,6920,2,answers[1].answer
+p79,1,79,Winter,7938,6,answers[5].answer
+p83,1,79,Winter,7114,5,answers[4].answer
+p109,1,79,Winter,9014,5,answers[4].answer
+p131,1,79,Winter,9348,5,answers[4].answer
+p139,1,79,Winter,8440,6,answers[5].answer
+p160,1,79,Winter,6904,2,answers[1].answer
+p178,1,79,Winter,6779,5,answers[4].answer
+p26,1,80,Winter,22176,6,answers[5].answer
+p45,1,80,Winter,12230,2,answers[1].answer
+p90,1,80,Winter,10740,2,answers[1].answer
+p106,1,80,Winter,17511,6,answers[5].answer
+p113,1,80,Winter,11096,5,answers[4].answer
+p123,1,80,Winter,24447,5,answers[4].answer
+p126,1,80,Winter,5775,5,answers[4].answer
+p140,1,80,Winter,11371,6,answers[5].answer
+p154,1,80,Winter,8978,2,answers[1].answer
+p159,1,80,Winter,19307,2,answers[1].answer
+p163,1,80,Winter,8104,6,answers[5].answer
+p187,1,80,Winter,8825,2,answers[1].answer
+p26,1,81,Summer,22997,4,answers[3].answer
+p45,1,81,Summer,9614,7,answers[6].answer
+p83,1,81,Summer,7645,3,answers[2].answer
+p90,1,81,Summer,9118,7,answers[6].answer
+p106,1,81,Summer,17512,4,answers[3].answer
+p109,1,81,Summer,9676,3,answers[2].answer
+p131,1,81,Summer,12305,3,answers[2].answer
+p140,1,81,Summer,12239,4,answers[3].answer
+p154,1,81,Summer,9374,7,answers[6].answer
+p159,1,81,Summer,24599,7,answers[6].answer
+p163,1,81,Summer,10951,4,answers[3].answer
+p178,1,81,Summer,5530,3,answers[2].answer
+p187,1,81,Summer,5756,7,answers[6].answer
+p41,1,82,Summer,15274,4,answers[3].answer
+p58,1,82,Summer,19801,7,answers[6].answer
+p62,1,82,Summer,10800,4,answers[3].answer
+p67,1,82,Summer,9519,4,answers[3].answer
+p77,1,82,Summer,22723,7,answers[6].answer
+p81,1,82,Summer,10479,4,answers[3].answer
+p113,1,82,Summer,12951,3,answers[2].answer
+p118,1,82,Summer,10535,7,answers[6].answer
+p123,1,82,Summer,21304,3,answers[2].answer
+p125,1,82,Summer,10526,7,answers[6].answer
+p126,1,82,Summer,4423,3,answers[2].answer
+p142,1,82,Summer,9877,4,answers[3].answer
+p14,1,83,Summer,9992,4,answers[3].answer
+p21,1,83,Summer,7016,3,answers[2].answer
+p59,1,83,Summer,8264,3,answers[2].answer
+p72,1,83,Summer,15048,7,answers[6].answer
+p94,1,83,Summer,9575,3,answers[2].answer
+p104,1,83,Summer,13950,4,answers[3].answer
+p128,1,83,Summer,12016,3,answers[2].answer
+p146,1,83,Summer,14199,7,answers[6].answer
+p155,1,83,Summer,9548,4,answers[3].answer
+p157,1,83,Summer,13831,7,answers[6].answer
+p168,1,83,Summer,16056,3,answers[2].answer
+p180,1,83,Summer,8197,4,answers[3].answer
+p189,1,83,Summer,10306,7,answers[6].answer
+p0,1,84,Summer,8014,3,answers[2].answer
+p1,1,84,Summer,17803,7,answers[6].answer
+p11,1,84,Summer,34912,4,answers[3].answer
+p19,1,84,Summer,5444,7,answers[6].answer
+p30,1,84,Summer,14107,3,answers[2].answer
+p31,1,84,Summer,9575,3,answers[2].answer
+p79,1,84,Summer,9092,4,answers[3].answer
+p139,1,84,Summer,13717,4,answers[3].answer
+p160,1,84,Summer,7555,7,answers[6].answer
+p175,1,84,Spring,14111,3,answers[2].answer
+p17,1,85,Planting Puffapod,5094,11,answers[10].answer
+p29,1,85,Planting Puffapod,8194,11,answers[10].answer
+p68,1,85,Planting Puffapod,9706,12,answers[11].answer
+p78,1,85,Planting Puffapod,6857,12,answers[11].answer
+p116,1,85,Planting Puffapod,8561,9,answers[8].answer
+p121,1,85,Planting Puffapod,7351,12,answers[11].answer
+p148,1,85,Planting Puffapod,7553,9,answers[8].answer
+p156,1,85,Planting Puffapod,16553,9,answers[8].answer
+p164,1,85,Planting Puffapod,8624,12,answers[11].answer
+p165,1,85,Planting Puffapod,8735,11,answers[10].answer
+p15,1,86,Planting Puffapod,13557,11,answers[10].answer
+p20,1,86,Planting Puffapod,7258,9,answers[8].answer
+p33,1,86,Planting Puffapod,12107,9,answers[8].answer
+p44,1,86,Planting Puffapod,10819,9,answers[8].answer
+p52,1,86,Planting Puffapod,10601,11,answers[10].answer
+p53,1,86,Planting Puffapod,4840,9,answers[8].answer
+p54,1,86,Planting Puffapod,6816,12,answers[11].answer
+p98,1,86,Planting Puffapod,11720,9,answers[8].answer
+p111,1,86,Planting Puffapod,8374,9,answers[8].answer
+p117,1,86,Planting Puffapod,17541,11,answers[10].answer
+p141,1,86,Planting Puffapod,6062,12,answers[11].answer
+p153,1,86,Planting Puffapod,6249,12,answers[11].answer
+p173,1,86,Planting Puffapod,6000,11,answers[10].answer
+p186,1,86,Planting Puffapod,5950,12,answers[11].answer
+p191,1,86,Planting Puffapod,19142,12,answers[11].answer
+p7,1,87,Planting Puffapod,22311,9,answers[8].answer
+p23,1,87,Planting Puffapod,8597,9,answers[8].answer
+p25,1,87,Planting Puffapod,6353,9,answers[8].answer
+p35,1,87,Planting Puffapod,8324,11,answers[10].answer
+p51,1,87,Planting Puffapod,5472,11,answers[10].answer
+p99,1,87,Planting Puffapod,10917,12,answers[11].answer
+p100,1,87,Planting Puffapod,6528,12,answers[11].answer
+p114,1,87,Planting Puffapod,16407,11,answers[10].answer
+p134,1,87,Planting Puffapod,8085,9,answers[8].answer
+p150,1,87,Planting Puffapod,9478,11,answers[10].answer
+p184,1,87,Planting Puffapod,13797,12,answers[11].answer
+p188,1,87,Planting Puffapod,7448,12,answers[11].answer
+p6,1,88,Planting Puffapod,28559,11,answers[10].answer
+p40,1,88,Planting Puffapod,6469,12,answers[11].answer
+p50,1,88,Planting Puffapod,5704,9,answers[8].answer
+p91,1,88,Planting Puffapod,11451,12,answers[11].answer
+p127,1,88,Planting Puffapod,27233,9,answers[8].answer
+p137,1,88,Planting Puffapod,6806,9,answers[8].answer
+p151,1,88,Planting Puffapod,11773,11,answers[10].answer
+p170,1,88,Planting Puffapod,15881,12,answers[11].answer
+p176,1,88,Planting Puffapod,14040,11,answers[10].answer
+p181,1,88,Planting Puffapod,25140,11,answers[10].answer
+p190,1,88,Planting Puffapod,14186,11,answers[10].answer
+p6,1,89,Gurdyroot,8111,10,answers[9].answer
+p7,1,89,Gurdyroot,7607,1,answers[0].answer
+p23,1,89,Gurdyroot,13366,1,answers[0].answer
+p25,1,89,Gurdyroot,10867,1,answers[0].answer
+p53,1,89,Gurdyroot,4546,1,answers[0].answer
+p54,1,89,Gurdyroot,8607,8,answers[7].answer
+p98,1,89,Gurdyroot,24075,1,answers[0].answer
+p111,1,89,Gurdyroot,15198,1,answers[0].answer
+p134,1,89,Gurdyroot,9299,1,answers[0].answer
+p141,1,89,Gurdyroot,7759,8,answers[7].answer
+p151,1,89,Gurdyroot,7422,10,answers[9].answer
+p153,1,89,Gurdyroot,6661,8,answers[7].answer
+p176,1,89,Gurdyroot,9992,10,answers[9].answer
+p181,1,89,Gurdyroot,11070,10,answers[9].answer
+p186,1,89,Gurdyroot,8154,8,answers[7].answer
+p190,1,89,Gurdyroot,11352,10,answers[9].answer
+p191,1,89,Gurdyroot,19501,8,answers[7].answer
+p17,1,90,Gurdyroot,7145,10,answers[9].answer
+p29,1,90,Gurdyroot,6947,10,answers[9].answer
+p50,1,90,Gurdyroot,7515,1,answers[0].answer
+p99,1,90,Gurdyroot,11710,8,answers[7].answer
+p100,1,90,Gurdyroot,7655,8,answers[7].answer
+p127,1,90,Gurdyroot,29974,1,answers[0].answer
+p137,1,90,Gurdyroot,7811,1,answers[0].answer
+p165,1,90,Gurdyroot,9167,10,answers[9].answer
+p184,1,90,Gurdyroot,10529,8,answers[7].answer
+p188,1,90,Gurdyroot,9872,8,answers[7].answer
+p15,1,91,Gurdyroot,14553,10,answers[9].answer
+p40,1,91,Gurdyroot,8367,8,answers[7].answer
+p52,1,91,Gurdyroot,10578,10,answers[9].answer
+p91,1,91,Gurdyroot,10433,8,answers[7].answer
+p116,1,91,Gurdyroot,10683,1,answers[0].answer
+p117,1,91,Gurdyroot,10475,10,answers[9].answer
+p148,1,91,Gurdyroot,8371,1,answers[0].answer
+p156,1,91,Gurdyroot,18841,1,answers[0].answer
+p170,1,91,Gurdyroot,20719,8,answers[7].answer
+p173,1,91,Gurdyroot,9575,10,answers[9].answer
+p20,1,92,Gurdyroot,15938,1,answers[0].answer
+p33,1,92,Gurdyroot,14741,1,answers[0].answer
+p35,1,92,Gurdyroot,7510,10,answers[9].answer
+p44,1,92,Gurdyroot,19701,1,answers[0].answer
+p51,1,92,Gurdyroot,4751,10,answers[9].answer
+p68,1,92,Gurdyroot,11360,8,answers[7].answer
+p78,1,92,Gurdyroot,10141,8,answers[7].answer
+p114,1,92,Gurdyroot,12843,10,answers[9].answer
+p121,1,92,Gurdyroot,23487,8,answers[7].answer
+p150,1,92,Gurdyroot,7487,10,answers[9].answer
+p164,1,92,Gurdyroot,42755,8,answers[7].answer
+p20,1,93,Planting Wolfsbane,8429,5,answers[4].answer
+p33,1,93,Planting Wolfsbane,10011,5,answers[4].answer
+p35,1,93,Planting Wolfsbane,8730,2,answers[1].answer
+p40,1,93,Planting Wolfsbane,7846,6,answers[5].answer
+p44,1,93,Planting Wolfsbane,14483,5,answers[4].answer
+p51,1,93,Planting Wolfsbane,6815,2,answers[1].answer
+p91,1,93,Planting Wolfsbane,15063,6,answers[5].answer
+p114,1,93,Planting Dittany,8376,2,answers[1].answer
+p150,1,93,Planting Wolfsbane,8755,2,answers[1].answer
+p170,1,93,Planting Wolfsbane,13780,6,answers[5].answer
+p6,1,94,Planting Wolfsbane,18613,2,answers[1].answer
+p7,1,94,Planting Wolfsbane,7421,5,answers[4].answer
+p23,1,94,Planting Wolfsbane,8185,5,answers[4].answer
+p25,1,94,Planting Dittany,5689,5,answers[4].answer
+p68,1,94,Planting Wolfsbane,9663,6,answers[5].answer
+p78,1,94,Planting Wolfsbane,12953,6,answers[5].answer
+p121,1,94,Planting Wolfsbane,10272,6,answers[5].answer
+p134,1,94,Planting Wolfsbane,11812,5,answers[4].answer
+p151,1,94,Planting Wolfsbane,14102,2,answers[1].answer
+p164,1,94,Planting Wolfsbane,22212,6,answers[5].answer
+p176,1,94,Planting Wolfsbane,14213,2,answers[1].answer
+p181,1,94,Planting Wolfsbane,10415,2,answers[1].answer
+p190,1,94,Planting Dittany,12347,2,answers[1].answer
+p17,1,95,Planting Wolfsbane,9170,2,answers[1].answer
+p29,1,95,Planting Wolfsbane,7296,2,answers[1].answer
+p50,1,95,Planting Wolfsbane,3407,5,answers[4].answer
+p53,1,95,Planting Wolfsbane,8338,5,answers[4].answer
+p54,1,95,Planting Wolfsbane,16391,6,answers[5].answer
+p98,1,95,Planting Wolfsbane,11648,5,answers[4].answer
+p111,1,95,Planting Wolfsbane,8313,5,answers[4].answer
+p127,1,95,Planting Wolfsbane,12308,5,answers[4].answer
+p137,1,95,Planting Wolfsbane,12799,5,answers[4].answer
+p141,1,95,Planting Wolfsbane,5969,6,answers[5].answer
+p153,1,95,Planting Wolfsbane,6244,6,answers[5].answer
+p165,1,95,Planting Wolfsbane,8902,2,answers[1].answer
+p186,1,95,Planting Wolfsbane,9421,6,answers[5].answer
+p191,1,95,Planting Wolfsbane,11123,6,answers[5].answer
+p15,1,96,Planting Gurdyroot,20427,2,answers[1].answer
+p52,1,96,Planting Wolfsbane,27689,2,answers[1].answer
+p99,1,96,Planting Wolfsbane,16081,6,answers[5].answer
+p100,1,96,Planting Wolfsbane,4960,6,answers[5].answer
+p116,1,96,Planting Wolfsbane,8591,5,answers[4].answer
+p117,1,96,Planting Wolfsbane,11965,2,answers[1].answer
+p148,1,96,Planting Wolfsbane,10150,5,answers[4].answer
+p156,1,96,Planting Wolfsbane,27483,5,answers[4].answer
+p173,1,96,Planting Wolfsbane,7804,2,answers[1].answer
+p184,1,96,Planting Wolfsbane,7104,6,answers[5].answer
+p188,1,96,Planting Wolfsbane,11097,6,answers[5].answer
+p15,1,97,Dittany,31134,7,answers[6].answer
+p50,1,97,Dittany,4753,3,answers[2].answer
+p52,1,97,Dittany,20870,7,answers[6].answer
+p99,1,97,Dittany,41257,4,answers[3].answer
+p100,1,97,Dittany,7233,4,answers[3].answer
+p117,1,97,Dittany,137209,7,answers[6].answer
+p127,1,97,Dittany,9934,3,answers[2].answer
+p137,1,97,Dittany,5633,3,answers[2].answer
+p173,1,97,Dittany,7272,7,answers[6].answer
+p184,1,97,Dittany,11630,4,answers[3].answer
+p188,1,97,Dittany,6463,4,answers[3].answer
+p35,1,98,Dittany,9262,7,answers[6].answer
+p40,1,98,Dittany,7255,4,answers[3].answer
+p51,1,98,Dittany,8848,7,answers[6].answer
+p91,1,98,Dittany,10680,4,answers[3].answer
+p114,1,98,Dittany,27282,7,answers[6].answer
+p116,1,98,Dittany,7090,3,answers[2].answer
+p148,1,98,Dittany,12489,3,answers[2].answer
+p150,1,98,Dittany,8127,7,answers[6].answer
+p156,1,98,Dittany,14139,3,answers[2].answer
+p170,1,98,Dittany,23492,4,answers[3].answer
+p6,1,99,Dittany,15426,7,answers[6].answer
+p20,1,99,Dittany,10222,3,answers[2].answer
+p33,1,99,Dittany,11737,3,answers[2].answer
+p44,1,99,Dittany,13924,3,answers[2].answer
+p68,1,99,Dittany,11283,4,answers[3].answer
+p78,1,99,Dittany,8656,4,answers[3].answer
+p121,1,99,Dittany,13720,4,answers[3].answer
+p151,1,99,Dittany,9310,7,answers[6].answer
+p164,1,99,Dittany,39174,4,answers[3].answer
+p176,1,99,Dittany,14336,7,answers[6].answer
+p181,1,99,Dittany,14145,7,answers[6].answer
+p190,1,99,Dittany,15852,7,answers[6].answer
+p7,1,100,Dittany,9847,3,answers[2].answer
+p17,1,100,Dittany,12342,7,answers[6].answer
+p23,1,100,Dittany,9190,3,answers[2].answer
+p25,1,100,Dittany,10084,3,answers[2].answer
+p29,1,100,Dittany,13495,7,answers[6].answer
+p53,1,100,Dittany,7652,3,answers[2].answer
+p54,1,100,Dittany,12887,4,answers[3].answer
+p98,1,100,Dittany,21610,3,answers[2].answer
+p111,1,100,Dittany,22756,3,answers[2].answer
+p134,1,100,Dittany,6192,3,answers[2].answer
+p141,1,100,Dittany,25437,4,answers[3].answer
+p153,1,100,Dittany,8108,4,answers[3].answer
+p165,1,100,Dittany,10007,7,answers[6].answer
+p186,1,100,Dittany,17854,4,answers[3].answer
+p191,1,100,Dittany,22928,4,answers[3].answer
+p9,1,101,Planting Wolfsbane,9554,9,answers[8].answer
+p27,1,101,Planting Wolfsbane,9671,12,answers[11].answer
+p61,1,101,Planting Wolfsbane,3060,9,answers[8].answer
+p76,1,101,Planting Wolfsbane,5912,11,answers[10].answer
+p112,1,101,Planting Wolfsbane,9984,12,answers[11].answer
+p119,1,101,Planting Wolfsbane,3940,11,answers[10].answer
+p132,1,101,Planting Wolfsbane,5337,9,answers[8].answer
+p161,1,101,Planting Wolfsbane,5844,9,answers[8].answer
+p167,1,101,Planting Wolfsbane,5906,12,answers[11].answer
+p174,1,101,Planting Wolfsbane,3653,12,answers[11].answer
+p4,1,102,Planting Wolfsbane,5302,12,answers[11].answer
+p8,1,102,Planting Wolfsbane,5618,9,answers[8].answer
+p13,1,102,Planting Wolfsbane,5558,11,answers[10].answer
+p28,1,102,Planting Wolfsbane,10178,9,answers[8].answer
+p38,1,102,Planting Wolfsbane,12123,9,answers[8].answer
+p63,1,102,Planting Wolfsbane,5509,12,answers[11].answer
+p82,1,102,Planting Wolfsbane,7119,12,answers[11].answer
+p88,1,102,Planting Wolfsbane,4756,9,answers[8].answer
+p96,1,102,Planting Wolfsbane,9260,12,answers[11].answer
+p129,1,102,Planting Wolfsbane,5542,12,answers[11].answer
+p133,1,102,Planting Wolfsbane,5074,11,answers[10].answer
+p152,1,102,Planting Wolfsbane,6283,11,answers[10].answer
+p162,1,102,Planting Wolfsbane,10996,9,answers[8].answer
+p172,1,102,Planting Wolfsbane,4882,11,answers[10].answer
+p49,1,103,Planting Wolfsbane,8607,11,answers[10].answer
+p65,1,103,Planting Wolfsbane,12088,9,answers[8].answer
+p84,1,103,Planting Wolfsbane,5441,11,answers[10].answer
+p86,1,103,Planting Wolfsbane,11085,9,answers[8].answer
+p95,1,103,Planting Wolfsbane,6391,9,answers[8].answer
+p105,1,103,Planting Wolfsbane,9263,9,answers[8].answer
+p107,1,103,Planting Wolfsbane,8669,11,answers[10].answer
+p124,1,103,Planting Wolfsbane,5025,12,answers[11].answer
+p130,1,103,Planting Wolfsbane,12699,11,answers[10].answer
+p158,1,103,Planting Wolfsbane,8065,12,answers[11].answer
+p177,1,103,Planting Wolfsbane,12383,12,answers[11].answer
+p3,1,104,Planting Wolfsbane,4969,11,answers[10].answer
+p10,1,104,Planting Wolfsbane,6767,11,answers[10].answer
+p32,1,104,Planting Wolfsbane,4534,12,answers[11].answer
+p56,1,104,Planting Wolfsbane,4789,12,answers[11].answer
+p74,1,104,Planting Wolfsbane,8037,9,answers[8].answer
+p75,1,104,Planting Wolfsbane,12513,9,answers[8].answer
+p85,1,104,Planting Wolfsbane,10367,12,answers[11].answer
+p87,1,104,Planting Wolfsbane,6280,9,answers[8].answer
+p122,1,104,Planting Wolfsbane,9523,11,answers[10].answer
+p135,1,104,Planting Wolfsbane,7407,11,answers[10].answer
+p143,1,104,Planting Wolfsbane,19686,11,answers[10].answer
+p149,1,104,Planting Wolfsbane,6561,11,answers[10].answer
+p179,1,104,Planting Wolfsbane,11669,12,answers[11].answer
+p3,1,105,Planting Gurdyroot,10234,10,answers[9].answer
+p4,1,105,Planting Gurdyroot,4855,8,answers[7].answer
+p8,1,105,Planting Gurdyroot,12154,1,answers[0].answer
+p13,1,105,Planting Gurdyroot,8229,10,answers[9].answer
+p49,1,105,Planting Gurdyroot,17919,10,answers[9].answer
+p63,1,105,Planting Gurdyroot,5334,8,answers[7].answer
+p65,1,105,Planting Gurdyroot,24039,1,answers[0].answer
+p82,1,105,Planting Gurdyroot,12634,8,answers[7].answer
+p86,1,105,Planting Gurdyroot,16291,1,answers[0].answer
+p95,1,105,Planting Gurdyroot,8273,1,answers[0].answer
+p96,1,105,Planting Gurdyroot,6871,8,answers[7].answer
+p105,1,105,Planting Gurdyroot,12805,1,answers[0].answer
+p122,1,105,Planting Gurdyroot,11990,10,answers[9].answer
+p129,1,105,Planting Gurdyroot,4456,8,answers[7].answer
+p135,1,105,Planting Gurdyroot,9245,10,answers[9].answer
+p143,1,105,Planting Gurdyroot,26004,10,answers[9].answer
+p149,1,105,Planting Gurdyroot,8715,10,answers[9].answer
+p74,1,106,Planting Gurdyroot,8782,1,answers[0].answer
+p75,1,106,Planting Gurdyroot,13208,1,answers[0].answer
+p76,1,106,Planting Gurdyroot,10760,10,answers[9].answer
+p87,1,106,Planting Gurdyroot,10205,1,answers[0].answer
+p119,1,106,Planting Gurdyroot,6698,10,answers[9].answer
+p124,1,106,Planting Gurdyroot,5620,8,answers[7].answer
+p158,1,106,Planting Gurdyroot,9341,8,answers[7].answer
+p177,1,106,Planting Gurdyroot,21618,8,answers[7].answer
+p9,1,107,Planting Gurdyroot,15488,1,answers[0].answer
+p10,1,107,Planting Gurdyroot,8845,10,answers[9].answer
+p32,1,107,Planting Gurdyroot,4883,8,answers[7].answer
+p56,1,107,Planting Gurdyroot,11714,8,answers[7].answer
+p61,1,107,Planting Gurdyroot,7447,1,answers[0].answer
+p85,1,107,Planting Gurdyroot,23159,8,answers[7].answer
+p132,1,107,Planting Gurdyroot,9151,1,answers[0].answer
+p133,1,107,Planting Gurdyroot,5879,10,answers[9].answer
+p152,1,107,Planting Gurdyroot,7990,10,answers[9].answer
+p161,1,107,Planting Gurdyroot,9518,1,answers[0].answer
+p172,1,107,Planting Gurdyroot,7618,10,answers[9].answer
+p179,1,107,Planting Gurdyroot,13350,8,answers[7].answer
+p27,1,108,Planting Gurdyroot,12526,8,answers[7].answer
+p28,1,108,Planting Gurdyroot,9066,1,answers[0].answer
+p38,1,108,Planting Gurdyroot,16322,1,answers[0].answer
+p84,1,108,Planting Gurdyroot,8513,10,answers[9].answer
+p88,1,108,Planting Gurdyroot,7027,1,answers[0].answer
+p107,1,108,Planting Gurdyroot,6707,10,answers[9].answer
+p112,1,108,Planting Gurdyroot,21750,8,answers[7].answer
+p130,1,108,Planting Gurdyroot,15180,10,answers[9].answer
+p162,1,108,Planting Gurdyroot,11512,1,answers[0].answer
+p167,1,108,Planting Gurdyroot,8137,8,answers[7].answer
+p174,1,108,Planting Gurdyroot,8326,8,answers[7].answer
+p10,1,109,Planting Dittany,13142,2,answers[1].answer
+p28,1,109,Planting Dittany,7187,5,answers[4].answer
+p32,1,109,Planting Dittany,6359,6,answers[5].answer
+p38,1,109,Planting Dittany,9399,5,answers[4].answer
+p56,1,109,Planting Dittany,34104,6,answers[5].answer
+p84,1,109,Planting Dittany,8706,2,answers[1].answer
+p85,1,109,Planting Gurdyroot,10063,6,answers[5].answer
+p88,1,109,Planting Dittany,6699,5,answers[4].answer
+p107,1,109,Planting Dittany,10419,2,answers[1].answer
+p130,1,109,Planting Dittany,15748,2,answers[1].answer
+p162,1,109,Planting Dittany,13315,5,answers[4].answer
+p179,1,109,Planting Dittany,7574,6,answers[5].answer
+p3,1,110,Planting Dittany,6889,2,answers[1].answer
+p27,1,110,Planting Dittany,12247,6,answers[5].answer
+p49,1,110,Planting Dittany,12989,2,answers[1].answer
+p65,1,110,Planting Dittany,16147,5,answers[4].answer
+p86,1,110,Planting Dittany,16341,5,answers[4].answer
+p95,1,110,Planting Dittany,12227,5,answers[4].answer
+p105,1,110,Planting Dittany,7896,5,answers[4].answer
+p112,1,110,Planting Dittany,12374,6,answers[5].answer
+p122,1,110,Planting Dittany,9736,2,answers[1].answer
+p135,1,110,Planting Dittany,11330,2,answers[1].answer
+p143,1,110,Planting Dittany,23418,2,answers[1].answer
+p149,1,110,Planting Dittany,12119,2,answers[1].answer
+p167,1,110,Planting Dittany,8943,6,answers[5].answer
+p174,1,110,Planting Dittany,9343,6,answers[5].answer
+p4,1,111,Planting Dittany,8968,6,answers[5].answer
+p8,1,111,Planting Dittany,10449,5,answers[4].answer
+p13,1,111,Planting Dittany,12142,2,answers[1].answer
+p63,1,111,Planting Dittany,7463,6,answers[5].answer
+p74,1,111,Planting Dittany,5664,5,answers[4].answer
+p75,1,111,Planting Dittany,13722,5,answers[4].answer
+p76,1,111,Planting Dittany,11947,2,answers[1].answer
+p82,1,111,Planting Dittany,10356,6,answers[5].answer
+p87,1,111,Planting Dittany,7879,5,answers[4].answer
+p96,1,111,Planting Dittany,8255,6,answers[5].answer
+p119,1,111,Planting Dittany,8942,2,answers[1].answer
+p129,1,111,Planting Dittany,5814,6,answers[5].answer
+p9,1,112,Planting Dittany,43885,5,answers[4].answer
+p61,1,112,Planting Dittany,5029,5,answers[4].answer
+p124,1,112,Planting Dittany,6903,6,answers[5].answer
+p132,1,112,Planting Dittany,5660,5,answers[4].answer
+p133,1,112,Planting Dittany,13041,2,answers[1].answer
+p152,1,112,Planting Dittany,24468,2,answers[1].answer
+p158,1,112,Planting Dittany,15583,6,answers[5].answer
+p161,1,112,Planting Dittany,7501,5,answers[4].answer
+p172,1,112,Planting Dittany,10951,2,answers[1].answer
+p177,1,112,Planting Dittany,14370,6,answers[5].answer
+p74,1,113,Planting Puffapod,6691,3,answers[2].answer
+p75,1,113,Planting Puffapod,8523,3,answers[2].answer
+p87,1,113,Planting Puffapod,6741,3,answers[2].answer
+p124,1,113,Planting Puffapod,20088,4,answers[3].answer
+p133,1,113,Planting Puffapod,6149,7,answers[6].answer
+p152,1,113,Planting Puffapod,9686,7,answers[6].answer
+p158,1,113,Planting Puffapod,8119,4,answers[3].answer
+p172,1,113,Planting Puffapod,36523,7,answers[6].answer
+p177,1,113,Planting Puffapod,10459,4,answers[3].answer
+p9,1,114,Planting Puffapod,10500,3,answers[2].answer
+p10,1,114,Planting Puffapod,7407,7,answers[6].answer
+p32,1,114,Planting Puffapod,8475,4,answers[3].answer
+p56,1,114,Planting Puffapod,8106,4,answers[3].answer
+p61,1,114,Planting Puffapod,3910,3,answers[2].answer
+p84,1,114,Planting Puffapod,3870,7,answers[6].answer
+p85,1,114,Planting Puffapod,12511,4,answers[3].answer
+p107,1,114,Planting Puffapod,8400,7,answers[6].answer
+p130,1,114,Planting Puffapod,7711,7,answers[6].answer
+p132,1,114,Planting Puffapod,7633,3,answers[2].answer
+p161,1,114,Planting Puffapod,11760,3,answers[2].answer
+p179,1,114,Planting Puffapod,13864,4,answers[3].answer
+p3,1,115,Planting Puffapod,5558,7,answers[6].answer
+p27,1,115,Planting Puffapod,8551,4,answers[3].answer
+p28,1,115,Planting Puffapod,8541,3,answers[2].answer
+p38,1,115,Planting Puffapod,8451,3,answers[2].answer
+p88,1,115,Planting Puffapod,5087,3,answers[2].answer
+p112,1,115,Planting Puffapod,16950,4,answers[3].answer
+p122,1,115,Planting Puffapod,35630,7,answers[6].answer
+p135,1,115,Planting Puffapod,7250,7,answers[6].answer
+p143,1,115,Planting Puffapod,19967,7,answers[6].answer
+p149,1,115,Planting Puffapod,11345,7,answers[6].answer
+p162,1,115,Planting Puffapod,12645,3,answers[2].answer
+p167,1,115,Planting Puffapod,7692,4,answers[3].answer
+p174,1,115,Planting Puffapod,7977,4,answers[3].answer
+p4,1,116,Planting Puffapod,11993,4,answers[3].answer
+p8,1,116,Planting Puffapod,16648,3,answers[2].answer
+p13,1,116,Planting Puffapod,9916,7,answers[6].answer
+p49,1,116,Planting Puffapod,12087,7,answers[6].answer
+p63,1,116,Planting Puffapod,7297,4,answers[3].answer
+p65,1,116,Planting Puffapod,12750,3,answers[2].answer
+p76,1,116,Planting Puffapod,13606,7,answers[6].answer
+p82,1,116,Planting Puffapod,13921,4,answers[3].answer
+p86,1,116,Planting Puffapod,18782,3,answers[2].answer
+p95,1,116,Planting Puffapod,12975,3,answers[2].answer
+p96,1,116,Planting Puffapod,13060,4,answers[3].answer
+p105,1,116,Planting Puffapod,12504,3,answers[2].answer
+p119,1,116,Planting Puffapod,7998,7,answers[6].answer
+p129,1,116,Planting Puffapod,9249,4,answers[3].answer
+p2,1,117,Planting Wolfsbane,14415,9,answers[8].answer
+p5,1,117,Planting Dittany,27152,9,answers[8].answer
+p55,1,117,Planting Wolfsbane,18068,11,answers[10].answer
+p60,1,117,Planting Wolfsbane,21585,11,answers[10].answer
+p64,1,117,Planting Wolfsbane,40859,9,answers[8].answer
+p70,1,117,Planting Wolfsbane,12445,12,answers[11].answer
+p73,1,117,Planting Wolfsbane,32483,11,answers[10].answer
+p89,1,117,Planting Wolfsbane,24959,12,answers[11].answer
+p166,1,117,Planting Wolfsbane,21577,12,answers[11].answer
+p22,1,118,Planting Wolfsbane,21037,11,answers[10].answer
+p42,1,118,Planting Wolfsbane,23206,12,answers[11].answer
+p43,1,118,Planting Wolfsbane,11949,9,answers[8].answer
+p47,1,118,Planting Wolfsbane,17770,11,answers[10].answer
+p66,1,118,Planting Wolfsbane,23644,12,answers[11].answer
+p92,1,118,Planting Wolfsbane,13236,12,answers[11].answer
+p97,1,118,Planting Wolfsbane,42256,11,answers[10].answer
+p102,1,118,Planting Wolfsbane,15623,9,answers[8].answer
+p103,1,118,Planting Wolfsbane,44256,11,answers[10].answer
+p110,1,118,Planting Wolfsbane,16626,9,answers[8].answer
+p115,1,118,Planting Wolfsbane,10811,11,answers[10].answer
+p169,1,118,Planting Wolfsbane,27527,9,answers[8].answer
+p182,1,118,Planting Wolfsbane,18201,12,answers[11].answer
+p16,1,119,Planting Wolfsbane,24303,12,answers[11].answer
+p34,1,119,Planting Wolfsbane,17421,11,answers[10].answer
+p37,1,119,Planting Wolfsbane,15048,9,answers[8].answer
+p69,1,119,Planting Wolfsbane,38693,12,answers[11].answer
+p71,1,119,Planting Wolfsbane,25390,12,answers[11].answer
+p93,1,119,Planting Wolfsbane,23236,9,answers[8].answer
+p101,1,119,Planting Wolfsbane,21316,11,answers[10].answer
+p108,1,119,Planting Wolfsbane,47127,9,answers[8].answer
+p120,1,119,Planting Wolfsbane,36198,12,answers[11].answer
+p138,1,119,Planting Wolfsbane,33331,9,answers[8].answer
+p12,1,120,Same,129904,11,answers[10].answer
+p18,1,120,Planting Wolfsbane,30431,9,answers[8].answer
+p24,1,120,Same,25783,12,answers[11].answer
+p36,1,120,Planting Wolfsbane,61830,12,answers[11].answer
+p39,1,120,Planting Wolfsbane,47346,9,answers[8].answer
+p46,1,120,Planting Wolfsbane,27397,12,answers[11].answer
+p48,1,120,Planting Wolfsbane,24969,11,answers[10].answer
+p57,1,120,Planting Wolfsbane,41419,9,answers[8].answer
+p80,1,120,Planting Wolfsbane,47607,9,answers[8].answer
+p136,1,120,Planting Wolfsbane,11432,11,answers[10].answer
+p144,1,120,Planting Wolfsbane,23770,12,answers[11].answer
+p145,1,120,Planting Wolfsbane,25878,11,answers[10].answer
+p147,1,120,Planting Wolfsbane,20211,11,answers[10].answer
+p171,1,120,Planting Wolfsbane,59844,12,answers[11].answer
+p183,1,120,Planting Wolfsbane,62729,9,answers[8].answer
+p185,1,120,Planting Wolfsbane,35544,11,answers[10].answer
+p12,1,121,Same,60611,10,answers[9].answer
+p18,1,121,Planting Dittany in 2020,31504,1,answers[0].answer
+p22,1,121,Planting Dittany in 2020,39086,10,answers[9].answer
+p24,1,121,Planting Dittany in 2020,28702,8,answers[7].answer
+p37,1,121,Planting Dittany in 2020,29563,1,answers[0].answer
+p42,1,121,Planting Dittany in 2020,21234,8,answers[7].answer
+p48,1,121,Planting Dittany in 2020,15499,10,answers[9].answer
+p66,1,121,Planting Dittany in 2020,28707,8,answers[7].answer
+p92,1,121,Planting Dittany in 2020,25292,8,answers[7].answer
+p93,1,121,Planting Dittany in 2020,23755,1,answers[0].answer
+p108,1,121,Planting Dittany in 2020,50129,1,answers[0].answer
+p136,1,121,Planting Dittany in 2020,17287,10,answers[9].answer
+p138,1,121,Planting Dittany in 2020,24547,1,answers[0].answer
+p145,1,121,Planting Dittany in 2020,45383,10,answers[9].answer
+p147,1,121,Planting Dittany in 2020,14324,10,answers[9].answer
+p182,1,121,Planting Dittany in 2020,26306,8,answers[7].answer
+p185,1,121,Planting Dittany in 2020,18722,10,answers[9].answer
+p16,1,122,Planting Dittany in 2020,47187,8,answers[7].answer
+p39,1,122,Planting Dittany in 2020,29561,1,answers[0].answer
+p55,1,122,Planting Dittany in 2020,10862,10,answers[9].answer
+p57,1,122,Planting Dittany in 2020,32255,1,answers[0].answer
+p60,1,122,Planting Dittany in 2020,26893,10,answers[9].answer
+p69,1,122,Planting Dittany in 2020,33110,8,answers[7].answer
+p71,1,122,Planting Dittany in 2020,15339,8,answers[7].answer
+p73,1,122,Planting Dittany in 2020,40249,10,answers[9].answer
+p80,1,122,Planting Dittany in 2020,35712,1,answers[0].answer
+p120,1,122,Planting Dittany in 2020,33807,8,answers[7].answer
+p183,1,122,Planting Gurdyroot in 2019,35907,1,answers[0].answer
+p2,1,123,Planting Dittany in 2020,57688,1,answers[0].answer
+p5,1,123,Planting Dittany in 2020,27855,1,answers[0].answer
+p36,1,123,Planting Dittany in 2020,25886,8,answers[7].answer
+p46,1,123,Planting Dittany in 2020,13803,8,answers[7].answer
+p47,1,123,Planting Dittany in 2020,19493,10,answers[9].answer
+p64,1,123,Planting Dittany in 2020,59944,1,answers[0].answer
+p97,1,123,Planting Dittany in 2020,21224,10,answers[9].answer
+p103,1,123,Planting Dittany in 2020,44360,10,answers[9].answer
+p115,1,123,Planting Dittany in 2020,21609,10,answers[9].answer
+p144,1,123,Planting Dittany in 2020,22687,8,answers[7].answer
+p171,1,123,Planting Dittany in 2020,24449,8,answers[7].answer
+p34,1,124,Planting Dittany in 2020,76899,10,answers[9].answer
+p43,1,124,Planting Dittany in 2020,29048,1,answers[0].answer
+p70,1,124,Planting Dittany in 2020,33470,8,answers[7].answer
+p89,1,124,Same,68711,8,answers[7].answer
+p101,1,124,Planting Dittany in 2020,39807,10,answers[9].answer
+p102,1,124,Same,47663,1,answers[0].answer
+p110,1,124,Planting Dittany in 2020,26832,1,answers[0].answer
+p166,1,124,Same,14698,8,answers[7].answer
+p169,1,124,Planting Dittany in 2020,59374,1,answers[0].answer
+p34,1,125,Planting Dittany,22150,2,answers[1].answer
+p36,1,125,Same,49272,6,answers[5].answer
+p43,1,125,Same,20379,5,answers[4].answer
+p46,1,125,Same,19204,6,answers[5].answer
+p101,1,125,Same,23538,2,answers[1].answer
+p102,1,125,Same,24936,5,answers[4].answer
+p110,1,125,Same,27212,5,answers[4].answer
+p144,1,125,Same,18909,6,answers[5].answer
+p169,1,125,Same,20535,5,answers[4].answer
+p171,1,125,Same,30805,6,answers[5].answer
+p12,1,126,Same,82683,2,answers[1].answer
+p18,1,126,Same,30121,5,answers[4].answer
+p24,1,126,Same,32305,6,answers[5].answer
+p37,1,126,Same,12745,5,answers[4].answer
+p48,1,126,Same,9560,2,answers[1].answer
+p70,1,126,Same,26159,6,answers[5].answer
+p89,1,126,Same,35510,6,answers[5].answer
+p93,1,126,Same,29009,5,answers[4].answer
+p108,1,126,Same,59981,5,answers[4].answer
+p136,1,126,Same,32551,2,answers[1].answer
+p138,1,126,Same,54175,5,answers[4].answer
+p145,1,126,Same,19953,2,answers[1].answer
+p147,1,126,Same,17001,2,answers[1].answer
+p166,1,126,Planting Dittany,20139,6,answers[5].answer
+p185,1,126,Same,30288,2,answers[1].answer
+p22,1,127,Planting Puffapod,22476,2,answers[1].answer
+p39,1,127,Same,41783,5,answers[4].answer
+p42,1,127,Same,16756,6,answers[5].answer
+p55,1,127,Same,11292,2,answers[1].answer
+p57,1,127,Same,44806,5,answers[4].answer
+p60,1,127,Same,25809,2,answers[1].answer
+p66,1,127,Not sure,21837,6,answers[5].answer
+p73,1,127,Not sure,44662,2,answers[1].answer
+p80,1,127,Same,30335,5,answers[4].answer
+p92,1,127,Same,14342,6,answers[5].answer
+p182,1,127,Same,46556,6,answers[5].answer
+p183,1,127,Planting Dittany,60360,5,answers[4].answer
+p2,1,128,Same,25055,5,answers[4].answer
+p5,1,128,Same,22207,5,answers[4].answer
+p16,1,128,Same,84224,6,answers[5].answer
+p47,1,128,Planting Puffapod,36667,2,answers[1].answer
+p64,1,128,Same,20444,5,answers[4].answer
+p69,1,128,Same,66490,6,answers[5].answer
+p71,1,128,Same,21946,6,answers[5].answer
+p97,1,128,Same,42903,2,answers[1].answer
+p103,1,128,Same,36583,2,answers[1].answer
+p115,1,128,Same,38088,2,answers[1].answer
+p120,1,128,Same,78539,6,answers[5].answer
+p16,1,129,Same,64835,4,answers[3].answer
+p39,1,129,Same,34400,3,answers[2].answer
+p47,1,129,Same,19731,7,answers[6].answer
+p57,1,129,Same,76727,3,answers[2].answer
+p69,1,129,Same,42838,4,answers[3].answer
+p71,1,129,Same,30198,4,answers[3].answer
+p80,1,129,Planting Wolfsbane in 2018,33023,3,answers[2].answer
+p97,1,129,Same,38872,7,answers[6].answer
+p103,1,129,Same,36368,7,answers[6].answer
+p115,1,129,Same,15527,7,answers[6].answer
+p120,1,129,Same,56649,4,answers[3].answer
+p183,1,129,Same,57286,3,answers[2].answer
+p2,1,130,Same,20662,3,answers[2].answer
+p5,1,130,Same,56314,3,answers[2].answer
+p34,1,130,Planting Gurdyroot in 2019,19122,7,answers[6].answer
+p36,1,130,Same,39567,4,answers[3].answer
+p46,1,130,Same,27512,4,answers[3].answer
+p64,1,130,Same,37228,3,answers[2].answer
+p101,1,130,Planting Gurdyroot in 2019,38109,7,answers[6].answer
+p144,1,130,Planting Gurdyroot in 2019,28054,4,answers[3].answer
+p171,1,130,Same,51858,4,answers[3].answer
+p12,1,131,Same,119557,7,answers[6].answer
+p18,1,131,Same,25371,3,answers[2].answer
+p24,1,131,Same,29048,4,answers[3].answer
+p43,1,131,Same,18062,3,answers[2].answer
+p48,1,131,Not sure,21485,7,answers[6].answer
+p70,1,131,Same,26979,4,answers[3].answer
+p89,1,131,Same,33308,4,answers[3].answer
+p102,1,131,Planting Wolfsbane in 2018,56296,3,answers[2].answer
+p110,1,131,Same,26574,3,answers[2].answer
+p136,1,131,Same,15768,7,answers[6].answer
+p145,1,131,Same,22630,7,answers[6].answer
+p147,1,131,Same,88182,7,answers[6].answer
+p166,1,131,Planting Gurdyroot in 2019,42601,4,answers[3].answer
+p169,1,131,Same,21399,3,answers[2].answer
+p185,1,131,Same,54866,7,answers[6].answer
+p22,1,132,Same,34191,7,answers[6].answer
+p37,1,132,Same,30081,3,answers[2].answer
+p42,1,132,Same,40256,4,answers[3].answer
+p55,1,132,Same,34215,7,answers[6].answer
+p60,1,132,Same,35539,7,answers[6].answer
+p66,1,132,Same,23325,4,answers[3].answer
+p73,1,132,Planting Wolfsbane in 2018,51600,7,answers[6].answer
+p92,1,132,Same,24186,4,answers[3].answer
+p93,1,132,Planting Wolfsbane in 2018,31300,3,answers[2].answer
+p108,1,132,Same,49103,3,answers[2].answer
+p138,1,132,Same,38288,3,answers[2].answer
+p182,1,132,Same,37556,4,answers[3].answer
+p0,1,133,2 PM,22129,2,answers[1].answer
+p1,1,133,2 PM,10017,12,answers[11].answer
+p19,1,133,2 PM,8233,12,answers[11].answer
+p26,1,133,2 PM,17614,5,answers[4].answer
+p30,1,133,2 PM,19626,2,answers[1].answer
+p31,1,133,2 PM,8062,2,answers[1].answer
+p106,1,133,2 PM,14508,5,answers[4].answer
+p140,1,133,2 PM,10771,5,answers[4].answer
+p160,1,133,2 PM,10833,12,answers[11].answer
+p163,1,133,2 PM,8236,5,answers[4].answer
+p175,1,133,2 PM,22271,2,answers[1].answer
+p45,1,134,2 PM,12973,12,answers[11].answer
+p62,1,134,2 PM,12887,5,answers[4].answer
+p67,1,134,2 PM,4991,5,answers[4].answer
+p81,1,134,2 PM,10048,5,answers[4].answer
+p83,1,134,2 PM,10274,2,answers[1].answer
+p90,1,134,2 PM,24264,12,answers[11].answer
+p109,1,134,2 PM,42642,2,answers[1].answer
+p131,1,134,2 PM,15069,2,answers[1].answer
+p142,1,134,2 PM,9575,5,answers[4].answer
+p154,1,134,2 PM,3633,12,answers[11].answer
+p159,1,134,2 PM,9357,12,answers[11].answer
+p178,1,134,2 PM,9565,2,answers[1].answer
+p187,1,134,2 PM,8462,12,answers[11].answer
+p14,1,135,2 PM,7263,5,answers[4].answer
+p41,1,135,2 PM,13094,5,answers[4].answer
+p58,1,135,2 PM,8527,12,answers[11].answer
+p77,1,135,2 PM,15474,12,answers[11].answer
+p104,1,135,2 PM,16680,5,answers[4].answer
+p113,1,135,2 PM,15718,2,answers[1].answer
+p118,1,135,2 PM,10197,12,answers[11].answer
+p123,1,135,2 PM,18435,2,answers[1].answer
+p125,1,135,2 PM,15391,12,answers[11].answer
+p126,1,135,2 PM,5860,2,answers[1].answer
+p155,1,135,2 PM,5717,5,answers[4].answer
+p180,1,135,2 PM,45124,5,answers[4].answer
+p11,1,136,2 PM,18746,5,answers[4].answer
+p21,1,136,2 PM,8782,2,answers[1].answer
+p59,1,136,2 PM,9077,2,answers[1].answer
+p72,1,136,2 PM,15215,12,answers[11].answer
+p79,1,136,2 PM,6167,5,answers[4].answer
+p94,1,136,2 PM,13532,2,answers[1].answer
+p128,1,136,2 PM,8413,2,answers[1].answer
+p139,1,136,2 PM,9660,5,answers[4].answer
+p146,1,136,2 PM,18022,12,answers[11].answer
+p157,1,136,2 PM,11903,12,answers[11].answer
+p168,1,136,2 PM,11982,2,answers[1].answer
+p189,1,136,2 PM,7428,12,answers[11].answer
+p21,1,137,4 PM,9424,7,answers[6].answer
+p41,1,137,4 PM,14789,1,answers[0].answer
+p58,1,137,4 PM,12303,4,answers[3].answer
+p59,1,137,4 PM,241726,7,answers[6].answer
+p62,1,137,4 PM,8897,1,answers[0].answer
+p67,1,137,4 PM,7127,1,answers[0].answer
+p77,1,137,4 PM,32703,4,answers[3].answer
+p81,1,137,4 PM,10016,1,answers[0].answer
+p94,1,137,4 PM,7853,7,answers[6].answer
+p118,1,137,4 PM,8543,4,answers[3].answer
+p125,1,137,4 PM,7848,4,answers[3].answer
+p128,1,137,4 PM,8895,7,answers[6].answer
+p142,1,137,4 PM,9893,1,answers[0].answer
+p168,1,137,4 PM,13666,7,answers[6].answer
+p0,1,138,4 PM,14409,7,answers[6].answer
+p14,1,138,4 PM,5350,1,answers[0].answer
+p30,1,138,4 PM,8224,7,answers[6].answer
+p31,1,138,4 PM,5759,7,answers[6].answer
+p72,1,138,4 PM,8819,4,answers[3].answer
+p104,1,138,4 PM,11439,1,answers[0].answer
+p146,1,138,4 PM,16965,4,answers[3].answer
+p155,1,138,4 PM,9531,1,answers[0].answer
+p157,1,138,4 PM,9530,4,answers[3].answer
+p175,1,138,4 PM,13446,7,answers[6].answer
+p180,1,138,4 PM,4926,1,answers[0].answer
+p189,1,138,4 PM,8646,4,answers[3].answer
+p1,1,139,4 PM,19369,4,answers[3].answer
+p11,1,139,4 PM,34220,1,answers[0].answer
+p19,1,139,4 PM,4840,4,answers[3].answer
+p79,1,139,4 PM,4365,1,answers[0].answer
+p83,1,139,4 PM,6759,7,answers[6].answer
+p109,1,139,4 PM,16998,7,answers[6].answer
+p131,1,139,4 PM,7057,7,answers[6].answer
+p139,1,139,4 PM,7094,1,answers[0].answer
+p160,1,139,4 PM,5460,4,answers[3].answer
+p178,1,139,4 PM,8412,7,answers[6].answer
+p26,1,140,4 PM,20710,1,answers[0].answer
+p45,1,140,4 PM,7820,4,answers[3].answer
+p90,1,140,7 PM,20084,4,answers[3].answer
+p106,1,140,4 PM,16556,1,answers[0].answer
+p113,1,140,4 PM,16512,7,answers[6].answer
+p123,1,140,4 PM,7850,7,answers[6].answer
+p126,1,140,4 PM,8359,7,answers[6].answer
+p140,1,140,4 PM,12476,1,answers[0].answer
+p154,1,140,4 PM,4563,4,answers[3].answer
+p159,1,140,4 PM,17903,4,answers[3].answer
+p163,1,140,4 PM,254060,1,answers[0].answer
+p187,1,140,4 PM,5970,4,answers[3].answer
+p11,1,141,7 PM,28903,9,answers[8].answer
+p72,1,141,7 PM,12403,6,answers[5].answer
+p79,1,141,7 PM,5179,9,answers[8].answer
+p83,1,141,7 PM,7060,10,answers[9].answer
+p109,1,141,7 PM,17189,10,answers[9].answer
+p131,1,141,7 PM,11550,10,answers[9].answer
+p139,1,141,7 PM,10253,9,answers[8].answer
+p146,1,141,7 PM,19626,6,answers[5].answer
+p157,1,141,7 PM,9526,6,answers[5].answer
+p178,1,141,7 PM,8503,10,answers[9].answer
+p189,1,141,7 PM,7382,6,answers[5].answer
+p1,1,142,7 PM,15342,6,answers[5].answer
+p19,1,142,7 PM,4951,6,answers[5].answer
+p26,1,142,7 PM,9894,9,answers[8].answer
+p106,1,142,7 PM,18457,9,answers[8].answer
+p113,1,142,7 PM,13591,10,answers[9].answer
+p123,1,142,7 PM,9868,10,answers[9].answer
+p126,1,142,7 PM,4103,10,answers[9].answer
+p140,1,142,7 PM,11799,9,answers[8].answer
+p160,1,142,7 PM,7082,6,answers[5].answer
+p163,1,142,7 PM,8884,9,answers[8].answer
+p21,1,143,7 PM,8760,10,answers[9].answer
+p45,1,143,7 PM,8248,6,answers[5].answer
+p59,1,143,7 PM,6426,10,answers[9].answer
+p62,1,143,7 PM,15727,9,answers[8].answer
+p67,1,143,7 PM,5135,9,answers[8].answer
+p81,1,143,7 PM,6399,9,answers[8].answer
+p90,1,143,7 PM,8546,6,answers[5].answer
+p94,1,143,7 PM,8347,10,answers[9].answer
+p128,1,143,7 PM,9078,10,answers[9].answer
+p142,1,143,7 PM,8919,9,answers[8].answer
+p154,1,143,7 PM,4881,6,answers[5].answer
+p159,1,143,7 PM,9855,6,answers[5].answer
+p168,1,143,7 PM,8570,10,answers[9].answer
+p187,1,143,7 PM,6836,6,answers[5].answer
+p0,1,144,7 PM,7993,10,answers[9].answer
+p14,1,144,7 PM,5959,9,answers[8].answer
+p30,1,144,7 PM,9004,10,answers[9].answer
+p31,1,144,7 PM,4968,10,answers[9].answer
+p41,1,144,7 PM,10171,9,answers[8].answer
+p58,1,144,7 PM,10520,6,answers[5].answer
+p77,1,144,7 PM,9986,6,answers[5].answer
+p104,1,144,7 PM,13592,9,answers[8].answer
+p118,1,144,7 PM,12640,6,answers[5].answer
+p125,1,144,7 PM,10455,6,answers[5].answer
+p155,1,144,7 PM,9484,9,answers[8].answer
+p175,1,144,7 PM,15685,10,answers[9].answer
+p180,1,144,7 PM,10913,9,answers[8].answer
+p14,1,145,12 PM,6112,3,answers[2].answer
+p45,1,145,12 PM,8155,8,answers[7].answer
+p90,1,145,12 PM,8337,8,answers[7].answer
+p104,1,145,12 PM,6200,3,answers[2].answer
+p113,1,145,12 PM,9240,11,answers[10].answer
+p123,1,145,12 PM,7610,11,answers[10].answer
+p126,1,145,12 PM,5671,11,answers[10].answer
+p154,1,145,12 PM,3491,8,answers[7].answer
+p155,1,145,12 PM,16788,3,answers[2].answer
+p159,1,145,12 PM,9479,8,answers[7].answer
+p180,1,145,12 PM,9697,3,answers[2].answer
+p187,1,145,12 PM,8529,8,answers[7].answer
+p11,1,146,12 PM,13778,3,answers[2].answer
+p21,1,146,12 PM,5224,11,answers[10].answer
+p41,1,146,12 PM,10354,3,answers[2].answer
+p58,1,146,12 PM,9286,8,answers[7].answer
+p59,1,146,12 PM,6958,11,answers[10].answer
+p77,1,146,12 PM,51405,8,answers[7].answer
+p79,1,146,12 PM,5219,3,answers[2].answer
+p94,1,146,12 PM,7065,11,answers[10].answer
+p118,1,146,12 PM,10575,8,answers[7].answer
+p125,1,146,12 PM,9730,8,answers[7].answer
+p128,1,146,12 PM,4960,11,answers[10].answer
+p139,1,146,12 PM,6370,3,answers[2].answer
+p168,1,146,12 PM,11928,11,answers[10].answer
+p0,1,147,12 PM,10874,11,answers[10].answer
+p26,1,147,12 PM,6372,3,answers[2].answer
+p30,1,147,12 PM,8457,11,answers[10].answer
+p31,1,147,12 PM,6272,11,answers[10].answer
+p72,1,147,12 PM,15521,8,answers[7].answer
+p106,1,147,12 PM,14987,3,answers[2].answer
+p140,1,147,12 PM,8784,3,answers[2].answer
+p146,1,147,12 PM,19273,8,answers[7].answer
+p157,1,147,12 PM,8696,8,answers[7].answer
+p163,1,147,12 PM,9643,3,answers[2].answer
+p175,1,147,12 PM,12471,11,answers[10].answer
+p189,1,147,12 PM,4823,8,answers[7].answer
+p1,1,148,12 PM,10419,8,answers[7].answer
+p19,1,148,12 PM,4953,8,answers[7].answer
+p62,1,148,12 PM,8423,3,answers[2].answer
+p67,1,148,12 PM,5815,3,answers[2].answer
+p81,1,148,12 PM,5696,3,answers[2].answer
+p83,1,148,12 PM,9100,11,answers[10].answer
+p109,1,148,12 PM,14001,11,answers[10].answer
+p131,1,148,12 PM,4932,11,answers[10].answer
+p142,1,148,12 PM,8286,3,answers[2].answer
+p160,1,148,12 PM,8536,8,answers[7].answer
+p178,1,148,12 PM,6778,11,answers[10].answer
+p7,1,149,Lunch,9141,2,answers[1].answer
+p17,1,149,Lunch,11603,12,answers[11].answer
+p23,1,149,Lunch,11747,2,answers[1].answer
+p25,1,149,Lunch,6524,2,answers[1].answer
+p29,1,149,Lunch,11159,12,answers[11].answer
+p99,1,149,Lunch,22176,5,answers[4].answer
+p100,1,149,Lunch,4320,5,answers[4].answer
+p134,1,149,Lunch,11563,2,answers[1].answer
+p165,1,149,Lunch,39831,12,answers[11].answer
+p184,1,149,Lunch,6749,5,answers[4].answer
+p188,1,149,Lunch,14736,5,answers[4].answer
+p15,1,150,Lunch,10698,12,answers[11].answer
+p40,1,150,Lunch,6249,5,answers[4].answer
+p50,1,150,Lunch,4407,2,answers[1].answer
+p52,1,150,Lunch,10384,12,answers[11].answer
+p91,1,150,Lunch,6172,5,answers[4].answer
+p117,1,150,Lunch,4561,12,answers[11].answer
+p127,1,150,Lunch,12632,2,answers[1].answer
+p137,1,150,Lunch,5629,2,answers[1].answer
+p170,1,150,Lunch,12241,5,answers[4].answer
+p173,1,150,Lunch,5667,12,answers[11].answer
+p35,1,151,Lunch,9915,12,answers[11].answer
+p51,1,151,Lunch,5810,12,answers[11].answer
+p68,1,151,Lunch,8680,5,answers[4].answer
+p78,1,151,Lunch,10359,5,answers[4].answer
+p114,1,151,Lunch,10080,12,answers[11].answer
+p116,1,151,Lunch,7767,2,answers[1].answer
+p121,1,151,Lunch,16449,5,answers[4].answer
+p148,1,151,Lunch,20560,2,answers[1].answer
+p150,1,151,Lunch,13647,12,answers[11].answer
+p156,1,151,Lunch,28262,2,answers[1].answer
+p164,1,151,Lunch,12578,5,answers[4].answer
+p6,1,152,Lunch,9861,12,answers[11].answer
+p20,1,152,Lunch,11027,2,answers[1].answer
+p33,1,152,Lunch,11229,2,answers[1].answer
+p44,1,152,Lunch,9638,2,answers[1].answer
+p53,1,152,Lunch,7593,2,answers[1].answer
+p54,1,152,Lunch,8608,5,answers[4].answer
+p98,1,152,Lunch,15685,2,answers[1].answer
+p111,1,152,Lunch,15361,2,answers[1].answer
+p141,1,152,Lunch,8953,5,answers[4].answer
+p151,1,152,Lunch,7657,12,answers[11].answer
+p153,1,152,Lunch,5579,5,answers[4].answer
+p176,1,152,Lunch,13975,12,answers[11].answer
+p181,1,152,Lunch,20744,12,answers[11].answer
+p186,1,152,Lunch,12481,5,answers[4].answer
+p190,1,152,Lunch,13663,12,answers[11].answer
+p191,1,152,Lunch,15113,5,answers[4].answer
+p20,1,153,Reading Group,9171,7,answers[6].answer
+p33,1,153,Reading Group,13567,7,answers[6].answer
+p35,1,153,Reading Group,8659,4,answers[3].answer
+p40,1,153,Reading Group,8287,1,answers[0].answer
+p44,1,153,Reading Group,11903,7,answers[6].answer
+p51,1,153,Reading Group,4180,4,answers[3].answer
+p91,1,153,Reading Group,10879,1,answers[0].answer
+p114,1,153,Reading Group,11030,4,answers[3].answer
+p150,1,153,Reading Group,11383,4,answers[3].answer
+p170,1,153,Reading Group,11247,1,answers[0].answer
+p6,1,154,Reading Group,9315,4,answers[3].answer
+p7,1,154,Reading Group,5392,7,answers[6].answer
+p23,1,154,Reading Group,6993,7,answers[6].answer
+p25,1,154,Reading Group,4816,7,answers[6].answer
+p68,1,154,Reading Group,10103,1,answers[0].answer
+p78,1,154,Reading Group,12279,1,answers[0].answer
+p121,1,154,Reading Group,8835,1,answers[0].answer
+p134,1,154,Reading Group,6739,7,answers[6].answer
+p151,1,154,Reading Group,8638,4,answers[3].answer
+p164,1,154,Reading Group,16724,1,answers[0].answer
+p176,1,154,Reading Group,12144,4,answers[3].answer
+p181,1,154,Reading Group,9055,4,answers[3].answer
+p190,1,154,Reading Group,10617,4,answers[3].answer
+p17,1,155,Reading Group,11700,4,answers[3].answer
+p29,1,155,Reading Group,16267,4,answers[3].answer
+p50,1,155,Reading Group,5129,7,answers[6].answer
+p53,1,155,Reading Group,6656,7,answers[6].answer
+p54,1,155,Reading Group,10152,1,answers[0].answer
+p98,1,155,Reading Group,9534,7,answers[6].answer
+p111,1,155,Reading Group,16366,7,answers[6].answer
+p127,1,155,Reading Group,26960,7,answers[6].answer
+p137,1,155,Reading Group,6584,7,answers[6].answer
+p141,1,155,Reading Group,10243,1,answers[0].answer
+p153,1,155,Reading Group,8913,1,answers[0].answer
+p165,1,155,Reading Group,8655,4,answers[3].answer
+p186,1,155,Wake up,21148,1,answers[0].answer
+p191,1,155,Reading Group,17057,1,answers[0].answer
+p15,1,156,Reading Group,14686,4,answers[3].answer
+p52,1,156,Reading Group,18971,4,answers[3].answer
+p99,1,156,Reading Group,28101,1,answers[0].answer
+p100,1,156,Reading Group,7999,1,answers[0].answer
+p116,1,156,Reading Group,5412,7,answers[6].answer
+p117,1,156,Reading Group,21161,4,answers[3].answer
+p148,1,156,Reading Group,8484,7,answers[6].answer
+p156,1,156,Reading Group,35954,7,answers[6].answer
+p173,1,156,Reading Group,7086,4,answers[3].answer
+p184,1,156,Reading Group,8707,1,answers[0].answer
+p188,1,156,Reading Group,6352,1,answers[0].answer
+p6,1,157,Group Meeting,10376,6,answers[5].answer
+p50,1,157,Group Meeting,6833,10,answers[9].answer
+p53,1,157,Group Meeting,6092,10,answers[9].answer
+p54,1,157,Group Meeting,7615,9,answers[8].answer
+p98,1,157,Group Meeting,14229,10,answers[9].answer
+p111,1,157,Group Meeting,48564,10,answers[9].answer
+p127,1,157,Group Meeting,16019,10,answers[9].answer
+p137,1,157,Lunch,6023,10,answers[9].answer
+p141,1,157,Group Meeting,9682,9,answers[8].answer
+p151,1,157,Group Meeting,6332,6,answers[5].answer
+p153,1,157,Group Meeting,6575,9,answers[8].answer
+p176,1,157,Group Meeting,10696,6,answers[5].answer
+p181,1,157,Group Meeting,16861,6,answers[5].answer
+p186,1,157,Group Meeting,9664,9,answers[8].answer
+p190,1,157,Group Meeting,15365,6,answers[5].answer
+p191,1,157,Group Meeting,23759,9,answers[8].answer
+p17,1,158,Group Meeting,8828,6,answers[5].answer
+p29,1,158,Group Meeting,10532,6,answers[5].answer
+p99,1,158,Group Meeting,9510,9,answers[8].answer
+p100,1,158,Group Meeting,5419,9,answers[8].answer
+p116,1,158,Group Meeting,5840,10,answers[9].answer
+p148,1,158,Group Meeting,11893,10,answers[9].answer
+p156,1,158,Group Meeting,16384,10,answers[9].answer
+p165,1,158,Group Meeting,7671,6,answers[5].answer
+p184,1,158,Group Meeting,12086,9,answers[8].answer
+p188,1,158,Group Meeting,6248,9,answers[8].answer
+p15,1,159,Group Meeting,13972,6,answers[5].answer
+p20,1,159,Group Meeting,8834,10,answers[9].answer
+p33,1,159,Group Meeting,12307,10,answers[9].answer
+p40,1,159,Group Meeting,13142,9,answers[8].answer
+p44,1,159,Group Meeting,10391,10,answers[9].answer
+p52,1,159,Group Meeting,14832,6,answers[5].answer
+p91,1,159,Group Meeting,9064,9,answers[8].answer
+p117,1,159,Group Meeting,11173,6,answers[5].answer
+p170,1,159,Group Meeting,8875,9,answers[8].answer
+p173,1,159,Group Meeting,8510,6,answers[5].answer
+p7,1,160,Group Meeting,12983,10,answers[9].answer
+p23,1,160,Group Meeting,7824,10,answers[9].answer
+p25,1,160,Group Meeting,7582,10,answers[9].answer
+p35,1,160,Group Meeting,7724,6,answers[5].answer
+p51,1,160,Group Meeting,8424,6,answers[5].answer
+p68,1,160,Group Meeting,12272,9,answers[8].answer
+p78,1,160,Group Meeting,9155,9,answers[8].answer
+p114,1,160,Group Meeting,12795,6,answers[5].answer
+p121,1,160,Group Meeting,12559,9,answers[8].answer
+p134,1,160,Group Meeting,9451,10,answers[9].answer
+p150,1,160,Group Meeting,8550,6,answers[5].answer
+p164,1,160,Group Meeting,27000,9,answers[8].answer
+p15,1,161,Movie Night,10386,8,answers[7].answer
+p52,1,161,Movie Night,8922,8,answers[7].answer
+p68,1,161,Movie Night,9706,3,answers[2].answer
+p78,1,161,Movie Night,7350,3,answers[2].answer
+p116,1,161,Movie Night,7525,11,answers[10].answer
+p117,1,161,Movie Night,8359,8,answers[7].answer
+p121,1,161,Movie Night,8847,3,answers[2].answer
+p148,1,161,Movie Night,7028,11,answers[10].answer
+p156,1,161,Movie Night,50026,11,answers[10].answer
+p164,1,161,Movie Night,14664,3,answers[2].answer
+p173,1,161,Movie Night,7905,8,answers[7].answer
+p20,1,162,Movie Night,9816,11,answers[10].answer
+p33,1,162,Movie Night,11868,11,answers[10].answer
+p35,1,162,Movie Night,5196,8,answers[7].answer
+p44,1,162,Movie Night,9047,11,answers[10].answer
+p51,1,162,Movie Night,5223,8,answers[7].answer
+p53,1,162,Movie Night,5702,11,answers[10].answer
+p54,1,162,Movie Night,10095,3,answers[2].answer
+p98,1,162,Movie Night,10809,11,answers[10].answer
+p111,1,162,Movie Night,8297,11,answers[10].answer
+p114,1,162,Movie Night,9126,8,answers[7].answer
+p141,1,162,Movie Night,7256,3,answers[2].answer
+p150,1,162,Movie Night,8279,8,answers[7].answer
+p153,1,162,Movie Night,5068,3,answers[2].answer
+p186,1,162,Movie Night,7186,3,answers[2].answer
+p191,1,162,Movie Night,8628,3,answers[2].answer
+p6,1,163,Movie Night,13639,8,answers[7].answer
+p7,1,163,Movie Night,7911,11,answers[10].answer
+p23,1,163,Movie Night,5500,11,answers[10].answer
+p25,1,163,Movie Night,6779,11,answers[10].answer
+p99,1,163,Movie Night,9525,3,answers[2].answer
+p100,1,163,Movie Night,5344,3,answers[2].answer
+p134,1,163,Movie Night,13675,11,answers[10].answer
+p151,1,163,Movie Night,8326,8,answers[7].answer
+p176,1,163,Movie Night,12367,8,answers[7].answer
+p181,1,163,Movie Night,8238,8,answers[7].answer
+p184,1,163,Movie Night,17622,3,answers[2].answer
+p188,1,163,Movie Night,8719,3,answers[2].answer
+p190,1,163,Movie Night,13897,8,answers[7].answer
+p17,1,164,Movie Night,6977,8,answers[7].answer
+p29,1,164,Movie Night,31980,8,answers[7].answer
+p40,1,164,Movie Night,10485,3,answers[2].answer
+p50,1,164,Movie Night,5147,11,answers[10].answer
+p91,1,164,Movie Night,9291,3,answers[2].answer
+p127,1,164,Movie Night,15757,11,answers[10].answer
+p137,1,164,Movie Night,9931,11,answers[10].answer
+p165,1,164,Movie Night,9375,8,answers[7].answer
+p170,1,164,Movie Night,9718,3,answers[2].answer
+p49,1,165,Lunch,11205,12,answers[11].answer
+p65,1,165,Lunch,15988,2,answers[1].answer
+p76,1,165,Lunch,11146,12,answers[11].answer
+p86,1,165,Lunch,12312,2,answers[1].answer
+p95,1,165,Lunch,9437,2,answers[1].answer
+p105,1,165,Lunch,12643,2,answers[1].answer
+p119,1,165,Lunch,6984,12,answers[11].answer
+p124,1,165,Lunch,5939,5,answers[4].answer
+p158,1,165,Lunch,5748,5,answers[4].answer
+p177,1,165,Lunch,8419,5,answers[4].answer
+p10,1,166,Lunch,6546,12,answers[11].answer
+p32,1,166,Lunch,6461,5,answers[4].answer
+p56,1,166,Lunch,9881,5,answers[4].answer
+p74,1,166,Lunch,5891,2,answers[1].answer
+p75,1,166,Lunch,8103,2,answers[1].answer
+p85,1,166,Lunch,7391,5,answers[4].answer
+p87,1,166,Lunch,8742,2,answers[1].answer
+p133,1,166,Lunch,39652,12,answers[11].answer
+p152,1,166,Lunch,7383,12,answers[11].answer
+p172,1,166,Lunch,5774,12,answers[11].answer
+p179,1,166,Lunch,12446,5,answers[4].answer
+p9,1,167,Lunch,11274,2,answers[1].answer
+p27,1,167,Lunch,8479,5,answers[4].answer
+p61,1,167,Lunch,6142,2,answers[1].answer
+p84,1,167,Lunch,6812,12,answers[11].answer
+p107,1,167,Lunch,6703,12,answers[11].answer
+p112,1,167,Lunch,19095,5,answers[4].answer
+p130,1,167,Lunch,7701,12,answers[11].answer
+p132,1,167,Lunch,7599,2,answers[1].answer
+p161,1,167,Lunch,13310,2,answers[1].answer
+p167,1,167,Lunch,10465,5,answers[4].answer
+p174,1,167,Lunch,5372,5,answers[4].answer
+p3,1,168,Lunch,9605,12,answers[11].answer
+p4,1,168,Lunch,9387,5,answers[4].answer
+p8,1,168,Lunch,5280,2,answers[1].answer
+p13,1,168,Lunch,9368,12,answers[11].answer
+p28,1,168,Lunch,8123,2,answers[1].answer
+p38,1,168,Lunch,16198,2,answers[1].answer
+p63,1,168,Lunch,12072,5,answers[4].answer
+p82,1,168,Lunch,8633,5,answers[4].answer
+p88,1,168,Lunch,7555,2,answers[1].answer
+p96,1,168,Lunch,5952,5,answers[4].answer
+p122,1,168,Lunch,13084,12,answers[11].answer
+p129,1,168,Lunch,6708,5,answers[4].answer
+p135,1,168,Lunch,15679,12,answers[11].answer
+p143,1,168,Lunch,14566,12,answers[11].answer
+p149,1,168,Lunch,10167,12,answers[11].answer
+p162,1,168,Lunch,11600,2,answers[1].answer
+p10,1,169,Wake up,8053,4,answers[3].answer
+p28,1,169,Wake up,5014,7,answers[6].answer
+p32,1,169,Wake up,6851,1,answers[0].answer
+p38,1,169,Wake up,8081,7,answers[6].answer
+p56,1,169,Wake up,9374,1,answers[0].answer
+p84,1,169,Wake up,4734,4,answers[3].answer
+p85,1,169,Wake up,12382,1,answers[0].answer
+p88,1,169,Wake up,4707,7,answers[6].answer
+p107,1,169,Wake up,4638,4,answers[3].answer
+p130,1,169,Wake up,10008,4,answers[3].answer
+p162,1,169,Wake up,7457,7,answers[6].answer
+p179,1,169,Gym,5775,1,answers[0].answer
+p3,1,170,Wake up,4910,4,answers[3].answer
+p27,1,170,Wake up,12911,1,answers[0].answer
+p49,1,170,Wake up,8088,4,answers[3].answer
+p65,1,170,Wake up,36322,7,answers[6].answer
+p86,1,170,Wake up,5583,7,answers[6].answer
+p95,1,170,Wake up,6528,7,answers[6].answer
+p105,1,170,Wake up,6984,7,answers[6].answer
+p112,1,170,Wake up,11270,1,answers[0].answer
+p122,1,170,Wake up,7910,4,answers[3].answer
+p135,1,170,Wake up,7695,4,answers[3].answer
+p143,1,170,Wake up,9315,4,answers[3].answer
+p149,1,170,Wake up,9185,4,answers[3].answer
+p167,1,170,Wake up,8890,1,answers[0].answer
+p174,1,170,Wake up,10361,1,answers[0].answer
+p4,1,171,Wake up,12212,1,answers[0].answer
+p8,1,171,Wake up,15881,7,answers[6].answer
+p13,1,171,Wake up,10871,4,answers[3].answer
+p63,1,171,Wake up,8783,1,answers[0].answer
+p74,1,171,Wake up,7122,7,answers[6].answer
+p75,1,171,Wake up,10419,7,answers[6].answer
+p76,1,171,Wake up,6554,4,answers[3].answer
+p82,1,171,Wake up,16348,1,answers[0].answer
+p87,1,171,Wake up,7107,7,answers[6].answer
+p96,1,171,Wake up,9534,1,answers[0].answer
+p119,1,171,Wake up,5528,4,answers[3].answer
+p129,1,171,Wake up,14674,1,answers[0].answer
+p9,1,172,Wake up,12286,7,answers[6].answer
+p61,1,172,Wake up,3767,7,answers[6].answer
+p124,1,172,Wake up,7140,1,answers[0].answer
+p132,1,172,Wake up,10637,7,answers[6].answer
+p133,1,172,Wake up,11702,4,answers[3].answer
+p152,1,172,Wake up,6273,4,answers[3].answer
+p158,1,172,Wake up,8269,1,answers[0].answer
+p161,1,172,Wake up,8169,7,answers[6].answer
+p172,1,172,Wake up,14050,4,answers[3].answer
+p177,1,172,Wake up,8006,1,answers[0].answer
+p3,1,173,Social Hour,8472,6,answers[5].answer
+p4,1,173,Social Hour,4866,9,answers[8].answer
+p8,1,173,Social Hour,7957,10,answers[9].answer
+p13,1,173,Social Hour,5168,6,answers[5].answer
+p63,1,173,Social Hour,6443,9,answers[8].answer
+p74,1,173,Social Hour,5689,10,answers[9].answer
+p75,1,173,Social Hour,12345,10,answers[9].answer
+p82,1,173,Social Hour,6586,9,answers[8].answer
+p87,1,173,Social Hour,6733,10,answers[9].answer
+p96,1,173,Social Hour,5080,9,answers[8].answer
+p122,1,173,Social Hour,8451,6,answers[5].answer
+p129,1,173,Social Hour,3919,9,answers[8].answer
+p135,1,173,Social Hour,8110,6,answers[5].answer
+p143,1,173,Social Hour,12248,6,answers[5].answer
+p149,1,173,Social Hour,10768,6,answers[5].answer
+p9,1,174,Social Hour,11317,10,answers[9].answer
+p61,1,174,Social Hour,3107,10,answers[9].answer
+p76,1,174,Social Hour,5934,6,answers[5].answer
+p119,1,174,Social Hour,3926,6,answers[5].answer
+p124,1,174,Social Hour,4170,9,answers[8].answer
+p132,1,174,Social Hour,5337,10,answers[9].answer
+p158,1,174,Social Hour,8365,9,answers[8].answer
+p161,1,174,Social Hour,4968,10,answers[9].answer
+p177,1,174,Social Hour,9388,9,answers[8].answer
+p10,1,175,Social Hour,6495,6,answers[5].answer
+p28,1,175,Social Hour,6079,10,answers[9].answer
+p32,1,175,Social Hour,4425,9,answers[8].answer
+p38,1,175,Social Hour,10778,10,answers[9].answer
+p56,1,175,Social Hour,6551,9,answers[8].answer
+p85,1,175,Social Hour,9871,9,answers[8].answer
+p88,1,175,Social Hour,7542,10,answers[9].answer
+p133,1,175,Social Hour,7085,6,answers[5].answer
+p152,1,175,Social Hour,8211,6,answers[5].answer
+p162,1,175,Social Hour,12052,10,answers[9].answer
+p172,1,175,Social Hour,16013,6,answers[5].answer
+p179,1,175,Social Hour,9526,9,answers[8].answer
+p27,1,176,Social Hour,7872,9,answers[8].answer
+p49,1,176,Social Hour,13527,6,answers[5].answer
+p65,1,176,Social Hour,9633,10,answers[9].answer
+p84,1,176,Social Hour,4957,6,answers[5].answer
+p86,1,176,Social Hour,10142,10,answers[9].answer
+p95,1,176,Social Hour,7919,10,answers[9].answer
+p105,1,176,Social Hour,5743,10,answers[9].answer
+p107,1,176,Social Hour,8182,6,answers[5].answer
+p112,1,176,Social Hour,17631,9,answers[8].answer
+p130,1,176,Social Hour,7846,6,answers[5].answer
+p167,1,176,Social Hour,5863,9,answers[8].answer
+p174,1,176,Social Hour,4285,9,answers[8].answer
+p9,1,177,Movie Night,8374,11,answers[10].answer
+p27,1,177,Movie Night,8191,3,answers[2].answer
+p61,1,177,Movie Night,3300,11,answers[10].answer
+p112,1,177,Movie Night,15317,3,answers[2].answer
+p132,1,177,Movie Night,10459,11,answers[10].answer
+p133,1,177,Movie Night,5610,8,answers[7].answer
+p152,1,177,Movie Night,6829,8,answers[7].answer
+p161,1,177,Movie Night,4016,11,answers[10].answer
+p167,1,177,Movie Night,9257,3,answers[2].answer
+p172,1,177,Movie Night,12107,8,answers[7].answer
+p174,1,177,Movie Night,12853,3,answers[2].answer
+p4,1,178,Movie Night,6918,3,answers[2].answer
+p8,1,178,Movie Night,8324,11,answers[10].answer
+p13,1,178,Movie Night,5915,8,answers[7].answer
+p28,1,178,Movie Night,4421,11,answers[10].answer
+p38,1,178,Movie Night,7145,11,answers[10].answer
+p63,1,178,Movie Night,7399,3,answers[2].answer
+p82,1,178,Movie Night,8954,3,answers[2].answer
+p84,1,178,Movie Night,6113,8,answers[7].answer
+p88,1,178,Movie Night,6289,11,answers[10].answer
+p96,1,178,Movie Night,14695,3,answers[2].answer
+p107,1,178,Movie Night,6426,8,answers[7].answer
+p129,1,178,Movie Night,4358,3,answers[2].answer
+p130,1,178,Movie Night,12945,8,answers[7].answer
+p162,1,178,Movie Night,7848,11,answers[10].answer
+p3,1,179,Movie Night,7520,8,answers[7].answer
+p49,1,179,Movie Night,7941,8,answers[7].answer
+p65,1,179,Movie Night,11086,11,answers[10].answer
+p86,1,179,Movie Night,10758,11,answers[10].answer
+p95,1,179,Movie Night,6927,11,answers[10].answer
+p105,1,179,Movie Night,7920,11,answers[10].answer
+p122,1,179,Movie Night,10943,8,answers[7].answer
+p124,1,179,Movie Night,12872,3,answers[2].answer
+p135,1,179,Movie Night,10188,8,answers[7].answer
+p143,1,179,Movie Night,22600,8,answers[7].answer
+p149,1,179,Movie Night,8029,8,answers[7].answer
+p158,1,179,Movie Night,10528,3,answers[2].answer
+p177,1,179,Movie Night,15303,3,answers[2].answer
+p10,1,180,Movie Night,9645,8,answers[7].answer
+p32,1,180,Movie Night,6755,3,answers[2].answer
+p56,1,180,Movie Night,11465,3,answers[2].answer
+p74,1,180,Movie Night,5868,11,answers[10].answer
+p75,1,180,Movie Night,5801,11,answers[10].answer
+p76,1,180,Movie Night,10266,8,answers[7].answer
+p85,1,180,Movie Night,10055,3,answers[2].answer
+p87,1,180,Movie Night,5898,11,answers[10].answer
+p119,1,180,Movie Night,4630,8,answers[7].answer
+p179,1,180,Movie Night,12247,3,answers[2].answer
+p16,1,181,Same,28571,5,answers[4].answer
+p37,1,181,Same,9688,2,answers[1].answer
+p55,1,181,Same,8476,12,answers[11].answer
+p60,1,181,Same,18525,12,answers[11].answer
+p69,1,181,Same,33096,5,answers[4].answer
+p71,1,181,Same,12047,5,answers[4].answer
+p73,1,181,Same,20175,12,answers[11].answer
+p93,1,181,Same,20199,2,answers[1].answer
+p108,1,181,Same,21867,2,answers[1].answer
+p120,1,181,Same,29295,5,answers[4].answer
+p138,1,181,Same,28102,2,answers[1].answer
+p36,1,182,Same,21183,5,answers[4].answer
+p39,1,182,Same,25955,2,answers[1].answer
+p46,1,182,Same,16973,5,answers[4].answer
+p47,1,182,Same,9432,12,answers[11].answer
+p57,1,182,Same,21841,2,answers[1].answer
+p80,1,182,Same,24733,2,answers[1].answer
+p97,1,182,Same,36296,12,answers[11].answer
+p103,1,182,Same,25216,12,answers[11].answer
+p115,1,182,Same,8878,12,answers[11].answer
+p144,1,182,Same,13418,5,answers[4].answer
+p171,1,182,Same,10283,5,answers[4].answer
+p183,1,182,Same,21431,2,answers[1].answer
+p2,1,183,Same,15733,2,answers[1].answer
+p5,1,183,Same,19478,2,answers[1].answer
+p34,1,183,Same,12858,12,answers[11].answer
+p64,1,183,Same,31215,2,answers[1].answer
+p70,1,183,Wake up on Monday,20984,5,answers[4].answer
+p89,1,183,Same,29605,5,answers[4].answer
+p101,1,183,Same,10772,12,answers[11].answer
+p166,1,183,Same,22056,5,answers[4].answer
+p12,1,184,Same,28478,12,answers[11].answer
+p18,1,184,Same,16803,2,answers[1].answer
+p22,1,184,Same,27720,12,answers[11].answer
+p24,1,184,Wake up on Monday,17496,5,answers[4].answer
+p42,1,184,Same,24079,5,answers[4].answer
+p43,1,184,Same,20210,2,answers[1].answer
+p48,1,184,Same,24197,12,answers[11].answer
+p66,1,184,Same,14477,5,answers[4].answer
+p92,1,184,Same,26333,5,answers[4].answer
+p102,1,184,Wake up on Monday,28972,2,answers[1].answer
+p110,1,184,Same,18140,2,answers[1].answer
+p136,1,184,Same,31080,12,answers[11].answer
+p145,1,184,Same,18021,12,answers[11].answer
+p147,1,184,Same,19903,12,answers[11].answer
+p169,1,184,Same,25628,2,answers[1].answer
+p182,1,184,Same,23818,5,answers[4].answer
+p185,1,184,Same,19987,12,answers[11].answer
+p34,1,185,Halloween Party on Wednesday,25661,4,answers[3].answer
+p36,1,185,Halloween Party on Wednesday,35213,1,answers[0].answer
+p43,1,185,Halloween Party on Wednesday,25110,7,answers[6].answer
+p46,1,185,Halloween Party on Wednesday,24449,1,answers[0].answer
+p101,1,185,Wake up on Wednesday,25428,4,answers[3].answer
+p102,1,185,Halloween Party on Wednesday,47360,7,answers[6].answer
+p110,1,185,Halloween Party on Wednesday,28801,7,answers[6].answer
+p144,1,185,Halloween Party on Wednesday,21187,1,answers[0].answer
+p169,1,185,Halloween Party on Wednesday,24719,7,answers[6].answer
+p171,1,185,Halloween Party on Wednesday,28807,1,answers[0].answer
+p12,1,186,Halloween Party on Wednesday,88265,4,answers[3].answer
+p18,1,186,Halloween Party on Wednesday,26441,7,answers[6].answer
+p24,1,186,Same,30641,1,answers[0].answer
+p37,1,186,Wake up on Wednesday,33840,7,answers[6].answer
+p48,1,186,Same,13702,4,answers[3].answer
+p70,1,186,Halloween Party on Wednesday,18166,1,answers[0].answer
+p89,1,186,Wake up on Wednesday,34481,1,answers[0].answer
+p93,1,186,Halloween Party on Wednesday,23094,7,answers[6].answer
+p108,1,186,Halloween Party on Wednesday,29534,7,answers[6].answer
+p136,1,186,Halloween Party on Wednesday,21063,4,answers[3].answer
+p138,1,186,Halloween Party on Wednesday,71792,7,answers[6].answer
+p145,1,186,Halloween Party on Wednesday,21054,4,answers[3].answer
+p147,1,186,Halloween Party on Wednesday,11112,4,answers[3].answer
+p166,1,186,Halloween Party on Wednesday,27562,1,answers[0].answer
+p185,1,186,Halloween Party on Wednesday,32835,4,answers[3].answer
+p22,1,187,Halloween Party on Wednesday,45444,4,answers[3].answer
+p39,1,187,Halloween Party on Wednesday,27877,7,answers[6].answer
+p42,1,187,Halloween Party on Wednesday,59001,1,answers[0].answer
+p55,1,187,Halloween Party on Wednesday,27727,4,answers[3].answer
+p57,1,187,Halloween Party on Wednesday,22377,7,answers[6].answer
+p60,1,187,Halloween Party on Wednesday,33411,4,answers[3].answer
+p66,1,187,Halloween Party on Wednesday,17643,1,answers[0].answer
+p73,1,187,Halloween Party on Wednesday,46733,4,answers[3].answer
+p80,1,187,Halloween Party on Wednesday,38536,7,answers[6].answer
+p92,1,187,Halloween Party on Wednesday,23731,1,answers[0].answer
+p182,1,187,Halloween Party on Wednesday,26670,1,answers[0].answer
+p183,1,187,Halloween Party on Wednesday,58571,7,answers[6].answer
+p2,1,188,Halloween Party on Wednesday,20623,7,answers[6].answer
+p5,1,188,Halloween Party on Wednesday,22069,7,answers[6].answer
+p16,1,188,Halloween Party on Wednesday,55328,1,answers[0].answer
+p47,1,188,Halloween Party on Wednesday,20151,4,answers[3].answer
+p64,1,188,Halloween Party on Wednesday,15269,7,answers[6].answer
+p69,1,188,Halloween Party on Wednesday,35906,1,answers[0].answer
+p71,1,188,Halloween Party on Wednesday,22639,1,answers[0].answer
+p97,1,188,Halloween Party on Wednesday,44072,4,answers[3].answer
+p103,1,188,Halloween Party on Wednesday,21095,4,answers[3].answer
+p115,1,188,Halloween Party on Wednesday,17692,4,answers[3].answer
+p120,1,188,Wake up on Wednesday,28621,1,answers[0].answer
+p12,1,189,Same,22985,6,answers[5].answer
+p18,1,189,Same,22674,10,answers[9].answer
+p22,1,189,Same,15047,6,answers[5].answer
+p24,1,189,Wake up on Tuesday,37928,9,answers[8].answer
+p39,1,189,Same,14561,10,answers[9].answer
+p42,1,189,Same,16711,9,answers[8].answer
+p48,1,189,Same,12238,6,answers[5].answer
+p57,1,189,Wake up on Tuesday,83777,10,answers[9].answer
+p66,1,189,Same,15452,9,answers[8].answer
+p80,1,189,Same,32031,10,answers[9].answer
+p92,1,189,Same,11334,9,answers[8].answer
+p136,1,189,Same,53551,6,answers[5].answer
+p145,1,189,Same,21510,6,answers[5].answer
+p147,1,189,Same,28131,6,answers[5].answer
+p182,1,189,Same,15845,9,answers[8].answer
+p183,1,189,Same,33468,10,answers[9].answer
+p185,1,189,Same,80931,6,answers[5].answer
+p2,1,190,Same,17625,10,answers[9].answer
+p5,1,190,Lunch on Tuesday,12420,10,answers[9].answer
+p16,1,190,Same,35859,9,answers[8].answer
+p55,1,190,Same,10810,6,answers[5].answer
+p60,1,190,Same,14371,6,answers[5].answer
+p64,1,190,Same,16030,10,answers[9].answer
+p69,1,190,Same,17069,9,answers[8].answer
+p71,1,190,Same,11884,9,answers[8].answer
+p73,1,190,Same,25833,6,answers[5].answer
+p120,1,190,Same,24078,9,answers[8].answer
+p36,1,191,Same,22120,9,answers[8].answer
+p43,1,191,Same,23708,10,answers[9].answer
+p46,1,191,Wake up on Tuesday,14890,9,answers[8].answer
+p47,1,191,Same,14989,6,answers[5].answer
+p97,1,191,Same,37320,6,answers[5].answer
+p102,1,191,Same,16639,10,answers[9].answer
+p103,1,191,Same,20431,6,answers[5].answer
+p110,1,191,Same,18229,10,answers[9].answer
+p115,1,191,Same,9616,6,answers[5].answer
+p144,1,191,Same,19400,9,answers[8].answer
+p169,1,191,Same,13606,10,answers[9].answer
+p171,1,191,Same,24245,9,answers[8].answer
+p34,1,192,Same,18526,6,answers[5].answer
+p37,1,192,Same,9650,10,answers[9].answer
+p70,1,192,Same,12747,9,answers[8].answer
+p89,1,192,Same,22093,9,answers[8].answer
+p93,1,192,Same,34433,10,answers[9].answer
+p101,1,192,Same,12741,6,answers[5].answer
+p108,1,192,Same,16584,10,answers[9].answer
+p138,1,192,Lunch on Tuesday,20941,10,answers[9].answer
+p166,1,192,Same,25746,9,answers[8].answer
+p2,1,193,Lunch on Monday,31491,11,answers[10].answer
+p5,1,193,Lunch on Monday,14709,11,answers[10].answer
+p47,1,193,Lunch on Monday,20959,8,answers[7].answer
+p64,1,193,Lunch on Monday,22710,11,answers[10].answer
+p70,1,193,Lunch on Monday,26919,3,answers[2].answer
+p89,1,193,Lunch on Monday,23226,3,answers[2].answer
+p97,1,193,Lunch on Monday,85600,8,answers[7].answer
+p103,1,193,Lunch on Monday,18296,8,answers[7].answer
+p115,1,193,Lunch on Monday,12342,8,answers[7].answer
+p166,1,193,Lunch on Monday,25706,3,answers[2].answer
+p22,1,194,Lunch on Monday,58870,8,answers[7].answer
+p34,1,194,Lunch on Monday,15242,8,answers[7].answer
+p42,1,194,Same,26127,3,answers[2].answer
+p43,1,194,Lunch on Monday,19393,11,answers[10].answer
+p66,1,194,Lunch on Monday,16276,3,answers[2].answer
+p92,1,194,Lunch on Monday,20613,3,answers[2].answer
+p101,1,194,Lunch on Monday,16349,8,answers[7].answer
+p102,1,194,Lunch on Monday,25776,11,answers[10].answer
+p110,1,194,Lunch on Monday,24617,11,answers[10].answer
+p169,1,194,Lunch on Monday,20719,11,answers[10].answer
+p182,1,194,Lunch on Monday,29565,3,answers[2].answer
+p12,1,195,Lunch on Monday,84266,8,answers[7].answer
+p16,1,195,Lunch on Monday,40549,3,answers[2].answer
+p18,1,195,Lunch on Monday,35529,11,answers[10].answer
+p24,1,195,Lunch on Monday,14415,3,answers[2].answer
+p37,1,195,Lunch on Monday,76518,11,answers[10].answer
+p48,1,195,Lunch on Monday,12662,8,answers[7].answer
+p69,1,195,Lunch on Monday,51117,3,answers[2].answer
+p71,1,195,Lunch on Monday,24957,3,answers[2].answer
+p93,1,195,Lunch on Monday,23535,11,answers[10].answer
+p108,1,195,Lunch on Monday,26819,11,answers[10].answer
+p120,1,195,Lunch on Monday,33882,3,answers[2].answer
+p136,1,195,Lunch on Monday,23086,8,answers[7].answer
+p138,1,195,Lunch on Monday,48040,11,answers[10].answer
+p145,1,195,Lunch on Monday,18286,8,answers[7].answer
+p147,1,195,Lunch on Monday,14082,8,answers[7].answer
+p185,1,195,Lunch on Monday,27410,8,answers[7].answer
+p36,1,196,Lunch on Monday,25037,3,answers[2].answer
+p39,1,196,Same,32833,11,answers[10].answer
+p46,1,196,Same,125521,3,answers[2].answer
+p55,1,196,Lunch on Monday,18370,8,answers[7].answer
+p57,1,196,Lunch on Monday,27163,11,answers[10].answer
+p60,1,196,Lunch on Monday,32093,8,answers[7].answer
+p73,1,196,Lunch on Monday,29162,8,answers[7].answer
+p80,1,196,Lunch on Monday,31351,11,answers[10].answer
+p144,1,196,Lunch on Monday,24134,3,answers[2].answer
+p171,1,196,Lunch on Monday,32765,3,answers[2].answer
+p183,1,196,Lunch on Monday,57492,11,answers[10].answer
+p0,1,197,Horizontal line,,,history_readability
+p1,1,197,Horizontal line,,,history_readability
+p2,1,197,Horizontal line,,,history_readability
+p3,1,197,Horizontal line,,,history_readability
+p4,1,197,Horizontal line,,,history_readability
+p5,1,197,Vertical line,,,history_readability
+p6,1,197,Horizontal line,,,history_readability
+p7,1,197,Horizontal line,,,history_readability
+p8,1,197,Horizontal line,,,history_readability
+p9,1,197,Horizontal line,,,history_readability
+p10,1,197,Horizontal line,,,history_readability
+p11,1,197,Horizontal line,,,history_readability
+p12,1,197,Horizontal line,,,history_readability
+p13,1,197,Horizontal line,,,history_readability
+p14,1,197,No preference,,,history_readability
+p15,1,197,Horizontal line,,,history_readability
+p16,1,197,Horizontal line,,,history_readability
+p17,1,197,No preference,,,history_readability
+p18,1,197,Horizontal line,,,history_readability
+p19,1,197,Horizontal line,,,history_readability
+p20,1,197,Horizontal line,,,history_readability
+p21,1,197,Horizontal line,,,history_readability
+p22,1,197,Horizontal line,,,history_readability
+p23,1,197,Horizontal line,,,history_readability
+p24,1,197,Circle,,,history_readability
+p25,1,197,Horizontal line,,,history_readability
+p26,1,197,Circle,,,history_readability
+p27,1,197,Vertical line,,,history_readability
+p28,1,197,Horizontal line,,,history_readability
+p29,1,197,Horizontal line,,,history_readability
+p30,1,197,Circle,,,history_readability
+p31,1,197,Horizontal line,,,history_readability
+p32,1,197,Horizontal line,,,history_readability
+p33,1,197,Vertical line,,,history_readability
+p34,1,197,Horizontal line,,,history_readability
+p35,1,197,Horizontal line,,,history_readability
+p36,1,197,Horizontal line,,,history_readability
+p37,1,197,Horizontal line,,,history_readability
+p38,1,197,Horizontal line,,,history_readability
+p39,1,197,Horizontal line,,,history_readability
+p40,1,197,Horizontal line,,,history_readability
+p41,1,197,Horizontal line,,,history_readability
+p42,1,197,No preference,,,history_readability
+p43,1,197,Horizontal line,,,history_readability
+p44,1,197,Spiral,,,history_readability
+p45,1,197,Horizontal line,,,history_readability
+p46,1,197,Horizontal line,,,history_readability
+p47,1,197,Horizontal line,,,history_readability
+p48,1,197,Horizontal line,,,history_readability
+p49,1,197,Horizontal line,,,history_readability
+p50,1,197,Vertical line,,,history_readability
+p51,1,197,Horizontal line,,,history_readability
+p52,1,197,Horizontal line,,,history_readability
+p53,1,197,Horizontal line,,,history_readability
+p54,1,197,Horizontal line,,,history_readability
+p55,1,197,Vertical line,,,history_readability
+p56,1,197,Horizontal line,,,history_readability
+p57,1,197,Horizontal line,,,history_readability
+p58,1,197,Horizontal line,,,history_readability
+p59,1,197,Spiral,,,history_readability
+p60,1,197,Horizontal line,,,history_readability
+p61,1,197,Vertical line,,,history_readability
+p62,1,197,No preference,,,history_readability
+p63,1,197,Vertical line,,,history_readability
+p64,1,197,Horizontal line,,,history_readability
+p65,1,197,No preference,,,history_readability
+p66,1,197,Horizontal line,,,history_readability
+p67,1,197,Horizontal line,,,history_readability
+p68,1,197,Horizontal line,,,history_readability
+p69,1,197,Vertical line,,,history_readability
+p70,1,197,Horizontal line,,,history_readability
+p71,1,197,Horizontal line,,,history_readability
+p72,1,197,Horizontal line,,,history_readability
+p73,1,197,Circle,,,history_readability
+p74,1,197,Horizontal line,,,history_readability
+p75,1,197,Vertical line,,,history_readability
+p76,1,197,Vertical line,,,history_readability
+p77,1,197,Horizontal line,,,history_readability
+p78,1,197,Horizontal line,,,history_readability
+p79,1,197,Horizontal line,,,history_readability
+p80,1,197,Circle,,,history_readability
+p81,1,197,Horizontal line,,,history_readability
+p82,1,197,Horizontal line,,,history_readability
+p83,1,197,Vertical line,,,history_readability
+p84,1,197,Horizontal line,,,history_readability
+p85,1,197,No preference,,,history_readability
+p86,1,197,Vertical line,,,history_readability
+p87,1,197,Horizontal line,,,history_readability
+p88,1,197,Vertical line,,,history_readability
+p89,1,197,Vertical line,,,history_readability
+p90,1,197,Horizontal line,,,history_readability
+p91,1,197,No preference,,,history_readability
+p92,1,197,No preference,,,history_readability
+p93,1,197,Horizontal line,,,history_readability
+p94,1,197,Horizontal line,,,history_readability
+p95,1,197,Horizontal line,,,history_readability
+p96,1,197,No preference,,,history_readability
+p97,1,197,Horizontal line,,,history_readability
+p98,1,197,Vertical line,,,history_readability
+p99,1,197,Horizontal line,,,history_readability
+p100,1,197,Vertical line,,,history_readability
+p101,1,197,Horizontal line,,,history_readability
+p102,1,197,Vertical line,,,history_readability
+p103,1,197,Vertical line,,,history_readability
+p104,1,197,Vertical line,,,history_readability
+p105,1,197,Vertical line,,,history_readability
+p106,1,197,Vertical line,,,history_readability
+p107,1,197,Vertical line,,,history_readability
+p108,1,197,Horizontal line,,,history_readability
+p109,1,197,Circle,,,history_readability
+p110,1,197,Horizontal line,,,history_readability
+p111,1,197,Horizontal line,,,history_readability
+p112,1,197,No preference,,,history_readability
+p113,1,197,No preference,,,history_readability
+p114,1,197,No preference,,,history_readability
+p115,1,197,Horizontal line,,,history_readability
+p116,1,197,Vertical line,,,history_readability
+p117,1,197,Horizontal line,,,history_readability
+p118,1,197,Horizontal line,,,history_readability
+p119,1,197,Vertical line,,,history_readability
+p120,1,197,Horizontal line,,,history_readability
+p121,1,197,Vertical line,,,history_readability
+p122,1,197,Horizontal line,,,history_readability
+p123,1,197,Horizontal line,,,history_readability
+p124,1,197,No preference,,,history_readability
+p125,1,197,Horizontal line,,,history_readability
+p126,1,197,No preference,,,history_readability
+p127,1,197,Horizontal line,,,history_readability
+p128,1,197,Horizontal line,,,history_readability
+p129,1,197,Vertical line,,,history_readability
+p130,1,197,Horizontal line,,,history_readability
+p131,1,197,Horizontal line,,,history_readability
+p132,1,197,Horizontal line,,,history_readability
+p133,1,197,Horizontal line,,,history_readability
+p134,1,197,No preference,,,history_readability
+p135,1,197,Circle,,,history_readability
+p136,1,197,Vertical line,,,history_readability
+p137,1,197,No preference,,,history_readability
+p138,1,197,Horizontal line,,,history_readability
+p139,1,197,Horizontal line,,,history_readability
+p140,1,197,Horizontal line,,,history_readability
+p141,1,197,Horizontal line,,,history_readability
+p142,1,197,Vertical line,,,history_readability
+p143,1,197,Horizontal line,,,history_readability
+p144,1,197,Horizontal line,,,history_readability
+p145,1,197,Horizontal line,,,history_readability
+p146,1,197,Vertical line,,,history_readability
+p147,1,197,Horizontal line,,,history_readability
+p148,1,197,Vertical line,,,history_readability
+p149,1,197,Horizontal line,,,history_readability
+p150,1,197,Vertical line,,,history_readability
+p151,1,197,Vertical line,,,history_readability
+p152,1,197,Horizontal line,,,history_readability
+p153,1,197,Horizontal line,,,history_readability
+p154,1,197,Horizontal line,,,history_readability
+p155,1,197,Vertical line,,,history_readability
+p156,1,197,No preference,,,history_readability
+p157,1,197,Horizontal line,,,history_readability
+p158,1,197,Vertical line,,,history_readability
+p159,1,197,Vertical line,,,history_readability
+p160,1,197,Horizontal line,,,history_readability
+p161,1,197,Circle,,,history_readability
+p162,1,197,No preference,,,history_readability
+p163,1,197,Spiral,,,history_readability
+p164,1,197,No preference,,,history_readability
+p165,1,197,Horizontal line,,,history_readability
+p166,1,197,Vertical line,,,history_readability
+p167,1,197,Vertical line,,,history_readability
+p168,1,197,Horizontal line,,,history_readability
+p169,1,197,Horizontal line,,,history_readability
+p170,1,197,Vertical line,,,history_readability
+p171,1,197,Horizontal line,,,history_readability
+p172,1,197,Horizontal line,,,history_readability
+p173,1,197,Horizontal line,,,history_readability
+p174,1,197,Horizontal line,,,history_readability
+p175,1,197,Horizontal line,,,history_readability
+p0,1,198,Horizontal line,,,schedule_readability
+p1,1,198,Vertical line,,,schedule_readability
+p2,1,198,Vertical line,,,schedule_readability
+p3,1,198,Horizontal line,,,schedule_readability
+p4,1,198,Circle,,,schedule_readability
+p5,1,198,Horizontal line,,,schedule_readability
+p6,1,198,Horizontal line,,,schedule_readability
+p7,1,198,Vertical line,,,schedule_readability
+p8,1,198,Horizontal line,,,schedule_readability
+p9,1,198,Horizontal line,,,schedule_readability
+p10,1,198,Vertical line,,,schedule_readability
+p11,1,198,Horizontal line,,,schedule_readability
+p12,1,198,Horizontal line,,,schedule_readability
+p13,1,198,Vertical line,,,schedule_readability
+p14,1,198,No preference,,,schedule_readability
+p15,1,198,Horizontal line,,,schedule_readability
+p16,1,198,Horizontal line,,,schedule_readability
+p17,1,198,Circle,,,schedule_readability
+p18,1,198,Horizontal line,,,schedule_readability
+p19,1,198,Horizontal line,,,schedule_readability
+p20,1,198,Horizontal line,,,schedule_readability
+p21,1,198,Spiral,,,schedule_readability
+p22,1,198,Horizontal line,,,schedule_readability
+p23,1,198,No preference,,,schedule_readability
+p24,1,198,Spiral,,,schedule_readability
+p25,1,198,Spiral,,,schedule_readability
+p26,1,198,Circle,,,schedule_readability
+p27,1,198,Circle,,,schedule_readability
+p28,1,198,Circle,,,schedule_readability
+p29,1,198,Circle,,,schedule_readability
+p30,1,198,Vertical line,,,schedule_readability
+p31,1,198,Circle,,,schedule_readability
+p32,1,198,No preference,,,schedule_readability
+p33,1,198,Circle,,,schedule_readability
+p34,1,198,Horizontal line,,,schedule_readability
+p35,1,198,No preference,,,schedule_readability
+p36,1,198,Horizontal line,,,schedule_readability
+p37,1,198,Horizontal line,,,schedule_readability
+p38,1,198,Horizontal line,,,schedule_readability
+p39,1,198,Horizontal line,,,schedule_readability
+p40,1,198,Circle,,,schedule_readability
+p41,1,198,Horizontal line,,,schedule_readability
+p42,1,198,No preference,,,schedule_readability
+p43,1,198,Vertical line,,,schedule_readability
+p44,1,198,Vertical line,,,schedule_readability
+p45,1,198,Horizontal line,,,schedule_readability
+p46,1,198,Horizontal line,,,schedule_readability
+p47,1,198,No preference,,,schedule_readability
+p48,1,198,Horizontal line,,,schedule_readability
+p49,1,198,Horizontal line,,,schedule_readability
+p50,1,198,Vertical line,,,schedule_readability
+p51,1,198,Horizontal line,,,schedule_readability
+p52,1,198,Vertical line,,,schedule_readability
+p53,1,198,Horizontal line,,,schedule_readability
+p54,1,198,Horizontal line,,,schedule_readability
+p55,1,198,Vertical line,,,schedule_readability
+p56,1,198,Vertical line,,,schedule_readability
+p57,1,198,Horizontal line,,,schedule_readability
+p58,1,198,Circle,,,schedule_readability
+p59,1,198,Circle,,,schedule_readability
+p60,1,198,Vertical line,,,schedule_readability
+p61,1,198,No preference,,,schedule_readability
+p62,1,198,Horizontal line,,,schedule_readability
+p63,1,198,Vertical line,,,schedule_readability
+p64,1,198,Vertical line,,,schedule_readability
+p65,1,198,Vertical line,,,schedule_readability
+p66,1,198,Vertical line,,,schedule_readability
+p67,1,198,Horizontal line,,,schedule_readability
+p68,1,198,Horizontal line,,,schedule_readability
+p69,1,198,Vertical line,,,schedule_readability
+p70,1,198,Horizontal line,,,schedule_readability
+p71,1,198,Horizontal line,,,schedule_readability
+p72,1,198,Vertical line,,,schedule_readability
+p73,1,198,Vertical line,,,schedule_readability
+p74,1,198,Horizontal line,,,schedule_readability
+p75,1,198,Vertical line,,,schedule_readability
+p76,1,198,Horizontal line,,,schedule_readability
+p77,1,198,Horizontal line,,,schedule_readability
+p78,1,198,Horizontal line,,,schedule_readability
+p79,1,198,No preference,,,schedule_readability
+p80,1,198,Vertical line,,,schedule_readability
+p81,1,198,Circle,,,schedule_readability
+p82,1,198,Vertical line,,,schedule_readability
+p83,1,198,Horizontal line,,,schedule_readability
+p84,1,198,Spiral,,,schedule_readability
+p85,1,198,No preference,,,schedule_readability
+p86,1,198,Horizontal line,,,schedule_readability
+p87,1,198,Horizontal line,,,schedule_readability
+p88,1,198,Circle,,,schedule_readability
+p89,1,198,Horizontal line,,,schedule_readability
+p90,1,198,Vertical line,,,schedule_readability
+p91,1,198,No preference,,,schedule_readability
+p92,1,198,No preference,,,schedule_readability
+p93,1,198,Vertical line,,,schedule_readability
+p94,1,198,Horizontal line,,,schedule_readability
+p95,1,198,Circle,,,schedule_readability
+p96,1,198,No preference,,,schedule_readability
+p97,1,198,Horizontal line,,,schedule_readability
+p98,1,198,Vertical line,,,schedule_readability
+p99,1,198,Circle,,,schedule_readability
+p100,1,198,Circle,,,schedule_readability
+p101,1,198,Horizontal line,,,schedule_readability
+p102,1,198,Horizontal line,,,schedule_readability
+p103,1,198,Horizontal line,,,schedule_readability
+p104,1,198,Vertical line,,,schedule_readability
+p105,1,198,No preference,,,schedule_readability
+p106,1,198,Spiral,,,schedule_readability
+p107,1,198,Vertical line,,,schedule_readability
+p108,1,198,Horizontal line,,,schedule_readability
+p109,1,198,Spiral,,,schedule_readability
+p110,1,198,Vertical line,,,schedule_readability
+p111,1,198,Spiral,,,schedule_readability
+p112,1,198,No preference,,,schedule_readability
+p113,1,198,Horizontal line,,,schedule_readability
+p114,1,198,No preference,,,schedule_readability
+p115,1,198,Horizontal line,,,schedule_readability
+p116,1,198,Vertical line,,,schedule_readability
+p117,1,198,Horizontal line,,,schedule_readability
+p118,1,198,Horizontal line,,,schedule_readability
+p119,1,198,Circle,,,schedule_readability
+p120,1,198,Vertical line,,,schedule_readability
+p121,1,198,Horizontal line,,,schedule_readability
+p122,1,198,Horizontal line,,,schedule_readability
+p123,1,198,Circle,,,schedule_readability
+p124,1,198,No preference,,,schedule_readability
+p125,1,198,Vertical line,,,schedule_readability
+p126,1,198,No preference,,,schedule_readability
+p127,1,198,Horizontal line,,,schedule_readability
+p128,1,198,Circle,,,schedule_readability
+p129,1,198,Vertical line,,,schedule_readability
+p130,1,198,Circle,,,schedule_readability
+p131,1,198,Spiral,,,schedule_readability
+p132,1,198,Circle,,,schedule_readability
+p133,1,198,Horizontal line,,,schedule_readability
+p134,1,198,Vertical line,,,schedule_readability
+p135,1,198,Circle,,,schedule_readability
+p136,1,198,Vertical line,,,schedule_readability
+p137,1,198,Horizontal line,,,schedule_readability
+p138,1,198,Horizontal line,,,schedule_readability
+p139,1,198,Horizontal line,,,schedule_readability
+p140,1,198,Horizontal line,,,schedule_readability
+p141,1,198,Vertical line,,,schedule_readability
+p142,1,198,Vertical line,,,schedule_readability
+p143,1,198,Circle,,,schedule_readability
+p144,1,198,Vertical line,,,schedule_readability
+p145,1,198,Horizontal line,,,schedule_readability
+p146,1,198,Horizontal line,,,schedule_readability
+p147,1,198,Horizontal line,,,schedule_readability
+p148,1,198,No preference,,,schedule_readability
+p149,1,198,Vertical line,,,schedule_readability
+p150,1,198,Vertical line,,,schedule_readability
+p151,1,198,Horizontal line,,,schedule_readability
+p152,1,198,Horizontal line,,,schedule_readability
+p153,1,198,Spiral,,,schedule_readability
+p154,1,198,Circle,,,schedule_readability
+p155,1,198,Horizontal line,,,schedule_readability
+p156,1,198,Horizontal line,,,schedule_readability
+p157,1,198,Circle,,,schedule_readability
+p158,1,198,Vertical line,,,schedule_readability
+p159,1,198,Spiral,,,schedule_readability
+p160,1,198,Horizontal line,,,schedule_readability
+p161,1,198,Vertical line,,,schedule_readability
+p162,1,198,Horizontal line,,,schedule_readability
+p163,1,198,Horizontal line,,,schedule_readability
+p164,1,198,No preference,,,schedule_readability
+p165,1,198,Horizontal line,,,schedule_readability
+p166,1,198,Vertical line,,,schedule_readability
+p167,1,198,Vertical line,,,schedule_readability
+p168,1,198,Horizontal line,,,schedule_readability
+p169,1,198,Circle,,,schedule_readability
+p170,1,198,Vertical line,,,schedule_readability
+p171,1,198,Horizontal line,,,schedule_readability
+p172,1,198,Circle,,,schedule_readability
+p173,1,198,Horizontal line,,,schedule_readability
+p174,1,198,Horizontal line,,,schedule_readability
+p175,1,198,Circle,,,schedule_readability
+p0,1,199,Horizontal line,,,plant_readability
+p1,1,199,Circle,,,plant_readability
+p2,1,199,Vertical line,,,plant_readability
+p3,1,199,Horizontal line,,,plant_readability
+p4,1,199,Horizontal line,,,plant_readability
+p5,1,199,Vertical line,,,plant_readability
+p6,1,199,Horizontal line,,,plant_readability
+p7,1,199,Spiral,,,plant_readability
+p8,1,199,Horizontal line,,,plant_readability
+p9,1,199,Horizontal line,,,plant_readability
+p10,1,199,Circle,,,plant_readability
+p11,1,199,Spiral,,,plant_readability
+p12,1,199,Horizontal line,,,plant_readability
+p13,1,199,Vertical line,,,plant_readability
+p14,1,199,No preference,,,plant_readability
+p15,1,199,Vertical line,,,plant_readability
+p16,1,199,Horizontal line,,,plant_readability
+p17,1,199,Vertical line,,,plant_readability
+p18,1,199,Horizontal line,,,plant_readability
+p19,1,199,Horizontal line,,,plant_readability
+p20,1,199,Horizontal line,,,plant_readability
+p21,1,199,Spiral,,,plant_readability
+p22,1,199,Vertical line,,,plant_readability
+p23,1,199,Spiral,,,plant_readability
+p24,1,199,Vertical line,,,plant_readability
+p25,1,199,Horizontal line,,,plant_readability
+p26,1,199,Vertical line,,,plant_readability
+p27,1,199,Circle,,,plant_readability
+p28,1,199,Circle,,,plant_readability
+p29,1,199,Horizontal line,,,plant_readability
+p30,1,199,Horizontal line,,,plant_readability
+p31,1,199,Vertical line,,,plant_readability
+p32,1,199,No preference,,,plant_readability
+p33,1,199,Spiral,,,plant_readability
+p34,1,199,Horizontal line,,,plant_readability
+p35,1,199,Spiral,,,plant_readability
+p36,1,199,Spiral,,,plant_readability
+p37,1,199,Spiral,,,plant_readability
+p38,1,199,Horizontal line,,,plant_readability
+p39,1,199,Horizontal line,,,plant_readability
+p40,1,199,Spiral,,,plant_readability
+p41,1,199,Spiral,,,plant_readability
+p42,1,199,No preference,,,plant_readability
+p43,1,199,Vertical line,,,plant_readability
+p44,1,199,Vertical line,,,plant_readability
+p45,1,199,Horizontal line,,,plant_readability
+p46,1,199,Horizontal line,,,plant_readability
+p47,1,199,Spiral,,,plant_readability
+p48,1,199,Circle,,,plant_readability
+p49,1,199,Horizontal line,,,plant_readability
+p50,1,199,Circle,,,plant_readability
+p51,1,199,Spiral,,,plant_readability
+p52,1,199,Circle,,,plant_readability
+p53,1,199,Spiral,,,plant_readability
+p54,1,199,Horizontal line,,,plant_readability
+p55,1,199,Vertical line,,,plant_readability
+p56,1,199,Horizontal line,,,plant_readability
+p57,1,199,Horizontal line,,,plant_readability
+p58,1,199,Spiral,,,plant_readability
+p59,1,199,Spiral,,,plant_readability
+p60,1,199,Horizontal line,,,plant_readability
+p61,1,199,No preference,,,plant_readability
+p62,1,199,Spiral,,,plant_readability
+p63,1,199,Horizontal line,,,plant_readability
+p64,1,199,Horizontal line,,,plant_readability
+p65,1,199,Circle,,,plant_readability
+p66,1,199,Vertical line,,,plant_readability
+p67,1,199,Horizontal line,,,plant_readability
+p68,1,199,Horizontal line,,,plant_readability
+p69,1,199,Circle,,,plant_readability
+p70,1,199,Horizontal line,,,plant_readability
+p71,1,199,Horizontal line,,,plant_readability
+p72,1,199,Spiral,,,plant_readability
+p73,1,199,Circle,,,plant_readability
+p74,1,199,Circle,,,plant_readability
+p75,1,199,Vertical line,,,plant_readability
+p76,1,199,Vertical line,,,plant_readability
+p77,1,199,Vertical line,,,plant_readability
+p78,1,199,Spiral,,,plant_readability
+p79,1,199,Spiral,,,plant_readability
+p80,1,199,Spiral,,,plant_readability
+p81,1,199,Spiral,,,plant_readability
+p82,1,199,Horizontal line,,,plant_readability
+p83,1,199,Spiral,,,plant_readability
+p84,1,199,Vertical line,,,plant_readability
+p85,1,199,No preference,,,plant_readability
+p86,1,199,Vertical line,,,plant_readability
+p87,1,199,Horizontal line,,,plant_readability
+p88,1,199,Circle,,,plant_readability
+p89,1,199,Circle,,,plant_readability
+p90,1,199,Circle,,,plant_readability
+p91,1,199,No preference,,,plant_readability
+p92,1,199,No preference,,,plant_readability
+p93,1,199,Circle,,,plant_readability
+p94,1,199,Spiral,,,plant_readability
+p95,1,199,Vertical line,,,plant_readability
+p96,1,199,No preference,,,plant_readability
+p97,1,199,Horizontal line,,,plant_readability
+p98,1,199,Vertical line,,,plant_readability
+p99,1,199,Horizontal line,,,plant_readability
+p100,1,199,Horizontal line,,,plant_readability
+p101,1,199,Horizontal line,,,plant_readability
+p102,1,199,Vertical line,,,plant_readability
+p103,1,199,Vertical line,,,plant_readability
+p104,1,199,Vertical line,,,plant_readability
+p105,1,199,Vertical line,,,plant_readability
+p106,1,199,Horizontal line,,,plant_readability
+p107,1,199,Spiral,,,plant_readability
+p108,1,199,Circle,,,plant_readability
+p109,1,199,Horizontal line,,,plant_readability
+p110,1,199,Horizontal line,,,plant_readability
+p111,1,199,Circle,,,plant_readability
+p112,1,199,No preference,,,plant_readability
+p113,1,199,Horizontal line,,,plant_readability
+p114,1,199,No preference,,,plant_readability
+p115,1,199,Horizontal line,,,plant_readability
+p116,1,199,Vertical line,,,plant_readability
+p117,1,199,Horizontal line,,,plant_readability
+p118,1,199,Circle,,,plant_readability
+p119,1,199,Vertical line,,,plant_readability
+p120,1,199,Horizontal line,,,plant_readability
+p121,1,199,Horizontal line,,,plant_readability
+p122,1,199,Horizontal line,,,plant_readability
+p123,1,199,Horizontal line,,,plant_readability
+p124,1,199,No preference,,,plant_readability
+p125,1,199,Spiral,,,plant_readability
+p126,1,199,No preference,,,plant_readability
+p127,1,199,Horizontal line,,,plant_readability
+p128,1,199,Spiral,,,plant_readability
+p129,1,199,Vertical line,,,plant_readability
+p130,1,199,Spiral,,,plant_readability
+p131,1,199,Spiral,,,plant_readability
+p132,1,199,Horizontal line,,,plant_readability
+p133,1,199,Horizontal line,,,plant_readability
+p134,1,199,Circle,,,plant_readability
+p135,1,199,Circle,,,plant_readability
+p136,1,199,Vertical line,,,plant_readability
+p137,1,199,Horizontal line,,,plant_readability
+p138,1,199,Horizontal line,,,plant_readability
+p139,1,199,Spiral,,,plant_readability
+p140,1,199,Spiral,,,plant_readability
+p141,1,199,Vertical line,,,plant_readability
+p142,1,199,Horizontal line,,,plant_readability
+p143,1,199,Spiral,,,plant_readability
+p144,1,199,Spiral,,,plant_readability
+p145,1,199,Vertical line,,,plant_readability
+p146,1,199,Circle,,,plant_readability
+p147,1,199,Horizontal line,,,plant_readability
+p148,1,199,No preference,,,plant_readability
+p149,1,199,Circle,,,plant_readability
+p150,1,199,Circle,,,plant_readability
+p151,1,199,Horizontal line,,,plant_readability
+p152,1,199,Horizontal line,,,plant_readability
+p153,1,199,Spiral,,,plant_readability
+p154,1,199,Horizontal line,,,plant_readability
+p155,1,199,Circle,,,plant_readability
+p156,1,199,Vertical line,,,plant_readability
+p157,1,199,Vertical line,,,plant_readability
+p158,1,199,Circle,,,plant_readability
+p159,1,199,Horizontal line,,,plant_readability
+p160,1,199,Horizontal line,,,plant_readability
+p161,1,199,Vertical line,,,plant_readability
+p162,1,199,Circle,,,plant_readability
+p163,1,199,Circle,,,plant_readability
+p164,1,199,No preference,,,plant_readability
+p165,1,199,Spiral,,,plant_readability
+p166,1,199,Vertical line,,,plant_readability
+p167,1,199,Circle,,,plant_readability
+p168,1,199,Horizontal line,,,plant_readability
+p169,1,199,No preference,,,plant_readability
+p170,1,199,Horizontal line,,,plant_readability
+p171,1,199,Horizontal line,,,plant_readability
+p172,1,199,Horizontal line,,,plant_readability
+p173,1,199,Vertical line,,,plant_readability
+p174,1,199,Horizontal line,,,plant_readability
+p175,1,199,Spiral,,,plant_readability
+p0,1,200,Very unconfident,,,total_confidence
+p1,1,200,Fairly unconfident,,,total_confidence
+p2,1,200,Very confident,,,total_confidence
+p3,1,200,Very confident,,,total_confidence
+p4,1,200,Very confident,,,total_confidence
+p5,1,200,Fairly confident,,,total_confidence
+p6,1,200,Very confident,,,total_confidence
+p7,1,200,Very unconfident,,,total_confidence
+p8,1,200,Fairly confident,,,total_confidence
+p9,1,200,Very confident,,,total_confidence
+p10,1,200,Very confident,,,total_confidence
+p11,1,200,Very confident,,,total_confidence
+p12,1,200,Fairly confident,,,total_confidence
+p13,1,200,Very confident,,,total_confidence
+p14,1,200,Very confident,,,total_confidence
+p15,1,200,Very confident,,,total_confidence
+p16,1,200,Fairly unconfident,,,total_confidence
+p17,1,200,Very confident,,,total_confidence
+p18,1,200,Fairly confident,,,total_confidence
+p19,1,200,Very confident,,,total_confidence
+p20,1,200,Very confident,,,total_confidence
+p21,1,200,Very confident,,,total_confidence
+p22,1,200,Very unconfident,,,total_confidence
+p23,1,200,Very confident,,,total_confidence
+p24,1,200,Fairly confident,,,total_confidence
+p25,1,200,Very confident,,,total_confidence
+p26,1,200,Very confident,,,total_confidence
+p27,1,200,Very confident,,,total_confidence
+p28,1,200,Very unconfident,,,total_confidence
+p29,1,200,Fairly confident,,,total_confidence
+p30,1,200,Very confident,,,total_confidence
+p31,1,200,Very confident,,,total_confidence
+p32,1,200,Very confident,,,total_confidence
+p33,1,200,Very confident,,,total_confidence
+p34,1,200,Fairly unconfident,,,total_confidence
+p35,1,200,Very confident,,,total_confidence
+p36,1,200,Fairly confident,,,total_confidence
+p37,1,200,Fairly confident,,,total_confidence
+p38,1,200,Very confident,,,total_confidence
+p39,1,200,Very confident,,,total_confidence
+p40,1,200,Very confident,,,total_confidence
+p41,1,200,Very unconfident,,,total_confidence
+p42,1,200,Very confident,,,total_confidence
+p43,1,200,Very confident,,,total_confidence
+p44,1,200,Fairly confident,,,total_confidence
+p45,1,200,Very confident,,,total_confidence
+p46,1,200,Fairly confident,,,total_confidence
+p47,1,200,Very confident,,,total_confidence
+p48,1,200,Very confident,,,total_confidence
+p49,1,200,Very confident,,,total_confidence
+p50,1,200,Very confident,,,total_confidence
+p51,1,200,Very unconfident,,,total_confidence
+p52,1,200,Very confident,,,total_confidence
+p53,1,200,Very unconfident,,,total_confidence
+p54,1,200,Very confident,,,total_confidence
+p55,1,200,Very confident,,,total_confidence
+p56,1,200,Very confident,,,total_confidence
+p57,1,200,Very unconfident,,,total_confidence
+p58,1,200,Very confident,,,total_confidence
+p59,1,200,Very confident,,,total_confidence
+p60,1,200,Fairly unconfident,,,total_confidence
+p61,1,200,Very confident,,,total_confidence
+p62,1,200,Very confident,,,total_confidence
+p63,1,200,Very unconfident,,,total_confidence
+p64,1,200,Fairly confident,,,total_confidence
+p65,1,200,Very confident,,,total_confidence
+p66,1,200,Very unconfident,,,total_confidence
+p67,1,200,Very confident,,,total_confidence
+p68,1,200,Very confident,,,total_confidence
+p69,1,200,Fairly confident,,,total_confidence
+p70,1,200,Very confident,,,total_confidence
+p71,1,200,Very confident,,,total_confidence
+p72,1,200,Very confident,,,total_confidence
+p73,1,200,Very confident,,,total_confidence
+p74,1,200,Very confident,,,total_confidence
+p75,1,200,Very confident,,,total_confidence
+p76,1,200,Very confident,,,total_confidence
+p77,1,200,Very confident,,,total_confidence
+p78,1,200,Very unconfident,,,total_confidence
+p79,1,200,Very confident,,,total_confidence
+p80,1,200,Fairly confident,,,total_confidence
+p81,1,200,Very confident,,,total_confidence
+p82,1,200,Very confident,,,total_confidence
+p83,1,200,Very confident,,,total_confidence
+p84,1,200,Very confident,,,total_confidence
+p85,1,200,Fairly confident,,,total_confidence
+p86,1,200,Very confident,,,total_confidence
+p87,1,200,Very confident,,,total_confidence
+p88,1,200,Very confident,,,total_confidence
+p89,1,200,Fairly confident,,,total_confidence
+p90,1,200,Very confident,,,total_confidence
+p91,1,200,Very confident,,,total_confidence
+p92,1,200,Very unconfident,,,total_confidence
+p93,1,200,Fairly confident,,,total_confidence
+p94,1,200,Very confident,,,total_confidence
+p95,1,200,Very confident,,,total_confidence
+p96,1,200,Very confident,,,total_confidence
+p97,1,200,Fairly unconfident,,,total_confidence
+p98,1,200,Very confident,,,total_confidence
+p99,1,200,Very confident,,,total_confidence
+p100,1,200,Very confident,,,total_confidence
+p101,1,200,Fairly confident,,,total_confidence
+p102,1,200,Neither,,,total_confidence
+p103,1,200,Fairly confident,,,total_confidence
+p104,1,200,Very confident,,,total_confidence
+p105,1,200,Very confident,,,total_confidence
+p106,1,200,Very confident,,,total_confidence
+p107,1,200,Very confident,,,total_confidence
+p108,1,200,Fairly confident,,,total_confidence
+p109,1,200,Fairly confident,,,total_confidence
+p110,1,200,Very confident,,,total_confidence
+p111,1,200,Very confident,,,total_confidence
+p112,1,200,Very confident,,,total_confidence
+p113,1,200,Very confident,,,total_confidence
+p114,1,200,Very confident,,,total_confidence
+p115,1,200,Fairly confident,,,total_confidence
+p116,1,200,Very unconfident,,,total_confidence
+p117,1,200,Very confident,,,total_confidence
+p118,1,200,Very confident,,,total_confidence
+p119,1,200,Fairly unconfident,,,total_confidence
+p120,1,200,Fairly confident,,,total_confidence
+p121,1,200,Very confident,,,total_confidence
+p122,1,200,Fairly confident,,,total_confidence
+p123,1,200,Very unconfident,,,total_confidence
+p124,1,200,Very confident,,,total_confidence
+p125,1,200,Very confident,,,total_confidence
+p126,1,200,Very confident,,,total_confidence
+p127,1,200,Very confident,,,total_confidence
+p128,1,200,Very unconfident,,,total_confidence
+p129,1,200,Very confident,,,total_confidence
+p130,1,200,Very unconfident,,,total_confidence
+p131,1,200,Very confident,,,total_confidence
+p132,1,200,Very confident,,,total_confidence
+p133,1,200,Very confident,,,total_confidence
+p134,1,200,Very confident,,,total_confidence
+p135,1,200,Very confident,,,total_confidence
+p136,1,200,Neither,,,total_confidence
+p137,1,200,Fairly confident,,,total_confidence
+p138,1,200,Very confident,,,total_confidence
+p139,1,200,Fairly confident,,,total_confidence
+p140,1,200,Very confident,,,total_confidence
+p141,1,200,Very confident,,,total_confidence
+p142,1,200,Very unconfident,,,total_confidence
+p143,1,200,Very confident,,,total_confidence
+p144,1,200,Fairly confident,,,total_confidence
+p145,1,200,Fairly confident,,,total_confidence
+p146,1,200,Very confident,,,total_confidence
+p147,1,200,Very confident,,,total_confidence
+p148,1,200,Very confident,,,total_confidence
+p149,1,200,Very unconfident,,,total_confidence
+p150,1,200,Very confident,,,total_confidence
+p151,1,200,Very confident,,,total_confidence
+p152,1,200,Very confident,,,total_confidence
+p153,1,200,Very confident,,,total_confidence
+p154,1,200,Very confident,,,total_confidence
+p155,1,200,Very confident,,,total_confidence
+p156,1,200,Fairly confident,,,total_confidence
+p157,1,200,Very confident,,,total_confidence
+p158,1,200,Very confident,,,total_confidence
+p159,1,200,Very confident,,,total_confidence
+p160,1,200,Very confident,,,total_confidence
+p161,1,200,Very confident,,,total_confidence
+p162,1,200,Very confident,,,total_confidence
+p163,1,200,Very confident,,,total_confidence
+p164,1,200,Fairly confident,,,total_confidence
+p165,1,200,Fairly confident,,,total_confidence
+p166,1,200,Neither,,,total_confidence
+p167,1,200,Very unconfident,,,total_confidence
+p168,1,200,Very confident,,,total_confidence
+p169,1,200,Fairly confident,,,total_confidence
+p170,1,200,Very unconfident,,,total_confidence
+p171,1,200,Very confident,,,total_confidence
+p172,1,200,Very confident,,,total_confidence
+p173,1,200,Very confident,,,total_confidence
+p174,1,200,Very confident,,,total_confidence
+p175,1,200,Fairly confident,,,total_confidence

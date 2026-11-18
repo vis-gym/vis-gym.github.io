@@ -1,0 +1,1 @@
+I am about to show you an image and ask you a question about that image. Answer as best you can based only on the chart and not external knowledge.

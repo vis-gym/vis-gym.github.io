@@ -1,0 +1,13 @@
+{
+  "row": 178,
+  "year": "2024",
+  "first_author": "Alexander Bendeck",
+  "last_author": "John Stasko",
+  "paper_title": "An Empirical Evaluation of the GPT-4 Multimodal Language Model on Visualization Literacy Tasks",
+  "paper_url": "https://doi.org/10.1109/TVCG.2024.3456155",
+  "data_url": "https://osf.io/f39j6/",
+  "doi": "https://doi.org/10.1109/TVCG.2024.3456155",
+  "stimuli": "",
+  "participants": "",
+  "abstract": "Large Language Models (LLMs) like GPT-4 which support multimodal input (i.e., prompts containing images in addition to text) have immense potential to advance visualization research. However, many questions exist about the visual capabilities of such models, including how well they can read and interpret visually represented data. In our work, we address this question by evaluating the GPT-4 multimodal LLM using a suite of task sets meant to assess the model’s visualization literacy. The task sets are based on existing work in the visualization community addressing both automated chart question answering and human visualization literacy across multiple settings. Our assessment finds that GPT-4 can perform tasks such as recognizing trends and extreme values, and also demonstrates some understanding of visualization design best-practices. By contrast, GPT-4 struggles with simple value retrieval when not provided with the original dataset, lacks the ability to reliably distinguish between colors in charts, and occasionally suffers from hallucination and inconsistency. We conclude by reflecting on the model’s strengths and weaknesses as well as the potential utility of models like GPT-4 for future visualization research. We also release all code, stimuli, and results for the task sets at the following link: https://doi.org/10.17605/OSF.IO/F39J6"
+}

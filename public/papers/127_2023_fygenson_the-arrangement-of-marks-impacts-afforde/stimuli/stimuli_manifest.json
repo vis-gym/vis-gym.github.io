@@ -1,0 +1,133 @@
+{
+  "files": [
+    {
+      "file": "exp1_a.jpg",
+      "experiment": "experiment_1",
+      "condition": "a",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 1: Sorting/exp1_a.jpg",
+      "description": "Bar chart stimulus shown to participants (alphabetical order (bars ordered A,E,F,J,K,M, unsorted by value)); one of 4 arrangement conditions for experiment 1."
+    },
+    {
+      "file": "exp1_b.jpg",
+      "experiment": "experiment_1",
+      "condition": "b",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 1: Sorting/exp1_b.jpg",
+      "description": "Bar chart stimulus shown to participants (wildcard / centrally-peaked order (tallest bars centered, '^' shape)); one of 4 arrangement conditions for experiment 1."
+    },
+    {
+      "file": "exp1_c.jpg",
+      "experiment": "experiment_1",
+      "condition": "c",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 1: Sorting/exp1_c.jpg",
+      "description": "Bar chart stimulus shown to participants (descending order (bars sorted largest to smallest, left to right)); one of 4 arrangement conditions for experiment 1."
+    },
+    {
+      "file": "exp1_d.jpg",
+      "experiment": "experiment_1",
+      "condition": "d",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 1: Sorting/exp1_d.jpg",
+      "description": "Bar chart stimulus shown to participants (ascending order (bars sorted smallest to largest, left to right)); one of 4 arrangement conditions for experiment 1."
+    },
+    {
+      "file": "exp2_a.jpg",
+      "experiment": "experiment_2",
+      "condition": "a",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 2: Stacking/exp2_a.jpg",
+      "description": "Bar chart stimulus shown to participants (side-by-side bars, 3 groups of 2); one of 4 arrangement conditions for experiment 2."
+    },
+    {
+      "file": "exp2_b.jpg",
+      "experiment": "experiment_2",
+      "condition": "b",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 2: Stacking/exp2_b.jpg",
+      "description": "Bar chart stimulus shown to participants (side-by-side bars, 2 groups of 3); one of 4 arrangement conditions for experiment 2."
+    },
+    {
+      "file": "exp2_c.jpg",
+      "experiment": "experiment_2",
+      "condition": "c",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 2: Stacking/exp2_c.jpg",
+      "description": "Bar chart stimulus shown to participants (stacked bars, 3 groups of 2); one of 4 arrangement conditions for experiment 2."
+    },
+    {
+      "file": "exp2_d.jpg",
+      "experiment": "experiment_2",
+      "condition": "d",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 2: Stacking/exp2_d.jpg",
+      "description": "Bar chart stimulus shown to participants (stacked bars, 2 groups of 3); one of 4 arrangement conditions for experiment 2."
+    },
+    {
+      "file": "exp3_a.jpg",
+      "experiment": "experiment_3",
+      "condition": "a",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 3: Grouping with spacing/exp3_a.jpg",
+      "description": "Bar chart stimulus shown to participants (uniform spacing, ordering 1 (no implied sub-grouping)); one of 4 arrangement conditions for experiment 3."
+    },
+    {
+      "file": "exp3_b.jpg",
+      "experiment": "experiment_3",
+      "condition": "b",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 3: Grouping with spacing/exp3_b.jpg",
+      "description": "Bar chart stimulus shown to participants (uniform spacing, ordering 2 (no implied sub-grouping)); one of 4 arrangement conditions for experiment 3."
+    },
+    {
+      "file": "exp3_c.jpg",
+      "experiment": "experiment_3",
+      "condition": "c",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 3: Grouping with spacing/exp3_c.jpg",
+      "description": "Bar chart stimulus shown to participants (irregular spacing implying 3 groups of 2 bars); one of 4 arrangement conditions for experiment 3."
+    },
+    {
+      "file": "exp3_d.jpg",
+      "experiment": "experiment_3",
+      "condition": "d",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 3: Grouping with spacing/exp3_d.jpg",
+      "description": "Bar chart stimulus shown to participants (irregular spacing implying 2 groups of 3 bars); one of 4 arrangement conditions for experiment 3."
+    },
+    {
+      "file": "exp4_a.jpg",
+      "experiment": "experiment_4",
+      "condition": "a",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 4: Grouping with spacing vs color/exp4_a.jpg",
+      "description": "Bar chart stimulus shown to participants (color grouping (CVD-friendly palette), regular spacing, ordering 1); one of 4 arrangement conditions for experiment 4."
+    },
+    {
+      "file": "exp4_b.jpg",
+      "experiment": "experiment_4",
+      "condition": "b",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 4: Grouping with spacing vs color/exp4_b.jpg",
+      "description": "Bar chart stimulus shown to participants (color grouping (CVD-friendly palette), regular spacing, ordering 2); one of 4 arrangement conditions for experiment 4."
+    },
+    {
+      "file": "exp4_c.jpg",
+      "experiment": "experiment_4",
+      "condition": "c",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 4: Grouping with spacing vs color/exp4_c.jpg",
+      "description": "Bar chart stimulus shown to participants (spacing grouping, 3 groups of 2 (uncolored, replicates Exp. 3)); one of 4 arrangement conditions for experiment 4."
+    },
+    {
+      "file": "exp4_d.jpg",
+      "experiment": "experiment_4",
+      "condition": "d",
+      "source": "copied",
+      "origin": "data/osf_bvy95/Stimuli/Exp 4: Grouping with spacing vs color/exp4_d.jpg",
+      "description": "Bar chart stimulus shown to participants (spacing grouping, 2 groups of 3 (uncolored, replicates Exp. 3)); one of 4 arrangement conditions for experiment 4."
+    }
+  ],
+  "gaps": []
+}

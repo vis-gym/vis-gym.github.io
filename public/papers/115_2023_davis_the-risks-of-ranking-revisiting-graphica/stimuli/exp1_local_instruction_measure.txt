@@ -1,0 +1,16 @@
+Press the "Next" button in order to start the experiment!
+
+Do not press the "Back" button on your browser at any time. Doing so will lose any progress.
+
+You may start whenever you are ready.
+
+[each trial:]
+What percentage does the smaller value represent of the larger value? (The two selected values are marked with ●.)
+
+[number box] %
+Please click Next or hit enter to move to the next trial.
+
+[every 60 trials:]
+Take a break! There will be 60 trials in the next section before another break or the end of the experiment.
+
+You can start whenever you are ready.
