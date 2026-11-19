@@ -1,0 +1,2758 @@
+{
+ "files": [
+  {
+   "file": "ggr_instructions.txt",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/instructions.txt",
+   "description": "General task instructions for ggr, prepended to every model prompt"
+  },
+  {
+   "file": "ggr_ggr_item1.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item1.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item10.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item10.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item11.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item11.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item12.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item12.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item13.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item13.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item2.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item2.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item3.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item3.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item4.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item4.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item5.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item5.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item6.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item6.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item7.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item7.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item8.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item8.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "ggr_ggr_item9.png",
+   "test": "ggr",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/ggr/images/ggr_item9.png",
+   "description": "ggr item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_instructions.txt",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/instructions.txt",
+   "description": "General task instructions for vlat, prepended to every model prompt"
+  },
+  {
+   "file": "vlat_item1.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item1.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item2.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item2.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item3.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item3.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item4.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item4.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item5.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item5.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item6.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item6.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item7.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item7.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item8.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item8.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item9.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item9.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item10.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item10.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item11.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item11.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item12.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item12.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item14.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item14.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item15.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item15.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item16.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item16.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item17.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item17.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item18.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item18.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item19.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item19.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item20.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item20.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item21.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item21.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item22.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item22.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item23.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item23.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item25.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item25.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item26.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item26.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item27.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item27.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item28.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item28.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item29.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item29.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item30.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item30.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item31.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item31.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item32.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item32.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item35.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item35.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item36.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item36.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item37.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item37.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item38.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item38.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item40.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item40.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item41.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item41.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item42.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item42.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item43.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item43.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item44.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item44.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item45.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item45.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item47.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item47.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item48.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item48.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item49.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item49.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item50.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item50.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item51.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item51.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item52.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item52.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item53.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item53.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item55.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item55.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item56.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item56.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item57.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item57.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item59.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item59.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item60.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item60.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "vlat_item61.png",
+   "test": "vlat",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/vlat/images/item61.png",
+   "description": "vlat item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_instructions.txt",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/instructions.txt",
+   "description": "General task instructions for calvi, prepended to every model prompt"
+  },
+  {
+   "file": "calvi_N1.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N1.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N2.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N2.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N3.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N3.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N4.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N4.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N5.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N5.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N6.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N6.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N7.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N7.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N8.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N8.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N9.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N9.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N10.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N10.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N11.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N11.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N12.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N12.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N13.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N13.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N14.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N14.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_N15.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-standard/images/N15.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T1.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T1.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T2.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T2.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T3.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T3.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T4.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T4.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T5.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T5.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T6.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T6.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T8.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T8.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T9.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T9.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T10.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T10.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T11.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T11.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T12.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T12.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T13.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T13.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T14.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T14.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T15.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T15.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T16.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T16.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T17.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T17.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T18.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T18.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T19.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T19.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T20.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T20.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T21.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T21.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T22.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T22.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T23.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T23.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T25.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T25.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T26.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T26.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T27.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T27.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T28.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T28.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T29.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T29.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T30.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T30.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T34.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T34.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T35.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T35.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T36.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T36.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T37.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T37.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T38.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T38.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T39.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T39.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T40.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T40.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T42.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T42.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T43.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T43.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T44.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T44.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T45.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T45.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T46.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T46.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T47.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T47.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T48.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T48.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T49.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T49.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T50.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T50.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "calvi_T52.png",
+   "test": "calvi",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/calvi-trick/images/T52.png",
+   "description": "calvi item image, shown with 1 question(s)"
+  },
+  {
+   "file": "holf_instructions.txt",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/instructions.txt",
+   "description": "General task instructions for holf, prepended to every model prompt"
+  },
+  {
+   "file": "holf_movies_x1genre_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1genre_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1status_facetname_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1status_facetname_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1name_facetsize_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1name_facetsize_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1state_facetsex_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1state_facetsex_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1carrier_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1carrier_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1class_type_facetgrade_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1class_type_facetgrade_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1happy_facetregion_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1happy_facetregion_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1decade_facetoccRole_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1decade_facetoccRole_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1name_facetsize_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1name_facetsize_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1grade_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1grade_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1origin_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1origin_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1grade_facetclass_type_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1grade_facetclass_type_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1origin_facetcarrier_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1origin_facetcarrier_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1name_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1name_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1name_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1name_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1occRole_facetdecade_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1occRole_facetdecade_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_movies_x1decade_facetgenre_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1decade_facetgenre_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1state_facetsex_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1state_facetsex_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1region_facethappy_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1region_facethappy_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1carrier_facetorigin_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1carrier_facetorigin_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1decade_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1decade_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1status_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1status_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1region_facethappy_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1region_facethappy_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_movies_x1genre_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1genre_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1occRole_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1occRole_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1class_type_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1class_type_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1origin_facetcarrier_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1origin_facetcarrier_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1happy_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1happy_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1state_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1state_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1region_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1region_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_movies_x1decade_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1decade_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_movies_x1genre_facetdecade_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1genre_facetdecade_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1sex_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1sex_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1occRole_facetdecade_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1occRole_facetdecade_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1name_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1name_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1sex_facetstate_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1sex_facetstate_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1status_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1status_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_movies_x1genre_facetdecade_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1genre_facetdecade_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1happy_facetregion_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1happy_facetregion_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1size_facetname_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1size_facetname_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1size_facetname_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1size_facetname_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1size_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1size_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1size_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1size_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_movies_x1decade_facetgenre_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1decade_facetgenre_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_pizza_x1name_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/pizza/pizza_x1name_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_movies_x1decade_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/movies/movies_x1decade_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1grade_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1grade_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1name_facetstatus_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1name_facetstatus_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1name_facetstatus_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1name_facetstatus_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_storms_x1status_facetname_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/storms/storms_x1status_facetname_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1grade_facetclass_type_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1grade_facetclass_type_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1sex_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1sex_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1sex_facetstate_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1sex_facetstate_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_race_x1state_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/race/race_x1state_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1class_type_facetgrade_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1class_type_facetgrade_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_star_x1class_type_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/star/star_x1class_type_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1origin_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1origin_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1occRole_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1occRole_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1carrier_facetorigin_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1carrier_facetorigin_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_flights_x1carrier_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/flights/flights_x1carrier_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1happy_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1happy_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1decade_facetoccRole_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1decade_facetoccRole_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_accidents_x1decade_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/accidents/accidents_x1decade_facetnone_reorderlarge_to_small_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf_happiness_x1region_facetnone_reorderalph_colorgrey20.png",
+   "test": "holf",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf/images/happiness/happiness_x1region_facetnone_reorderalph_colorgrey20.png",
+   "description": "holf item image, shown with 6 question(s)"
+  },
+  {
+   "file": "holf2_instructions.txt",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/instructions.txt",
+   "description": "General task instructions for holf2, prepended to every model prompt"
+  },
+  {
+   "file": "holf2_line_flights_5_v2schedc_v3airport_v4airline_v5weekend.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_flights_5_v2schedc_v3airport_v4airline_v5weekend.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_hawk_4_v2wingc_v3years_v4tail_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_hawk_4_v2wingc_v3years_v4tail_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_quarrel_4_v2groupsc_v3duration_v4history_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_quarrel_4_v2groupsc_v3duration_v4history_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_ofp_4_v2chronicc_v3region_v4health_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_ofp_4_v2chronicc_v3region_v4health_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_quarrel_3_v2groupsc_v3duration_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_quarrel_3_v2groupsc_v3duration_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_flights_5_v2schedc_v3airport_v4airline_v5weekend.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_flights_5_v2schedc_v3airport_v4airline_v5weekend.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_fatal_5_v2popc_v3region_v4age_v5years.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_fatal_5_v2popc_v3region_v4age_v5years.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_star_5_v2teacherc_v3area_v4math_v5birthyear.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_star_5_v2teacherc_v3area_v4math_v5birthyear.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_star_3_v2teacherc_v3area_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_star_3_v2teacherc_v3area_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_quarrel_5_v2groupsc_v3duration_v4history_v5era.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_quarrel_5_v2groupsc_v3duration_v4history_v5era.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_ofp_4_v2chronicc_v3region_v4health_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_ofp_4_v2chronicc_v3region_v4health_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_star_3_v2teacherc_v3area_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_star_3_v2teacherc_v3area_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_rice_5_v2pricec_v3variety_v4region_v5size.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_rice_5_v2pricec_v3variety_v4region_v5size.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_fatal_5_v2popc_v3region_v4age_v5years.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_fatal_5_v2popc_v3region_v4age_v5years.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_flights_3_v2schedc_v3airport_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_flights_3_v2schedc_v3airport_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_fatal_3_v2popc_v3region_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_fatal_3_v2popc_v3region_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_bird_3_v2heightc_v3sky_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_bird_3_v2heightc_v3sky_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_fatal_5_v2popc_v3region_v4age_v5years.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_fatal_5_v2popc_v3region_v4age_v5years.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_bird_4_v2heightc_v3sky_v4engine_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_bird_4_v2heightc_v3sky_v4engine_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_ofp_3_v2chronicc_v3region_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_ofp_3_v2chronicc_v3region_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_star_4_v2teacherc_v3area_v4math_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_star_4_v2teacherc_v3area_v4math_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_flights_4_v2schedc_v3airport_v4airline_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_flights_4_v2schedc_v3airport_v4airline_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_hawk_4_v2wingc_v3years_v4tail_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_hawk_4_v2wingc_v3years_v4tail_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_bird_5_v2heightc_v3sky_v4engine_v5time.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_bird_5_v2heightc_v3sky_v4engine_v5time.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_hawk_3_v2wingc_v3years_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_hawk_3_v2wingc_v3years_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_fatal_3_v2popc_v3region_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_fatal_3_v2popc_v3region_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_star_4_v2teacherc_v3area_v4math_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_star_4_v2teacherc_v3area_v4math_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_rice_4_v2pricec_v3variety_v4region_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_rice_4_v2pricec_v3variety_v4region_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_ofp_5_v2chronicc_v3region_v4health_v5age.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_ofp_5_v2chronicc_v3region_v4health_v5age.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_bird_3_v2heightc_v3sky_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_bird_3_v2heightc_v3sky_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_rice_4_v2pricec_v3variety_v4region_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_rice_4_v2pricec_v3variety_v4region_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_rice_3_v2pricec_v3variety_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_rice_3_v2pricec_v3variety_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_hawk_3_v2wingc_v3years_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_hawk_3_v2wingc_v3years_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_bird_4_v2heightc_v3sky_v4engine_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_bird_4_v2heightc_v3sky_v4engine_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_rice_4_v2pricec_v3variety_v4region_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_rice_4_v2pricec_v3variety_v4region_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_quarrel_3_v2groupsc_v3duration_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_quarrel_3_v2groupsc_v3duration_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_bird_5_v2heightc_v3sky_v4engine_v5time.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_bird_5_v2heightc_v3sky_v4engine_v5time.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_rice_3_v2pricec_v3variety_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_rice_3_v2pricec_v3variety_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_hawk_3_v2wingc_v3years_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_hawk_3_v2wingc_v3years_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_flights_4_v2schedc_v3airport_v4airline_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_flights_4_v2schedc_v3airport_v4airline_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_fatal_4_v2popc_v3region_v4age_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_fatal_4_v2popc_v3region_v4age_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_ofp_5_v2chronicc_v3region_v4health_v5age.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_ofp_5_v2chronicc_v3region_v4health_v5age.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_star_4_v2teacherc_v3area_v4math_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_star_4_v2teacherc_v3area_v4math_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_quarrel_5_v2groupsc_v3duration_v4history_v5era.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_quarrel_5_v2groupsc_v3duration_v4history_v5era.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_ofp_4_v2chronicc_v3region_v4health_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_ofp_4_v2chronicc_v3region_v4health_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_flights_5_v2schedc_v3airport_v4airline_v5weekend.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_flights_5_v2schedc_v3airport_v4airline_v5weekend.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_hawk_4_v2wingc_v3years_v4tail_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_hawk_4_v2wingc_v3years_v4tail_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_rice_5_v2pricec_v3variety_v4region_v5size.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_rice_5_v2pricec_v3variety_v4region_v5size.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_flights_3_v2schedc_v3airport_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_flights_3_v2schedc_v3airport_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_star_5_v2teacherc_v3area_v4math_v5birthyear.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_star_5_v2teacherc_v3area_v4math_v5birthyear.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_quarrel_5_v2groupsc_v3duration_v4history_v5era.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_quarrel_5_v2groupsc_v3duration_v4history_v5era.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_fatal_3_v2popc_v3region_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_fatal_3_v2popc_v3region_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_star_3_v2teacherc_v3area_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_star_3_v2teacherc_v3area_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_ofp_3_v2chronicc_v3region_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_ofp_3_v2chronicc_v3region_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_fatal_4_v2popc_v3region_v4age_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_fatal_4_v2popc_v3region_v4age_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_hawk_5_v2wingc_v3years_v4tail_v5species.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_hawk_5_v2wingc_v3years_v4tail_v5species.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_bird_3_v2heightc_v3sky_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_bird_3_v2heightc_v3sky_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_bird_5_v2heightc_v3sky_v4engine_v5time.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_bird_5_v2heightc_v3sky_v4engine_v5time.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_hawk_5_v2wingc_v3years_v4tail_v5species.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_hawk_5_v2wingc_v3years_v4tail_v5species.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_fatal_4_v2popc_v3region_v4age_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_fatal_4_v2popc_v3region_v4age_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_star_5_v2teacherc_v3area_v4math_v5birthyear.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_star_5_v2teacherc_v3area_v4math_v5birthyear.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_ofp_5_v2chronicc_v3region_v4health_v5age.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_ofp_5_v2chronicc_v3region_v4health_v5age.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_hawk_5_v2wingc_v3years_v4tail_v5species.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_hawk_5_v2wingc_v3years_v4tail_v5species.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_quarrel_4_v2groupsc_v3duration_v4history_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_quarrel_4_v2groupsc_v3duration_v4history_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_rice_5_v2pricec_v3variety_v4region_v5size.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_rice_5_v2pricec_v3variety_v4region_v5size.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_quarrel_3_v2groupsc_v3duration_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_quarrel_3_v2groupsc_v3duration_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_line_rice_3_v2pricec_v3variety_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/line_rice_3_v2pricec_v3variety_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_flights_4_v2schedc_v3airport_v4airline_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_flights_4_v2schedc_v3airport_v4airline_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_flights_3_v2schedc_v3airport_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_flights_3_v2schedc_v3airport_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_quarrel_4_v2groupsc_v3duration_v4history_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_quarrel_4_v2groupsc_v3duration_v4history_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_scatter_ofp_3_v2chronicc_v3region_v4none_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/scatter_ofp_3_v2chronicc_v3region_v4none_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "holf2_bar_bird_4_v2heightc_v3sky_v4engine_v5none.png",
+   "test": "holf2",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/holf2/images/bar_bird_4_v2heightc_v3sky_v4engine_v5none.png",
+   "description": "holf2 item image, shown with 3 question(s)"
+  },
+  {
+   "file": "chartqa_instructions.txt",
+   "test": "chartqa",
+   "source": "copied",
+   "origin": "data/human-vlm-datavis-eval/stimuli/chartqa-test-continuous-human/instructions.txt",
+   "description": "General task instructions for chartqa, prepended to every model prompt"
+  },
+  {
+   "file": "chartqa_4027.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/4027.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_24410.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_24410.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_83566.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_83566.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_5289.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_5289.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_40153.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_40153.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_61392.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_61392.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_21450.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_21450.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_61547.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_61547.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_15948.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/15948.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60057.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60057.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_41019.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_41019.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_61171.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_61171.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_1390.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_1390.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_102373.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_102373.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_20767.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_20767.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_102598.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_102598.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_101066.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_101066.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_OECD_FREIGHT_TRANSPORT_FIN_HUN_IND_PRT_RUS_000027.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/OECD_FREIGHT_TRANSPORT_FIN_HUN_IND_PRT_RUS_000027.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_44409110004673.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/44409110004673.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_83220.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_83220.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_102722.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_102722.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_20505.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_20505.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_63093.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_63093.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_41080.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_41080.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60831.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60831.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_101180.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_101180.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_81097.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_81097.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_23986.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_23986.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_103626.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_103626.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_60191.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_60191.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_42594.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_42594.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60236.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60236.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_103143.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_103143.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_41011.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_41011.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_1375.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_1375.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_83450.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_83450.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_00339007006077.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/00339007006077.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_40725.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_40725.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_81124.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_81124.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_6133.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_6133.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_9987.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/9987.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_5896.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_5896.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_20758.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_20758.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_20801.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_20801.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_21914.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_21914.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_4643.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/4643.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_22224.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_22224.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_OECD_TRIADIC_PATENT_FAMILIES_FIN_IND_ISL_TUR_TWN_000063.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/OECD_TRIADIC_PATENT_FAMILIES_FIN_IND_ISL_TUR_TWN_000063.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_21855.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_21855.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_41595.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_41595.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_5155.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_5155.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_3697.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_3697.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_100103.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_100103.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_3755.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_3755.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_1303.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_1303.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_695.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_695.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_40213.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_40213.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_64970172000121.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/64970172000121.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60139.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60139.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_102995.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_102995.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60647.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60647.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_4491.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_4491.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_3527.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_3527.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_07019431002493.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/07019431002493.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_100291.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_100291.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_42501.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_42501.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_1164.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_1164.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_OECD_VIOLENCE_AGAINST_WOMEN_JAM_ZWE_000001.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/OECD_VIOLENCE_AGAINST_WOMEN_JAM_ZWE_000001.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_103994.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_103994.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_102398.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_102398.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_20535.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_20535.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_62073.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_62073.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_61646.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_61646.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_1825.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_1825.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60979.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60979.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_259.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_259.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_102330.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_102330.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_24616.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_24616.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_81877.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_81877.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_43517.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_43517.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_80126.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_80126.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_20569.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_20569.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_1909.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/1909.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_60077.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_60077.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_60996.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_60996.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_5983.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/5983.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_22831.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_22831.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_8746.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/8746.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_26767847002300.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/26767847002300.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_102078.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_102078.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_40380.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_40380.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_24416.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_24416.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60260.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60260.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_100493.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_100493.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_1536.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_1536.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_1890.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/1890.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_73300861001565.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/73300861001565.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_20328.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_20328.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_4168.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_4168.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_24282.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_24282.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_959.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_959.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_80908.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_80908.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_3409.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_3409.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_100017.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_100017.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_24515.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_24515.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_21632943006027.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/21632943006027.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60784.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60784.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_multi_col_60221.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/multi_col_60221.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_62475.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_62475.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_43047.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_43047.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_4949.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_4949.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_61941.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_61941.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_41814.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_41814.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_08686631003296.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/08686631003296.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_24236.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_24236.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_4526.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/4526.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_83537.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_83537.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_24226.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_24226.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_26027711018261.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/26027711018261.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_10146.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/10146.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_3841.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/3841.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_103366.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_103366.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_101935.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_101935.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_two_col_61362.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/two_col_61362.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  },
+  {
+   "file": "chartqa_33677405003863.png",
+   "test": "chartqa",
+   "source": "downloaded",
+   "origin": "https://data-visualization-benchmark.s3.us-west-2.amazonaws.com/chartqa-test-continuous/images/33677405003863.png",
+   "description": "chartqa item image, shown with 1 question(s)"
+  }
+ ],
+ "gaps": [
+  "ChartQA-Human images are not bundled in data/; downloaded 125 from the authors' S3 bucket (image_link in chartqa-test-continuous-human/questions.csv)."
+ ]
+}

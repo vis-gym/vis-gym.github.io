@@ -1,0 +1,1 @@
+I am about to show you an image and a CSV or JSON dataset used to create the image. I will ask you a question about the image. Answer as best you can based only on the chart and data, and not external knowledge.

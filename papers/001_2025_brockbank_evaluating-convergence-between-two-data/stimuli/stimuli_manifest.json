@@ -1,0 +1,536 @@
+{
+  "files": [
+    {
+      "file": "exp1_ggr_ggr_item1.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item1.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 1 of 13. Maps to data_processed.csv gcbID item_1."
+    },
+    {
+      "file": "exp1_ggr_ggr_item10.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item10.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 10 of 13. Maps to data_processed.csv gcbID item_10."
+    },
+    {
+      "file": "exp1_ggr_ggr_item11.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item11.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 11 of 13. Maps to data_processed.csv gcbID item_11."
+    },
+    {
+      "file": "exp1_ggr_ggr_item12.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item12.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 12 of 13. Maps to data_processed.csv gcbID item_12."
+    },
+    {
+      "file": "exp1_ggr_ggr_item13.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item13.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 13 of 13. Maps to data_processed.csv gcbID item_13."
+    },
+    {
+      "file": "exp1_ggr_ggr_item2.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item2.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 2 of 13. Maps to data_processed.csv gcbID item_2."
+    },
+    {
+      "file": "exp1_ggr_ggr_item3.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item3.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 3 of 13. Maps to data_processed.csv gcbID item_3."
+    },
+    {
+      "file": "exp1_ggr_ggr_item4.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item4.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 4 of 13. Maps to data_processed.csv gcbID item_4."
+    },
+    {
+      "file": "exp1_ggr_ggr_item5.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item5.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 5 of 13. Maps to data_processed.csv gcbID item_5."
+    },
+    {
+      "file": "exp1_ggr_ggr_item6.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item6.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 6 of 13. Maps to data_processed.csv gcbID item_6."
+    },
+    {
+      "file": "exp1_ggr_ggr_item7.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item7.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 7 of 13. Maps to data_processed.csv gcbID item_7."
+    },
+    {
+      "file": "exp1_ggr_ggr_item8.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item8.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 8 of 13. Maps to data_processed.csv gcbID item_8."
+    },
+    {
+      "file": "exp1_ggr_ggr_item9.png",
+      "experiment": "experiment_1",
+      "condition": "ggr",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_ggr_ggr_item9.png",
+      "description": "GGR (Galesic & Garcia-Retamero, 2011) test-item chart image shown to participants; item 9 of 13. Maps to data_processed.csv gcbID item_9."
+    },
+    {
+      "file": "exp1_vlat_item1.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item1.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 1 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item10.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item10.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 10 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item11.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item11.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 11 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item12.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item12.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 12 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item14.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item14.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 14 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item15.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item15.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 15 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item16.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item16.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 16 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item17.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item17.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 17 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item18.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item18.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 18 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item19.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item19.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 19 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item2.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item2.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 2 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item20.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item20.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 20 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item21.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item21.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 21 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item22.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item22.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 22 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item23.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item23.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 23 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item25.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item25.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 25 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item26.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item26.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 26 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item27.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item27.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 27 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item28.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item28.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 28 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item29.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item29.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 29 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item3.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item3.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 3 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item30.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item30.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 30 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item31.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item31.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 31 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item32.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item32.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 32 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item35.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item35.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 35 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item36.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item36.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 36 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item37.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item37.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 37 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item38.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item38.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 38 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item4.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item4.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 4 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item40.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item40.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 40 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item41.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item41.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 41 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item42.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item42.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 42 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item43.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item43.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 43 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item44.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item44.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 44 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item45.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item45.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 45 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item47.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item47.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 47 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item48.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item48.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 48 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item49.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item49.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 49 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item5.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item5.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 5 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item50.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item50.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 50 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item51.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item51.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 51 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item52.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item52.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 52 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item53.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item53.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 53 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item55.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item55.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 55 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item56.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item56.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 56 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item57.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item57.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 57 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item59.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item59.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 59 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item6.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item6.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 6 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item60.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item60.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 60 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item61.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item61.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 61 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item7.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item7.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 7 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item8.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item8.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 8 (1..61 numbering with gaps, following the original VLAT bank)."
+    },
+    {
+      "file": "exp1_vlat_item9.png",
+      "experiment": "experiment_1",
+      "condition": "vlat",
+      "source": "from_paper",
+      "origin": "data/visualization_literacy_convergent_validity/assets/exp1_vlat_item9.png",
+      "description": "VLAT (Lee, Kim & Kwon, 2016) test-item chart image shown to participants; original VLAT item number 9 (1..61 numbering with gaps, following the original VLAT bank)."
+    }
+  ],
+  "gaps": [
+    "VLAT item numbering: the 53 VLAT images use the original VLAT test-bank item numbers (1..61 with gaps at 13, 24, 33, 34, 39, 46, 54, 58). These do NOT equal the data_processed.csv gcbID values (item_14..item_73) or origStudy_order_num (q_01..q_59). The item<->image mapping is positional: VLAT trials ordered by origStudy_order_num map one-to-one, in order, onto the VLAT images sorted ascending by number. This was verified by inspecting several images against their prompts (e.g. the first VLAT trial 'price of a barrel of oil in February 2015' <-> exp1_vlat_item1.png, a 'Monthly Oil Price History in 2015' line chart).",
+    "Procedure/results figures are intentionally excluded from stimuli/: the repo's schematic test-overview asset (assets/stimuli_task_procedure.png / paper Fig. 1) and the paper's results figures are a procedure schematic and results plots respectively, not participant-facing stimuli."
+  ]
+}

@@ -1,0 +1,1 @@
+I am about to show you an image and ask you a multiple choice question about that image. Select the BEST answer, based only on the chart and not external knowledge. DO NOT GUESS. Please answer “Omit” if you are not sure about your answer or your answer is based on a guess.

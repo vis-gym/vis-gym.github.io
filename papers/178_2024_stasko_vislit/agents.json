@@ -1,0 +1,16 @@
+[
+  {
+    "id": "gpt-4-1106-vision-preview",
+    "label": "GPT-4V",
+    "kind": "model",
+    "responses": "responses.csv",
+    "hyperparameters": {
+      "temperature": 0,
+      "max_tokens": "300 (VLAT, CQA image-only); 500 (CQA with data, Deceptive Design, Title Misalignment)",
+      "runs_per_item": "3 (main task sets); 1 (replication study)",
+      "api_model_name": "gpt-4-vision-preview",
+      "prompt": "system: <global_instr> | user: <task instructions> | [user: Here is the data: <csv>] | user: [<question> (+ ' ' + '; '-separated options for VLAT), <image>]"
+    },
+    "source": "paper Sec. 3 (model version, temperature 0, three runs, Jan 15-Feb 15 2024); max_tokens and message structure from the *_run.py scripts in the OSF archive"
+  }
+]

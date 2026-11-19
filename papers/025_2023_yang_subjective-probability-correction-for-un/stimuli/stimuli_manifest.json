@@ -1,0 +1,256 @@
+{
+  "files": [
+    {
+      "file": "exp1_histogram_0.1.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.1.png"
+    },
+    {
+      "file": "exp1_histogram_0.19.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.19.png"
+    },
+    {
+      "file": "exp1_histogram_0.28.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.28.png"
+    },
+    {
+      "file": "exp1_histogram_0.37.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.37.png"
+    },
+    {
+      "file": "exp1_histogram_0.46.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.46.png"
+    },
+    {
+      "file": "exp1_histogram_0.54.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.54.png"
+    },
+    {
+      "file": "exp1_histogram_0.63.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.63.png"
+    },
+    {
+      "file": "exp1_histogram_0.72.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.72.png"
+    },
+    {
+      "file": "exp1_histogram_0.81.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.81.png"
+    },
+    {
+      "file": "exp1_histogram_0.9.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/original/0.9.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.1.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.1.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.19.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.19.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.28.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.28.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.37.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.37.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.46.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.46.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.54.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.54.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.63.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.63.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.72.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.72.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.81.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.81.png"
+    },
+    {
+      "file": "exp2_histogram_normal_0.9.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-normal/png/normal-forecast0.9.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.1.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.1.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.19.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.19.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.28.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.28.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.37.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.37.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.46.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.46.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.54.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.54.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.63.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.63.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.72.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.72.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.81.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.81.png"
+    },
+    {
+      "file": "exp2_histogram_skew-normal_0.9.png",
+      "origin": "copied from data/osf_kcwxm/data and analysis/r_generated_charts/adjusted-skew/png/skew-forecast0.9.png"
+    },
+    {
+      "file": "exp1_text_0.1.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.1.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.1.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.19.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.19.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.19.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.28.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.28.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.28.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.37.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.37.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.37.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.46.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.46.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.46.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.54.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.54.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.54.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.63.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.63.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.63.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.72.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.72.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.72.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.81.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.81.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.81.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp1_text_0.9.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_normal_0.9.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "exp2_text_skew-normal_0.9.txt",
+      "origin": "reconstructed: template from training_materials/text.pdf, numbers per process_stimuli.py"
+    },
+    {
+      "file": "histogram_local_instruction.txt",
+      "origin": "training_materials/histogram.pdf"
+    },
+    {
+      "file": "text_global_instruction.txt",
+      "origin": "training_materials/text.pdf"
+    },
+    {
+      "file": "histogram_global_instruction.txt",
+      "origin": "training_materials/histogram.pdf"
+    }
+  ]
+}
